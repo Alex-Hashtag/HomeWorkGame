@@ -1,0 +1,880 @@
+{
+  "category": "Pop Culture",
+  "questions": [
+    {
+      "question": "What is the name of the fictional wizarding school in the Harry Potter series?",
+      "correct_answer": "Hogwarts School of Witchcraft and Wizardry",
+      "incorrect_answers": ["Beauxbatons Academy of Magic", "Ilvermorny School of Witchcraft and Wizardry", "Durmstrang Institute"]
+    },
+    {
+      "question": "Which Disney movie features a character named Simba?",
+      "correct_answer": "The Lion King",
+      "incorrect_answers": ["Aladdin", "Beauty and the Beast", "Frozen"]
+    },
+    {
+      "question": "Who played the character of Jack Dawson in the movie Titanic?",
+      "correct_answer": "Leonardo DiCaprio",
+      "incorrect_answers": ["Brad Pitt", "Tom Hanks", "Johnny Depp"]
+    },
+    {
+      "question": "What popular American TV series is set in the fictional town of Springfield?",
+      "correct_answer": "The Simpsons",
+      "incorrect_answers": ["Family Guy", "South Park", "Futurama"]
+    },
+    {
+      "question": "Which artist released the album '25' in 2015?",
+      "correct_answer": "Adele",
+      "incorrect_answers": ["Beyoncé", "Taylor Swift", "Rihanna"]
+    },
+    {
+      "question": "Who won the Academy Award for Best Actor for his role in the film 'The Revenant'?",
+      "correct_answer": "Leonardo DiCaprio",
+      "incorrect_answers": ["Brad Pitt", "Matthew McConaughey", "Tom Hanks"]
+    },
+    {
+      "question": "In the TV series 'Friends', what is the name of Ross and Monica's dog when they were kids?",
+      "correct_answer": "Chi-Chi",
+      "incorrect_answers": ["Fluffy", "Spike", "Lucky"]
+    },
+    {
+      "question": "Which fictional wizard is known for his lightning bolt scar on his forehead?",
+      "correct_answer": "Harry Potter",
+      "incorrect_answers": ["Gandalf", "Dumbledore", "Merlin"]
+    },
+    {
+      "question": "Who wrote the book 'To Kill a Mockingbird'?",
+      "correct_answer": "Harper Lee",
+      "incorrect_answers": ["Mark Twain", "J.D. Salinger", "F. Scott Fitzgerald"]
+    },
+    {
+      "question": "Which superhero is known for his red and blue costume, with a big 'S' on his chest?",
+      "correct_answer": "Superman",
+      "incorrect_answers": ["Spider-Man", "Batman", "Iron Man"]
+    },
+    {
+      "question": "Which rock band released the album 'Back in Black'?",
+      "correct_answer": "AC/DC",
+      "incorrect_answers": ["Led Zeppelin", "The Rolling Stones", "Guns N' Roses"]
+    },
+    {
+      "question": "Who played the character of Katniss Everdeen in 'The Hunger Games' movie series?",
+      "correct_answer": "Jennifer Lawrence",
+      "incorrect_answers": ["Emma Stone", "Shailene Woodley", "Scarlett Johansson"]
+    },
+    {
+      "question": "In 'The Lord of the Rings' film series, who played the role of Frodo Baggins?",
+      "correct_answer": "Elijah Wood",
+      "incorrect_answers": ["Daniel Radcliffe", "Tom Holland", "Hayden Christensen"]
+    },
+    {
+      "question": "What is the name of the main character in the 'James Bond' film series?",
+      "correct_answer": "James Bond",
+      "incorrect_answers": ["Jason Bourne", "Ethan Hunt", "John Wick"]
+    },
+    {
+      "question": "Who is the lead vocalist of the band 'Queen'?",
+      "correct_answer": "Freddie Mercury",
+      "incorrect_answers": ["John Lennon", "David Bowie", "Elton John"]
+    },
+    {
+      "question": "What is the name of the famous fictional wizard from J.K. Rowling's books?",
+      "correct_answer": "Harry Potter",
+      "incorrect_answers": ["Gandalf", "Dumbledore", "Merlin"]
+    },
+    {
+      "question": "What is the name of the fictional galaxy where 'Star Wars' is set?",
+      "correct_answer": "The Milky Way Galaxy",
+      "incorrect_answers": ["Andromeda Galaxy", "Alderaan Galaxy", "Tatooine Galaxy"]
+    },
+    {
+      "question": "Which animated movie features a character named Woody and Buzz Lightyear?",
+      "correct_answer": "Toy Story",
+      "incorrect_answers": ["Finding Nemo", "Shrek", "Frozen"]
+    },
+    {
+      "question": "Who is the main antagonist in the 'Star Wars' series?",
+      "correct_answer": "Darth Vader",
+      "incorrect_answers": ["Emperor Palpatine", "Kylo Ren", "Snoke"]
+    },
+    {
+      "question": "In the TV series 'Breaking Bad', what is the street name of the blue methamphetamine manufactured by Walter White?",
+      "correct_answer": "Blue Sky",
+      "incorrect_answers": ["Blue Magic", "Crystal Clear", "Pure Ice"]
+    },
+    {
+      "question": "What is the name of the famous detective created by Sir Arthur Conan Doyle?",
+      "correct_answer": "Sherlock Holmes",
+      "incorrect_answers": ["Hercule Poirot", "Nancy Drew", "Miss Marple"]
+    },
+    {
+      "question": "Which animated movie features a young lion who becomes the king of the Pride Lands?",
+      "correct_answer": "The Lion King",
+      "incorrect_answers": ["Madagascar", "Finding Nemo", "Kung Fu Panda"]
+    },
+    {
+      "question": "Who wrote the book series 'A Song of Ice and Fire,' which inspired the TV series 'Game of Thrones'?",
+      "correct_answer": "George R.R. Martin",
+      "incorrect_answers": ["J.K. Rowling", "J.R.R. Tolkien", "Stephen King"]
+    },
+    {
+      "question": "In the TV series 'The Simpsons', what is the name of the bartender who owns Moe's Tavern?",
+      "correct_answer": "Moe Szyslak",
+      "incorrect_answers": ["Barney Gumble", "Ned Flanders", "Homer Simpson"]
+    },
+    {
+      "question": "Who played the character of Tony Stark in the Marvel Cinematic Universe?",
+      "correct_answer": "Robert Downey Jr.",
+      "incorrect_answers": ["Chris Hemsworth", "Chris Evans", "Mark Ruffalo"]
+    },
+    {
+      "question": "Which 1980s movie features a time-traveling DeLorean car?",
+      "correct_answer": "Back to the Future",
+      "incorrect_answers": ["E.T. the Extra-Terrestrial", "The Goonies", "Ghostbusters"]
+    },
+    {
+      "question": "What is the name of the fictional wizarding school in the 'Harry Potter' series?",
+      "correct_answer": "Hogwarts School of Witchcraft and Wizardry",
+      "incorrect_answers": ["Beauxbatons Academy of Magic", "Ilvermorny School of Witchcraft and Wizardry", "Durmstrang Institute"]
+    },
+    {
+      "question": "Who directed the film 'Avatar,' which became the highest-grossing movie of all time?",
+      "correct_answer": "James Cameron",
+      "incorrect_answers": ["Steven Spielberg", "Peter Jackson", "Christopher Nolan"]
+    },
+    {
+      "question": "In the TV series 'Friends,' which character is known for saying 'How you doin'?",
+      "correct_answer": "Joey Tribbiani",
+      "incorrect_answers": ["Ross Geller", "Chandler Bing", "Phoebe Buffay"]
+    },
+    {
+      "question": "What is the name of the fictional wizarding sport played on broomsticks in 'Harry Potter'?",
+      "correct_answer": "Quidditch",
+      "incorrect_answers": ["Blitzball", "Broom Ball", "Witch Ball"]
+    },
+    {
+      "question": "Which actor played the character of Captain Jack Sparrow in the 'Pirates of the Caribbean' film series?",
+      "correct_answer": "Johnny Depp",
+      "incorrect_answers": ["Orlando Bloom", "Keira Knightley", "Geoffrey Rush"]
+    },
+    {
+      "question": "What is the name of the boy who never grows up in the story of Peter Pan?",
+      "correct_answer": "Peter Pan",
+      "incorrect_answers": ["Wendy Darling", "John Darling", "Michael Darling"]
+    },
+    {
+      "question": "Which film features a character named Forrest Gump?",
+      "correct_answer": "Forrest Gump",
+      "incorrect_answers": ["Rain Man", "Good Will Hunting", "The Shawshank Redemption"]
+    },
+    {
+      "question": "What is the name of the fictional planet in 'Star Wars' that was destroyed by the Death Star?",
+      "correct_answer": "Alderaan",
+      "incorrect_answers": ["Tatooine", "Hoth", "Endor"]
+    },
+    {
+      "question": "Who is the creator of the 'Star Wars' franchise?",
+      "correct_answer": "George Lucas",
+      "incorrect_answers": ["Steven Spielberg", "Peter Jackson", "James Cameron"]
+    },
+    {
+      "question": "In the TV series 'The Office,' who played the character of Michael Scott?",
+      "correct_answer": "Steve Carell",
+      "incorrect_answers": ["John Krasinski", "Rainn Wilson", "Ed Helms"]
+    },
+    {
+      "question": "What is the name of the fictional wizard's school in the 'Harry Potter' series?",
+      "correct_answer": "Hogwarts School of Witchcraft and Wizardry",
+      "incorrect_answers": ["Beauxbatons Academy of Magic", "Ilvermorny School of Witchcraft and Wizardry", "Durmstrang Institute"]
+    },
+    {
+      "question": "Which famous pop singer is known for her album '1989'?",
+      "correct_answer": "Taylor Swift",
+      "incorrect_answers": ["Adele", "Beyoncé", "Rihanna"]
+    },
+    {
+      "question": "Who played the character of Edward Cullen in the 'Twilight' movie series?",
+      "correct_answer": "Robert Pattinson",
+      "incorrect_answers": ["Taylor Lautner", "Kellan Lutz", "Kristen Stewart"]
+    },
+    {
+      "question": "In the 'Harry Potter' series, who is known for his love of Quidditch and his nickname 'Keeper of Keys and Grounds'?",
+      "correct_answer": "Rubeus Hagrid",
+      "incorrect_answers": ["Severus Snape", "Remus Lupin", "Albus Dumbledore"]
+    },
+    {
+      "question": "Which animated movie features a character named Elsa and the song 'Let It Go'?",
+      "correct_answer": "Frozen",
+      "incorrect_answers": ["Moana", "Cinderella", "Beauty and the Beast"]
+    },
+    {
+      "question": "Who is the lead actor in the 'Taken' movie series?",
+      "correct_answer": "Liam Neeson",
+      "incorrect_answers": ["Bruce Willis", "Jason Statham", "Mel Gibson"]
+    },
+    {
+      "question": "In the 'Star Wars' series, what is the name of Han Solo's ship?",
+      "correct_answer": "Millennium Falcon",
+      "incorrect_answers": ["X-Wing Fighter", "TIE Fighter", "Star Destroyer"]
+    },
+    {
+      "question": "Which actor plays the character of Tony Stark in the Marvel Cinematic Universe?",
+      "correct_answer": "Robert Downey Jr.",
+      "incorrect_answers": ["Chris Hemsworth", "Chris Evans", "Mark Ruffalo"]
+    },
+    {
+      "question": "What is the name of the city where Batman operates in the DC Comics universe?",
+      "correct_answer": "Gotham City",
+      "incorrect_answers": ["Metropolis", "Central City", "Star City"]
+    },
+    {
+      "question": "Who played the character of Katniss Everdeen in the 'Hunger Games' movie series?",
+      "correct_answer": "Jennifer Lawrence",
+      "incorrect_answers": ["Emma Watson", "Shailene Woodley", "Scarlett Johansson"]
+    },
+    {
+      "question": "Which fictional wizard is known for his long white beard and powerful magic in 'The Lord of the Rings'?",
+      "correct_answer": "Gandalf",
+      "incorrect_answers": ["Saruman", "Radagast", "Frodo Baggins"]
+    },
+    {
+      "question": "What is the name of the main antagonist in the 'Star Wars' series?",
+      "correct_answer": "Darth Vader",
+      "incorrect_answers": ["Emperor Palpatine", "Kylo Ren", "Snoke"]
+    },
+    {
+      "question": "Who played the character of Jack Dawson in the movie 'Titanic'?",
+      "correct_answer": "Leonardo DiCaprio",
+      "incorrect_answers": ["Brad Pitt", "Matthew McConaughey", "Tom Hanks"]
+    },
+    {
+      "question": "What is the name of the fictional wizarding sport played on broomsticks in 'Harry Potter'?",
+      "correct_answer": "Quidditch",
+      "incorrect_answers": ["Blitzball", "Broom Ball", "Witch Ball"]
+    },
+    {
+      "question": "Which rock band released the album 'Nevermind'?",
+      "correct_answer": "Nirvana",
+      "incorrect_answers": ["Pearl Jam", "Soundgarden", "Smashing Pumpkins"]
+    },
+    {
+      "question": "In 'The Lord of the Rings' film series, who played the role of Legolas?",
+      "correct_answer": "Orlando Bloom",
+      "incorrect_answers": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"]
+    },
+    {
+      "question": "Which superhero is known for his web-slinging abilities and the catchphrase 'With great power comes great responsibility'?",
+      "correct_answer": "Spider-Man",
+      "incorrect_answers": ["Batman", "Superman", "Iron Man"]
+    },
+    {
+      "question": "What is the name of the group of superheroes in the Marvel Cinematic Universe, led by Nick Fury?",
+      "correct_answer": "The Avengers",
+      "incorrect_answers": ["The X-Men", "The Justice League", "The Fantastic Four"]
+    },
+    {
+      "question": "Who played the character of Hermione Granger in the 'Harry Potter' film series?",
+      "correct_answer": "Emma Watson",
+      "incorrect_answers": ["Rupert Grint", "Daniel Radcliffe", "Bonnie Wright"]
+    },
+    {
+      "question": "Which Disney movie features a character named Nemo?",
+      "correct_answer": "Finding Nemo",
+      "incorrect_answers": ["The Little Mermaid", "The Lion King", "Aladdin"]
+    },
+    {
+      "question": "What is the name of the fictional wizard's school in 'Harry Potter'?",
+      "correct_answer": "Hogwarts School of Witchcraft and Wizardry",
+      "incorrect_answers": ["Beauxbatons Academy of Magic", "Ilvermorny School of Witchcraft and Wizardry", "Durmstrang Institute"]
+    },
+    {
+      "question": "Who is the main antagonist in the 'Star Wars' series?",
+      "correct_answer": "Darth Vader",
+      "incorrect_answers": ["Emperor Palpatine", "Kylo Ren", "Snoke"]
+    },
+    {
+      "question": "In 'The Lord of the Rings' film series, who played the role of Aragorn?",
+      "correct_answer": "Viggo Mortensen",
+      "incorrect_answers": ["Elijah Wood", "Orlando Bloom", "Ian McKellen"]
+    },
+    {
+      "question": "Which animated movie features a character named Simba?",
+      "correct_answer": "The Lion King",
+      "incorrect_answers": ["Aladdin", "Beauty and the Beast", "Frozen"]
+    },
+    {
+      "question": "Who is the lead actor in the 'Mission: Impossible' film series?",
+      "correct_answer": "Tom Cruise",
+      "incorrect_answers": ["Matt Damon", "Harrison Ford", "Brad Pitt"]
+    },
+    {
+      "question": "Which rock band released the album 'Abbey Road'?",
+      "correct_answer": "The Beatles",
+      "incorrect_answers": ["The Rolling Stones", "Led Zeppelin", "Queen"]
+    },
+    {
+      "question": "What is the name of the famous fictional wizard from J.K. Rowling's books?",
+      "correct_answer": "Harry Potter",
+      "incorrect_answers": ["Gandalf", "Dumbledore", "Merlin"]
+    },
+    {
+      "question": "Who played the character of Katniss Everdeen in the 'Hunger Games' movie series?",
+      "correct_answer": "Jennifer Lawrence",
+      "incorrect_answers": ["Emma Stone", "Shailene Woodley", "Scarlett Johansson"]
+    },
+    {
+      "question": "In 'The Lord of the Rings' film series, who played the role of Frodo Baggins?",
+      "correct_answer": "Elijah Wood",
+      "incorrect_answers": ["Daniel Radcliffe", "Tom Holland", "Hayden Christensen"]
+    },
+    {
+      "question": "What is the name of the famous detective created by Sir Arthur Conan Doyle?",
+      "correct_answer": "Sherlock Holmes",
+      "incorrect_answers": ["Hercule Poirot", "Nancy Drew", "Miss Marple"]
+    },
+    {
+      "question": "Which animated movie features a character named Woody and Buzz Lightyear?",
+      "correct_answer": "Toy Story",
+      "incorrect_answers": ["Finding Nemo", "Shrek", "Frozen"]
+    },
+    {
+      "question": "Who is the lead vocalist of the band 'Queen'?",
+      "correct_answer": "Freddie Mercury",
+      "incorrect_answers": ["John Lennon", "David Bowie", "Elton John"]
+    },
+    {
+      "question": "What is the name of the fictional galaxy where 'Star Wars' is set?",
+      "correct_answer": "The Milky Way Galaxy",
+      "incorrect_answers": ["Andromeda Galaxy", "Alderaan Galaxy", "Tatooine Galaxy"]
+    },
+    {
+      "question": "Which superhero is known for his red and blue costume, with a big 'S' on his chest?",
+      "correct_answer": "Superman",
+      "incorrect_answers": ["Spider-Man", "Batman", "Iron Man"]
+    },
+    {
+      "question": "Which animated movie features a young princess named Elsa and the song 'Let It Go'?",
+      "correct_answer": "Frozen",
+      "incorrect_answers": ["Moana", "Cinderella", "Beauty and the Beast"]
+    },
+    {
+      "question": "Who is the main antagonist in the 'Star Wars' series?",
+      "correct_answer": "Darth Vader",
+      "incorrect_answers": ["Emperor Palpatine", "Kylo Ren", "Snoke"]
+    },
+    {
+      "question": "In 'The Lord of the Rings' film series, who played the role of Aragorn?",
+      "correct_answer": "Viggo Mortensen",
+      "incorrect_answers": ["Elijah Wood", "Orlando Bloom", "Ian McKellen"]
+    },
+    {
+      "question": "Which animated movie features a character named Simba?",
+      "correct_answer": "The Lion King",
+      "incorrect_answers": ["Aladdin", "Beauty and the Beast", "Frozen"]
+    },
+    {
+      "question": "Who is the lead actor in the 'Mission: Impossible' film series?",
+      "correct_answer": "Tom Cruise",
+      "incorrect_answers": ["Matt Damon", "Harrison Ford", "Brad Pitt"]
+    },
+    {
+      "question": "Which rock band released the album 'Abbey Road'?",
+      "correct_answer": "The Beatles",
+      "incorrect_answers": ["The Rolling Stones", "Led Zeppelin", "Queen"]
+    },
+    {
+      "question": "Which actor played the character of Jack Dawson in the movie Titanic?",
+      "correct_answer": "Leonardo DiCaprio",
+      "incorrect_answers": ["Brad Pitt", "Matthew McConaughey", "Tom Hanks"]
+    },
+    {
+      "question": "In 'The Lord of the Rings' film series, who played the role of Frodo Baggins?",
+      "correct_answer": "Elijah Wood",
+      "incorrect_answers": ["Daniel Radcliffe", "Tom Holland", "Hayden Christensen"]
+    },
+    {
+      "question": "What is the name of the famous detective created by Sir Arthur Conan Doyle?",
+      "correct_answer": "Sherlock Holmes",
+      "incorrect_answers": ["Hercule Poirot", "Nancy Drew", "Miss Marple"]
+    },
+    {
+      "question": "Which animated movie features a character named Woody and Buzz Lightyear?",
+      "correct_answer": "Toy Story",
+      "incorrect_answers": ["Finding Nemo", "Shrek", "Frozen"]
+    },
+    {
+      "question": "Who is the lead vocalist of the band 'Queen'?",
+      "correct_answer": "Freddie Mercury",
+      "incorrect_answers": ["John Lennon", "David Bowie", "Elton John"]
+    },
+    {
+      "question": "What is the name of the fictional galaxy where 'Star Wars' is set?",
+      "correct_answer": "The Milky Way Galaxy",
+      "incorrect_answers": ["Andromeda Galaxy", "Alderaan Galaxy", "Tatooine Galaxy"]
+    },
+    {
+      "question": "Which superhero is known for his red and blue costume, with a big 'S' on his chest?",
+      "correct_answer": "Superman",
+      "incorrect_answers": ["Spider-Man", "Batman", "Iron Man"]
+    },
+    {
+      "question": "Which animated movie features a young princess named Elsa and the song 'Let It Go'?",
+      "correct_answer": "Frozen",
+      "incorrect_answers": ["Moana", "Cinderella", "Beauty and the Beast"]
+    },
+    {
+      "question": "Who is the main antagonist in the 'Star Wars' series?",
+      "correct_answer": "Darth Vader",
+      "incorrect_answers": ["Emperor Palpatine", "Kylo Ren", "Snoke"]
+    },
+    {
+      "question": "In 'The Lord of the Rings' film series, who played the role of Aragorn?",
+      "correct_answer": "Viggo Mortensen",
+      "incorrect_answers": ["Elijah Wood", "Orlando Bloom", "Ian McKellen"]
+    },
+    {
+      "question": "Which animated movie features a character named Simba?",
+      "correct_answer": "The Lion King",
+      "incorrect_answers": ["Aladdin", "Beauty and the Beast", "Frozen"]
+    },
+    {
+      "question": "Who is the lead actor in the 'Mission: Impossible' film series?",
+      "correct_answer": "Tom Cruise",
+      "incorrect_answers": ["Matt Damon", "Harrison Ford", "Brad Pitt"]
+    },
+    {
+      "question": "Which rock band released the album 'Abbey Road'?",
+      "correct_answer": "The Beatles",
+      "incorrect_answers": ["The Rolling Stones", "Led Zeppelin", "Queen"]
+    },
+    {
+      "question": "What is the name of the famous fictional wizard from J.K. Rowling's books?",
+      "correct_answer": "Harry Potter",
+      "incorrect_answers": ["Gandalf", "Dumbledore", "Merlin"]
+    },
+    {
+      "question": "Who played the character of Katniss Everdeen in the 'Hunger Games' movie series?",
+      "correct_answer": "Jennifer Lawrence",
+      "incorrect_answers": ["Emma Stone", "Shailene Woodley", "Scarlett Johansson"]
+    },
+    {
+      "question": "In 'The Lord of the Rings' film series, who played the role of Frodo Baggins?",
+      "correct_answer": "Elijah Wood",
+      "incorrect_answers": ["Daniel Radcliffe", "Tom Holland", "Hayden Christensen"]
+    },
+    {
+      "question": "What is the name of the famous detective created by Sir Arthur Conan Doyle?",
+      "correct_answer": "Sherlock Holmes",
+      "incorrect_answers": ["Hercule Poirot", "Nancy Drew", "Miss Marple"]
+    },
+    {
+      "question": "Which animated movie features a character named Woody and Buzz Lightyear?",
+      "correct_answer": "Toy Story",
+      "incorrect_answers": ["Finding Nemo", "Shrek", "Frozen"]
+    },
+    {
+      "question": "Who is the lead vocalist of the band 'Queen'?",
+      "correct_answer": "Freddie Mercury",
+      "incorrect_answers": ["John Lennon", "David Bowie", "Elton John"]
+    },
+    {
+      "question": "What is the name of the fictional galaxy where 'Star Wars' is set?",
+      "correct_answer": "The Milky Way Galaxy",
+      "incorrect_answers": ["Andromeda Galaxy", "Alderaan Galaxy", "Tatooine Galaxy"]
+    },
+    {
+      "question": "Which superhero is known for his red and blue costume, with a big 'S' on his chest?",
+      "correct_answer": "Superman",
+      "incorrect_answers": ["Spider-Man", "Batman", "Iron Man"]
+    },
+    {
+      "question": "Which animated movie features a young princess named Elsa and the song 'Let It Go'?",
+      "correct_answer": "Frozen",
+      "incorrect_answers": ["Moana", "Cinderella", "Beauty and the Beast"]
+    },
+    {
+      "question": "Who is the main antagonist in the 'Star Wars' series?",
+      "correct_answer": "Darth Vader",
+      "incorrect_answers": ["Emperor Palpatine", "Kylo Ren", "Snoke"]
+    },
+    {
+      "question": "In 'The Lord of the Rings' film series, who played the role of Aragorn?",
+      "correct_answer": "Viggo Mortensen",
+      "incorrect_answers": ["Elijah Wood", "Orlando Bloom", "Ian McKellen"]
+    },
+    {
+      "question": "Which animated movie features a character named Simba?",
+      "correct_answer": "The Lion King",
+      "incorrect_answers": ["Aladdin", "Beauty and the Beast", "Frozen"]
+    },
+    {
+      "question": "Who is the lead actor in the 'Mission: Impossible' film series?",
+      "correct_answer": "Tom Cruise",
+      "incorrect_answers": ["Matt Damon", "Harrison Ford", "Brad Pitt"]
+    },
+    {
+      "question": "Which rock band released the album 'Abbey Road'?",
+      "correct_answer": "The Beatles",
+      "incorrect_answers": ["The Rolling Stones", "Led Zeppelin", "Queen"]
+    },
+    {
+      "question": "What is the name of the famous fictional wizard from J.K. Rowling's books?",
+      "correct_answer": "Harry Potter",
+      "incorrect_answers": ["Gandalf", "Dumbledore", "Merlin"]
+    },
+    {
+      "question": "Who played the character of Katniss Everdeen in the 'Hunger Games' movie series?",
+      "correct_answer": "Jennifer Lawrence",
+      "incorrect_answers": ["Emma Stone", "Shailene Woodley", "Scarlett Johansson"]
+    },
+    {
+      "question": "In 'The Lord of the Rings' film series, who played the role of Frodo Baggins?",
+      "correct_answer": "Elijah Wood",
+      "incorrect_answers": ["Daniel Radcliffe", "Tom Holland", "Hayden Christensen"]
+    },
+    {
+      "question": "What is the name of the famous detective created by Sir Arthur Conan Doyle?",
+      "correct_answer": "Sherlock Holmes",
+      "incorrect_answers": ["Hercule Poirot", "Nancy Drew", "Miss Marple"]
+    },
+    {
+      "question": "Which animated movie features a character named Woody and Buzz Lightyear?",
+      "correct_answer": "Toy Story",
+      "incorrect_answers": ["Finding Nemo", "Shrek", "Frozen"]
+    },
+    {
+      "question": "Who is the lead vocalist of the band 'Queen'?",
+      "correct_answer": "Freddie Mercury",
+      "incorrect_answers": ["John Lennon", "David Bowie", "Elton John"]
+    },
+    {
+      "question": "What is the name of the fictional galaxy where 'Star Wars' is set?",
+      "correct_answer": "The Milky Way Galaxy",
+      "incorrect_answers": ["Andromeda Galaxy", "Alderaan Galaxy", "Tatooine Galaxy"]
+    },
+    {
+      "question": "Which superhero is known for his red and blue costume, with a big 'S' on his chest?",
+      "correct_answer": "Superman",
+      "incorrect_answers": ["Spider-Man", "Batman", "Iron Man"]
+    },
+    {
+      "question": "Which animated movie features a young princess named Elsa and the song 'Let It Go'?",
+      "correct_answer": "Frozen",
+      "incorrect_answers": ["Moana", "Cinderella", "Beauty and the Beast"]
+    },
+    {
+      "question": "Who is the main antagonist in the 'Star Wars' series?",
+      "correct_answer": "Darth Vader",
+      "incorrect_answers": ["Emperor Palpatine", "Kylo Ren", "Snoke"]
+    },
+    {
+      "question": "In 'The Lord of the Rings' film series, who played the role of Aragorn?",
+      "correct_answer": "Viggo Mortensen",
+      "incorrect_answers": ["Elijah Wood", "Orlando Bloom", "Ian McKellen"]
+    },
+    {
+      "question": "Which animated movie features a character named Simba?",
+      "correct_answer": "The Lion King",
+      "incorrect_answers": ["Aladdin", "Beauty and the Beast", "Frozen"]
+    },
+    {
+      "question": "Who is the lead actor in the 'Mission: Impossible' film series?",
+      "correct_answer": "Tom Cruise",
+      "incorrect_answers": ["Matt Damon", "Harrison Ford", "Brad Pitt"]
+    },
+    {
+      "question": "Which rock band released the album 'Abbey Road'?",
+      "correct_answer": "The Beatles",
+      "incorrect_answers": ["The Rolling Stones", "Led Zeppelin", "Queen"]
+    },
+    {
+      "question": "What is the name of the famous fictional wizard from J.K. Rowling's books?",
+      "correct_answer": "Harry Potter",
+      "incorrect_answers": ["Gandalf", "Dumbledore", "Merlin"]
+    },
+    {
+      "question": "Who played the character of Katniss Everdeen in the 'Hunger Games' movie series?",
+      "correct_answer": "Jennifer Lawrence",
+      "incorrect_answers": ["Emma Stone", "Shailene Woodley", "Scarlett Johansson"]
+    },
+    {
+      "question": "In 'The Lord of the Rings' film series, who played the role of Frodo Baggins?",
+      "correct_answer": "Elijah Wood",
+      "incorrect_answers": ["Daniel Radcliffe", "Tom Holland", "Hayden Christensen"]
+    },
+    {
+      "question": "What is the name of the famous detective created by Sir Arthur Conan Doyle?",
+      "correct_answer": "Sherlock Holmes",
+      "incorrect_answers": ["Hercule Poirot", "Nancy Drew", "Miss Marple"]
+    },
+    {
+      "question": "Which animated movie features a character named Woody and Buzz Lightyear?",
+      "correct_answer": "Toy Story",
+      "incorrect_answers": ["Finding Nemo", "Shrek", "Frozen"]
+    },
+    {
+      "question": "Who is the lead vocalist of the band 'Queen'?",
+      "correct_answer": "Freddie Mercury",
+      "incorrect_answers": ["John Lennon", "David Bowie", "Elton John"]
+    },
+    {
+      "question": "What is the name of the fictional galaxy where 'Star Wars' is set?",
+      "correct_answer": "The Milky Way Galaxy",
+      "incorrect_answers": ["Andromeda Galaxy", "Alderaan Galaxy", "Tatooine Galaxy"]
+    },
+    {
+      "question": "Which superhero is known for his red and blue costume, with a big 'S' on his chest?",
+      "correct_answer": "Superman",
+      "incorrect_answers": ["Spider-Man", "Batman", "Iron Man"]
+    },
+    {
+      "question": "Which animated movie features a young princess named Elsa and the song 'Let It Go'?",
+      "correct_answer": "Frozen",
+      "incorrect_answers": ["Moana", "Cinderella", "Beauty and the Beast"]
+    },
+    {
+      "question": "Who is the main antagonist in the 'Star Wars' series?",
+      "correct_answer": "Darth Vader",
+      "incorrect_answers": ["Emperor Palpatine", "Kylo Ren", "Snoke"]
+    },
+    {
+      "question": "In 'The Lord of the Rings' film series, who played the role of Aragorn?",
+      "correct_answer": "Viggo Mortensen",
+      "incorrect_answers": ["Elijah Wood", "Orlando Bloom", "Ian McKellen"]
+    },
+    {
+      "question": "Which animated movie features a character named Simba?",
+      "correct_answer": "The Lion King",
+      "incorrect_answers": ["Aladdin", "Beauty and the Beast", "Frozen"]
+    },
+    {
+      "question": "Who is the lead actor in the 'Mission: Impossible' film series?",
+      "correct_answer": "Tom Cruise",
+      "incorrect_answers": ["Matt Damon", "Harrison Ford", "Brad Pitt"]
+    },
+    {
+      "question": "Which rock band released the album 'Abbey Road'?",
+      "correct_answer": "The Beatles",
+      "incorrect_answers": ["The Rolling Stones", "Led Zeppelin", "Queen"]
+    },
+    {
+      "question": "What is the name of the famous fictional wizard from J.K. Rowling's books?",
+      "correct_answer": "Harry Potter",
+      "incorrect_answers": ["Gandalf", "Dumbledore", "Merlin"]
+    },
+    {
+      "question": "Who played the character of Katniss Everdeen in the 'Hunger Games' movie series?",
+      "correct_answer": "Jennifer Lawrence",
+      "incorrect_answers": ["Emma Stone", "Shailene Woodley", "Scarlett Johansson"]
+    },
+    {
+      "question": "In 'The Lord of the Rings' film series, who played the role of Frodo Baggins?",
+      "correct_answer": "Elijah Wood",
+      "incorrect_answers": ["Daniel Radcliffe", "Tom Holland", "Hayden Christensen"]
+    },
+    {
+      "question": "What is the name of the famous detective created by Sir Arthur Conan Doyle?",
+      "correct_answer": "Sherlock Holmes",
+      "incorrect_answers": ["Hercule Poirot", "Nancy Drew", "Miss Marple"]
+    },
+    {
+      "question": "Which animated movie features a character named Woody and Buzz Lightyear?",
+      "correct_answer": "Toy Story",
+      "incorrect_answers": ["Finding Nemo", "Shrek", "Frozen"]
+    },
+    {
+      "question": "Who is the lead vocalist of the band 'Queen'?",
+      "correct_answer": "Freddie Mercury",
+      "incorrect_answers": ["John Lennon", "David Bowie", "Elton John"]
+    },
+    {
+      "question": "What is the name of the fictional galaxy where 'Star Wars' is set?",
+      "correct_answer": "The Milky Way Galaxy",
+      "incorrect_answers": ["Andromeda Galaxy", "Alderaan Galaxy", "Tatooine Galaxy"]
+    },
+    {
+      "question": "Which superhero is known for his red and blue costume, with a big 'S' on his chest?",
+      "correct_answer": "Superman",
+      "incorrect_answers": ["Spider-Man", "Batman", "Iron Man"]
+    },
+    {
+      "question": "Which animated movie features a young princess named Elsa and the song 'Let It Go'?",
+      "correct_answer": "Frozen",
+      "incorrect_answers": ["Moana", "Cinderella", "Beauty and the Beast"]
+    },
+    {
+      "question": "Who is the main antagonist in the 'Star Wars' series?",
+      "correct_answer": "Darth Vader",
+      "incorrect_answers": ["Emperor Palpatine", "Kylo Ren", "Snoke"]
+    },
+    {
+      "question": "In 'The Lord of the Rings' film series, who played the role of Aragorn?",
+      "correct_answer": "Viggo Mortensen",
+      "incorrect_answers": ["Elijah Wood", "Orlando Bloom", "Ian McKellen"]
+    },
+    {
+      "question": "Which animated movie features a character named Simba?",
+      "correct_answer": "The Lion King",
+      "incorrect_answers": ["Aladdin", "Beauty and the Beast", "Frozen"]
+    },
+    {
+      "question": "Who is the lead actor in the 'Mission: Impossible' film series?",
+      "correct_answer": "Tom Cruise",
+      "incorrect_answers": ["Matt Damon", "Harrison Ford", "Brad Pitt"]
+    },
+    {
+      "question": "Which rock band released the album 'Abbey Road'?",
+      "correct_answer": "The Beatles",
+      "incorrect_answers": ["The Rolling Stones", "Led Zeppelin", "Queen"]
+    },
+    {
+      "question": "What is the name of the famous fictional wizard from J.K. Rowling's books?",
+      "correct_answer": "Harry Potter",
+      "incorrect_answers": ["Gandalf", "Dumbledore", "Merlin"]
+    },
+    {
+      "question": "Who played the character of Katniss Everdeen in the 'Hunger Games' movie series?",
+      "correct_answer": "Jennifer Lawrence",
+      "incorrect_answers": ["Emma Stone", "Shailene Woodley", "Scarlett Johansson"]
+    },
+    {
+      "question": "In 'The Lord of the Rings' film series, who played the role of Frodo Baggins?",
+      "correct_answer": "Elijah Wood",
+      "incorrect_answers": ["Daniel Radcliffe", "Tom Holland", "Hayden Christensen"]
+    },
+    {
+      "question": "What is the name of the famous detective created by Sir Arthur Conan Doyle?",
+      "correct_answer": "Sherlock Holmes",
+      "incorrect_answers": ["Hercule Poirot", "Nancy Drew", "Miss Marple"]
+    },
+    {
+      "question": "Which animated movie features a character named Woody and Buzz Lightyear?",
+      "correct_answer": "Toy Story",
+      "incorrect_answers": ["Finding Nemo", "Shrek", "Frozen"]
+    },
+    {
+      "question": "Who is the lead vocalist of the band 'Queen'?",
+      "correct_answer": "Freddie Mercury",
+      "incorrect_answers": ["John Lennon", "David Bowie", "Elton John"]
+    },
+    {
+      "question": "What is the name of the fictional galaxy where 'Star Wars' is set?",
+      "correct_answer": "The Milky Way Galaxy",
+      "incorrect_answers": ["Andromeda Galaxy", "Alderaan Galaxy", "Tatooine Galaxy"]
+    },
+    {
+      "question": "Which superhero is known for his red and blue costume, with a big 'S' on his chest?",
+      "correct_answer": "Superman",
+      "incorrect_answers": ["Spider-Man", "Batman", "Iron Man"]
+    },
+    {
+      "question": "Which animated movie features a young princess named Elsa and the song 'Let It Go'?",
+      "correct_answer": "Frozen",
+      "incorrect_answers": ["Moana", "Cinderella", "Beauty and the Beast"]
+    },
+    {
+      "question": "Who is the main antagonist in the 'Star Wars' series?",
+      "correct_answer": "Darth Vader",
+      "incorrect_answers": ["Emperor Palpatine", "Kylo Ren", "Snoke"]
+    },
+    {
+      "question": "In 'The Lord of the Rings' film series, who played the role of Aragorn?",
+      "correct_answer": "Viggo Mortensen",
+      "incorrect_answers": ["Elijah Wood", "Orlando Bloom", "Ian McKellen"]
+    },
+    {
+      "question": "Which animated movie features a character named Simba?",
+      "correct_answer": "The Lion King",
+      "incorrect_answers": ["Aladdin", "Beauty and the Beast", "Frozen"]
+    },
+    {
+      "question": "Who is the lead actor in the 'Mission: Impossible' film series?",
+      "correct_answer": "Tom Cruise",
+      "incorrect_answers": ["Matt Damon", "Harrison Ford", "Brad Pitt"]
+    },
+    {
+      "question": "Which rock band released the album 'Abbey Road'?",
+      "correct_answer": "The Beatles",
+      "incorrect_answers": ["The Rolling Stones", "Led Zeppelin", "Queen"]
+    },
+    {
+      "question": "What is the name of the famous fictional wizard from J.K. Rowling's books?",
+      "correct_answer": "Harry Potter",
+      "incorrect_answers": ["Gandalf", "Dumbledore", "Merlin"]
+    },
+    {
+      "question": "Who played the character of Katniss Everdeen in the 'Hunger Games' movie series?",
+      "correct_answer": "Jennifer Lawrence",
+      "incorrect_answers": ["Emma Stone", "Shailene Woodley", "Scarlett Johansson"]
+    },
+    {
+      "question": "In 'The Lord of the Rings' film series, who played the role of Frodo Baggins?",
+      "correct_answer": "Elijah Wood",
+      "incorrect_answers": ["Daniel Radcliffe", "Tom Holland", "Hayden Christensen"]
+    },
+    {
+      "question": "What is the name of the famous detective created by Sir Arthur Conan Doyle?",
+      "correct_answer": "Sherlock Holmes",
+      "incorrect_answers": ["Hercule Poirot", "Nancy Drew", "Miss Marple"]
+    },
+    {
+      "question": "Which animated movie features a character named Woody and Buzz Lightyear?",
+      "correct_answer": "Toy Story",
+      "incorrect_answers": ["Finding Nemo", "Shrek", "Frozen"]
+    },
+    {
+      "question": "Who is the lead vocalist of the band 'Queen'?",
+      "correct_answer": "Freddie Mercury",
+      "incorrect_answers": ["John Lennon", "David Bowie", "Elton John"]
+    },
+    {
+      "question": "What is the name of the fictional galaxy where 'Star Wars' is set?",
+      "correct_answer": "The Milky Way Galaxy",
+      "incorrect_answers": ["Andromeda Galaxy", "Alderaan Galaxy", "Tatooine Galaxy"]
+    },
+    {
+      "question": "Which superhero is known for his red and blue costume, with a big 'S' on his chest?",
+      "correct_answer": "Superman",
+      "incorrect_answers": ["Spider-Man", "Batman", "Iron Man"]
+    },
+    {
+      "question": "Which animated movie features a young princess named Elsa and the song 'Let It Go'?",
+      "correct_answer": "Frozen",
+      "incorrect_answers": ["Moana", "Cinderella", "Beauty and the Beast"]
+    },
+    {
+      "question": "Who is the main antagonist in the 'Star Wars' series?",
+      "correct_answer": "Darth Vader",
+      "incorrect_answers": ["Emperor Palpatine", "Kylo Ren", "Snoke"]
+    },
+    {
+      "question": "In 'The Lord of the Rings' film series, who played the role of Aragorn?",
+      "correct_answer": "Viggo Mortensen",
+      "incorrect_answers": ["Elijah Wood", "Orlando Bloom", "Ian McKellen"]
+    },
+    {
+      "question": "Which animated movie features a character named Simba?",
+      "correct_answer": "The Lion King",
+      "incorrect_answers": ["Aladdin", "Beauty and the Beast", "Frozen"]
+    },
+    {
+      "question": "Who is the lead actor in the 'Mission: Impossible' film series?",
+      "correct_answer": "Tom Cruise",
+      "incorrect_answers": ["Matt Damon", "Harrison Ford", "Brad Pitt"]
+    },
+    {
+      "question": "Which rock band released the album 'Abbey Road'?",
+      "correct_answer": "The Beatles",
+      "incorrect_answers": ["The Rolling Stones", "Led Zeppelin", "Queen"]
+    },
+    {
+      "question": "What is the name of the famous fictional wizard from J.K. Rowling's books?",
+      "correct_answer": "Harry Potter",
+      "incorrect_answers": ["Gandalf", "Dumbledore", "Merlin"]
+    },
+    {
+      "question": "Who played the character of Katniss Everdeen in the 'Hunger Games' movie series?",
+      "correct_answer": "Jennifer Lawrence",
+      "incorrect_answers": ["Emma Stone", "Shailene Woodley", "Scarlett Johansson"]
+    }
+  ]
+}

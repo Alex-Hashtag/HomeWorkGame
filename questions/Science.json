@@ -1,0 +1,975 @@
+{
+  "category": "Science",
+  "questions": [
+    {
+      "question": "What is the chemical symbol for the element oxygen?",
+      "correct_answer": "O",
+      "incorrect_answers": ["O2", "C", "H2O"]
+    },
+    {
+      "question": "In physics, what is the term for the resistance of a fluid to flow?",
+      "correct_answer": "Viscosity",
+      "incorrect_answers": ["Inertia", "Gravity", "Friction"]
+    },
+    {
+      "question": "Who is known as the father of modern physics and is famous for his theory of relativity?",
+      "correct_answer": "Albert Einstein",
+      "incorrect_answers": ["Isaac Newton", "Stephen Hawking", "Galileo Galilei"]
+    },
+    {
+      "question": "What is the smallest unit of matter that retains the properties of an element?",
+      "correct_answer": "Atom",
+      "incorrect_answers": ["Molecule", "Neutron", "Proton"]
+    },
+    {
+      "question": "What is the chemical formula for water?",
+      "correct_answer": "H2O",
+      "incorrect_answers": ["CO2", "O2", "H2SO4"]
+    },
+    {
+      "question": "Which famous scientist is known for his laws of motion and universal gravitation?",
+      "correct_answer": "Isaac Newton",
+      "incorrect_answers": ["Albert Einstein", "Galileo Galilei", "Stephen Hawking"]
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "correct_answer": "Au",
+      "incorrect_answers": ["Ag", "Fe", "Pt"]
+    },
+    {
+      "question": "In biology, what is the powerhouse of the cell?",
+      "correct_answer": "Mitochondria",
+      "incorrect_answers": ["Nucleus", "Ribosome", "Endoplasmic Reticulum"]
+    },
+    {
+      "question": "What is the chemical symbol for helium?",
+      "correct_answer": "He",
+      "incorrect_answers": ["H", "Li", "Ne"]
+    },
+    {
+      "question": "Who is the founder of modern chemistry and known for his periodic table of elements?",
+      "correct_answer": "Dmitri Mendeleev",
+      "incorrect_answers": ["Marie Curie", "Antoine Lavoisier", "Niels Bohr"]
+    },
+    {
+      "question": "In mathematics, what is the ratio of the circumference of a circle to its diameter?",
+      "correct_answer": "Pi (π)",
+      "incorrect_answers": ["Euler's number (e)", "Golden ratio (φ)", "Avogadro's number"]
+    },
+    {
+      "question": "What is the chemical symbol for carbon?",
+      "correct_answer": "C",
+      "incorrect_answers": ["Co", "Ca", "Cl"]
+    },
+    {
+      "question": "Who is the famous mathematician known for his theorem about right triangles?",
+      "correct_answer": "Pythagoras",
+      "incorrect_answers": ["Euclid", "Archimedes", "Euler"]
+    },
+    {
+      "question": "What is the process by which plants make their own food using sunlight?",
+      "correct_answer": "Photosynthesis",
+      "incorrect_answers": ["Respiration", "Fermentation", "Transpiration"]
+    },
+    {
+      "question": "In chemistry, what is the pH value of a neutral substance, such as pure water?",
+      "correct_answer": "7",
+      "incorrect_answers": ["0", "14", "1"]
+    },
+    {
+      "question": "What is the first element on the periodic table?",
+      "correct_answer": "Hydrogen",
+      "incorrect_answers": ["Helium", "Lithium", "Oxygen"]
+    },
+    {
+      "question": "In physics, what is the SI unit of force?",
+      "correct_answer": "Newton (N)",
+      "incorrect_answers": ["Joule (J)", "Watt (W)", "Ampere (A)"]
+    },
+    {
+      "question": "Who is the scientist famous for his theory of evolution by natural selection?",
+      "correct_answer": "Charles Darwin",
+      "incorrect_answers": ["Gregor Mendel", "Louis Pasteur", "Marie Curie"]
+    },
+    {
+      "question": "What is the chemical symbol for iron?",
+      "correct_answer": "Fe",
+      "incorrect_answers": ["Au", "Ag", "Hg"]
+    },
+    {
+      "question": "In astronomy, what is the name for a massive, collapsed star with immense gravity that can trap light?",
+      "correct_answer": "Black Hole",
+      "incorrect_answers": ["Supernova", "Neutron Star", "White Dwarf"]
+    },
+    {
+      "question": "What is the chemical formula for table salt?",
+      "correct_answer": "NaCl",
+      "incorrect_answers": ["H2O", "CO2", "CaO"]
+    },
+    {
+      "question": "Who is known for his theory of electromagnetism and the laws of motion?",
+      "correct_answer": "James Clerk Maxwell",
+      "incorrect_answers": ["Thomas Edison", "Benjamin Franklin", "Nikola Tesla"]
+    },
+    {
+      "question": "What is the chemical symbol for lead?",
+      "correct_answer": "Pb",
+      "incorrect_answers": ["Li", "K", "Hg"]
+    },
+    {
+      "question": "In biology, what is the genetic material that carries the instructions for the development, functioning, growth, and reproduction of all known living things?",
+      "correct_answer": "DNA",
+      "incorrect_answers": ["RNA", "Protein", "Carbohydrate"]
+    },
+    {
+      "question": "What is the chemical element with the atomic number 6, known for its role in organic chemistry?",
+      "correct_answer": "Carbon",
+      "incorrect_answers": ["Oxygen", "Silicon", "Nitrogen"]
+    },
+    {
+      "question": "In physics, what is the law that states that for every action, there is an equal and opposite reaction?",
+      "correct_answer": "Newton's Third Law of Motion",
+      "incorrect_answers": ["Archimedes' Principle", "Boyle's Law", "Hooke's Law"]
+    },
+    {
+      "question": "What is the SI unit of electric current?",
+      "correct_answer": "Ampere (A)",
+      "incorrect_answers": ["Watt (W)", "Ohm (Ω)", "Coulomb (C)"]
+    },
+    {
+      "question": "In chemistry, what is the term for a substance that speeds up a chemical reaction without being consumed in the process?",
+      "correct_answer": "Catalyst",
+      "incorrect_answers": ["Reactant", "Product", "Inhibitor"]
+    },
+    {
+      "question": "What is the chemical symbol for silver?",
+      "correct_answer": "Ag",
+      "incorrect_answers": ["Au", "Pt", "Pb"]
+    },
+    {
+      "question": "Who is the Italian astronomer and physicist known for his observations of the night sky with a telescope?",
+      "correct_answer": "Galileo Galilei",
+      "incorrect_answers": ["Johannes Kepler", "Nicolaus Copernicus", "Isaac Newton"]
+    },
+    {
+      "question": "In biology, what is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll?",
+      "correct_answer": "Photosynthesis",
+      "incorrect_answers": ["Respiration", "Fermentation", "Transpiration"]
+    },
+    {
+      "question": "What is the chemical symbol for the element potassium?",
+      "correct_answer": "K",
+      "incorrect_answers": ["S", "Po", "Pb"]
+    },
+    {
+      "question": "In mathematics, what is the value of π (pi) to three decimal places?",
+      "correct_answer": "3.142",
+      "incorrect_answers": ["3.000", "3.141", "3.145"]
+    },
+    {
+      "question": "What is the process by which plants lose water through small openings in their leaves?",
+      "correct_answer": "Transpiration",
+      "incorrect_answers": ["Photosynthesis", "Respiration", "Evaporation"]
+    },
+    {
+      "question": "Who is the scientist known for his theory of general relativity and famous equation E=mc²?",
+      "correct_answer": "Albert Einstein",
+      "incorrect_answers": ["Isaac Newton", "Stephen Hawking", "Niels Bohr"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 20, found in bones and teeth?",
+      "correct_answer": "Ca",
+      "incorrect_answers": ["Co", "Cu", "C"]
+    },
+    {
+      "question": "In physics, what is the term for the tendency of an object to resist a change in its motion?",
+      "correct_answer": "Inertia",
+      "incorrect_answers": ["Gravity", "Friction", "Viscosity"]
+    },
+    {
+      "question": "Who is the English mathematician and physicist known for his laws of motion and universal gravitation?",
+      "correct_answer": "Isaac Newton",
+      "incorrect_answers": ["Galileo Galilei", "Johannes Kepler", "Albert Einstein"]
+    },
+    {
+      "question": "What is the chemical formula for methane, a common greenhouse gas?",
+      "correct_answer": "CH4",
+      "incorrect_answers": ["CO2", "H2O", "N2"]
+    },
+    {
+      "question": "In biology, what is the term for the network of membranes within a eukaryotic cell that includes the rough and smooth types?",
+      "correct_answer": "Endoplasmic Reticulum",
+      "incorrect_answers": ["Mitochondria", "Ribosome", "Nucleus"]
+    },
+    {
+      "question": "What is the branch of science that deals with the study of matter and its properties?",
+      "correct_answer": "Chemistry",
+      "incorrect_answers": ["Physics", "Biology", "Astronomy"]
+    },
+    {
+      "question": "Who is known as the father of modern chemistry and made significant contributions to the understanding of gases and chemical reactions?",
+      "correct_answer": "Antoine Lavoisier",
+      "incorrect_answers": ["Dmitri Mendeleev", "Marie Curie", "Robert Boyle"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 1, the lightest and most abundant element in the universe?",
+      "correct_answer": "H",
+      "incorrect_answers": ["He", "Li", "O"]
+    },
+    {
+      "question": "In mathematics, what is the name for a shape with eight sides?",
+      "correct_answer": "Octagon",
+      "incorrect_answers": ["Hexagon", "Pentagon", "Nonagon"]
+    },
+    {
+      "question": "What is the process of determining the age of an object or event using radioactive isotopes called?",
+      "correct_answer": "Radiometric Dating",
+      "incorrect_answers": ["Carbon Dating", "Fossil Analysis", "Relative Dating"]
+    },
+    {
+      "question": "Who is the famous biologist known for his theory of natural selection and the book 'On the Origin of Species'?",
+      "correct_answer": "Charles Darwin",
+      "incorrect_answers": ["Gregor Mendel", "Louis Pasteur", "Marie Curie"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 26, known for its magnetic properties?",
+      "correct_answer": "Fe",
+      "incorrect_answers": ["Mn", "Zn", "Cu"]
+    },
+    {
+      "question": "In physics, what is the unit of electrical resistance?",
+      "correct_answer": "Ohm (Ω)",
+      "incorrect_answers": ["Ampere (A)", "Watt (W)", "Volt (V)"]
+    },
+    {
+      "question": "Who is the scientist known for his work on the laws of motion and universal gravitation?",
+      "correct_answer": "Isaac Newton",
+      "incorrect_answers": ["Albert Einstein", "Galileo Galilei", "Stephen Hawking"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 17, known for its disinfectant properties?",
+      "correct_answer": "Cl",
+      "incorrect_answers": ["Br", "I", "F"]
+    },
+    {
+      "question": "In chemistry, what is the term for a substance that speeds up a chemical reaction without being consumed in the process?",
+      "correct_answer": "Catalyst",
+      "incorrect_answers": ["Reactant", "Product", "Inhibitor"]
+    },
+    {
+      "question": "What is the branch of science that deals with the study of living organisms and their interactions with each other and their environments?",
+      "correct_answer": "Biology",
+      "incorrect_answers": ["Chemistry", "Physics", "Astronomy"]
+    },
+    {
+      "question": "Who is known for his laws of planetary motion, which describe the motion of planets around the sun?",
+      "correct_answer": "Johannes Kepler",
+      "incorrect_answers": ["Galileo Galilei", "Isaac Newton", "Nicolaus Copernicus"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 8, a gas essential for respiration?",
+      "correct_answer": "O",
+      "incorrect_answers": ["N", "C", "H"]
+    },
+    {
+      "question": "In mathematics, what is the term for a number that can be divided evenly by 1 and itself?",
+      "correct_answer": "Prime Number",
+      "incorrect_answers": ["Odd Number", "Even Number", "Composite Number"]
+    },
+    {
+      "question": "What is the process of converting a substance from a gas to a liquid by cooling or compressing it called?",
+      "correct_answer": "Condensation",
+      "incorrect_answers": ["Evaporation", "Sublimation", "Solidification"]
+    },
+    {
+      "question": "Who is the Italian physicist and astronomer known for his discoveries of the four largest moons of Jupiter?",
+      "correct_answer": "Galileo Galilei",
+      "incorrect_answers": ["Johannes Kepler", "Isaac Newton", "Nicolaus Copernicus"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 16, commonly found in compounds like hydrogen sulfide and sulfuric acid?",
+      "correct_answer": "S",
+      "incorrect_answers": ["Si", "Se", "So"]
+    },
+    {
+      "question": "In physics, what is the term for a push or pull on an object that causes it to change its motion?",
+      "correct_answer": "Force",
+      "incorrect_answers": ["Energy", "Momentum", "Acceleration"]
+    },
+    {
+      "question": "Who is known for his laws of motion and universal gravitation?",
+      "correct_answer": "Isaac Newton",
+      "incorrect_answers": ["Albert Einstein", "Galileo Galilei", "Johannes Kepler"]
+    },
+    {
+      "question": "What is the chemical formula for carbon dioxide, a greenhouse gas responsible for climate change?",
+      "correct_answer": "CO2",
+      "incorrect_answers": ["O2", "CH4", "N2"]
+    },
+    {
+      "question": "In biology, what is the term for the process by which green plants make their own food using sunlight, carbon dioxide, and water?",
+      "correct_answer": "Photosynthesis",
+      "incorrect_answers": ["Respiration", "Fermentation", "Transpiration"]
+    },
+    {
+      "question": "What is the branch of science that deals with the study of the Earth, its structure, and the processes that shape it?",
+      "correct_answer": "Geology",
+      "incorrect_answers": ["Meteorology", "Astronomy", "Oceanography"]
+    },
+    {
+      "question": "Who is known for his development of the modern periodic table of elements?",
+      "correct_answer": "Dmitri Mendeleev",
+      "incorrect_answers": ["Marie Curie", "Antoine Lavoisier", "Niels Bohr"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 11, known for its use in making electrical wires?",
+      "correct_answer": "Na",
+      "incorrect_answers": ["K", "Mg", "Li"]
+    },
+    {
+      "question": "In mathematics, what is the term for the longest side of a right-angled triangle?",
+      "correct_answer": "Hypotenuse",
+      "incorrect_answers": ["Adjacent", "Opposite", "Perpendicular"]
+    },
+    {
+      "question": "What is the process by which an unstable atomic nucleus emits radiation to become more stable?",
+      "correct_answer": "Radioactive Decay",
+      "incorrect_answers": ["Fusion", "Fission", "Transmutation"]
+    },
+    {
+      "question": "Who is the Austrian physicist known for his theory of special relativity and the equation E=mc²?",
+      "correct_answer": "Albert Einstein",
+      "incorrect_answers": ["Isaac Newton", "Niels Bohr", "Stephen Hawking"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 29, used in making coins and electrical wiring?",
+      "correct_answer": "Cu",
+      "incorrect_answers": ["Ag", "Au", "Fe"]
+    },
+    {
+      "question": "In biology, what is the term for the process by which an organism's cells produce energy through the breakdown of glucose?",
+      "correct_answer": "Cellular Respiration",
+      "incorrect_answers": ["Photosynthesis", "Fermentation", "Transpiration"]
+    },
+    {
+      "question": "What is the branch of science that studies the behavior and properties of matter?",
+      "correct_answer": "Physics",
+      "incorrect_answers": ["Chemistry", "Biology", "Astronomy"]
+    },
+    {
+      "question": "Who is known for his laws of planetary motion and his heliocentric model of the solar system?",
+      "correct_answer": "Johannes Kepler",
+      "incorrect_answers": ["Galileo Galilei", "Isaac Newton", "Nicolaus Copernicus"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 7, a colorless and odorless gas that makes up about 78% of the Earth's atmosphere?",
+      "correct_answer": "N",
+      "incorrect_answers": ["O", "C", "H"]
+    },
+    {
+      "question": "In mathematics, what is the term for a straight line that touches a curve at a single point without crossing it?",
+      "correct_answer": "Tangent",
+      "incorrect_answers": ["Secant", "Chord", "Arc"]
+    },
+    {
+      "question": "What is the process by which plants release water vapor from their leaves into the atmosphere?",
+      "correct_answer": "Transpiration",
+      "incorrect_answers": ["Photosynthesis", "Respiration", "Evaporation"]
+    },
+    {
+      "question": "Who is the scientist known for his theory of electromagnetism and the equations describing electric and magnetic fields?",
+      "correct_answer": "James Clerk Maxwell",
+      "incorrect_answers": ["Nikola Tesla", "Thomas Edison", "Benjamin Franklin"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 82, commonly used in pencil lead?",
+      "correct_answer": "Pb",
+      "incorrect_answers": ["Li", "K", "Hg"]
+    },
+    {
+      "question": "In biology, what is the term for the process by which an organism breaks down glucose to obtain energy without using oxygen?",
+      "correct_answer": "Fermentation",
+      "incorrect_answers": ["Photosynthesis", "Cellular Respiration", "Transpiration"]
+    },
+    {
+      "question": "What is the branch of science that deals with the study of the universe, its origins, and the celestial objects within it?",
+      "correct_answer": "Astronomy",
+      "incorrect_answers": ["Geology", "Physics", "Chemistry"]
+    },
+    {
+      "question": "Who is known for his theory of atomic structure, with a central nucleus and electrons in orbit?",
+      "correct_answer": "Niels Bohr",
+      "incorrect_answers": ["Erwin Schrödinger", "Werner Heisenberg", "Max Planck"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 6, known for its role in organic chemistry?",
+      "correct_answer": "C",
+      "incorrect_answers": ["O", "N", "H"]
+    },
+    {
+      "question": "In physics, what is the term for a measure of an object's resistance to changes in its rotational motion?",
+      "correct_answer": "Moment of Inertia",
+      "incorrect_answers": ["Torque", "Angular Velocity", "Centripetal Force"]
+    },
+    {
+      "question": "What is the SI unit of luminous flux, a measure of the total quantity of visible light emitted by a source?",
+      "correct_answer": "Lumen (lm)",
+      "incorrect_answers": ["Candela (cd)", "Lux (lx)", "Watt (W)"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 53, used to make antiseptics and disinfectants?",
+      "correct_answer": "I",
+      "incorrect_answers": ["Br", "Cl", "F"]
+    },
+    {
+      "question": "In biology, what is the term for the process by which plants absorb water and nutrients through their roots?",
+      "correct_answer": "Transpiration",
+      "incorrect_answers": ["Photosynthesis", "Respiration", "Evaporation"]
+    },
+    {
+      "question": "Who is the German physicist known for his uncertainty principle and contributions to quantum mechanics?",
+      "correct_answer": "Werner Heisenberg",
+      "incorrect_answers": ["Max Planck", "Niels Bohr", "Erwin Schrödinger"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 20, found in bones and teeth?",
+      "correct_answer": "Ca",
+      "incorrect_answers": ["Mg", "K", "Na"]
+    },
+    {
+      "question": "In chemistry, what is the term for a substance that changes color in the presence of an acid or a base?",
+      "correct_answer": "Indicator",
+      "incorrect_answers": ["Catalyst", "Solvent", "Precipitate"]
+    },
+    {
+      "question": "What is the branch of science that studies the Earth's atmosphere, weather, and climate?",
+      "correct_answer": "Meteorology",
+      "incorrect_answers": ["Geology", "Astronomy", "Biology"]
+    },
+    {
+      "question": "Who is known for his laws of motion and the law of universal gravitation?",
+      "correct_answer": "Isaac Newton",
+      "incorrect_answers": ["Galileo Galilei", "Johannes Kepler", "Albert Einstein"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 16, commonly found in compounds like hydrogen sulfide and sulfuric acid?",
+      "correct_answer": "S",
+      "incorrect_answers": ["Si", "So", "Se"]
+    },
+    {
+      "question": "In mathematics, what is the term for a polygon with seven sides?",
+      "correct_answer": "Heptagon",
+      "incorrect_answers": ["Octagon", "Hexagon", "Decagon"]
+    },
+    {
+      "question": "What is the process by which liquid water changes into water vapor at the surface of the Earth?",
+      "correct_answer": "Evaporation",
+      "incorrect_answers": ["Condensation", "Transpiration", "Sublimation"]
+    },
+    {
+      "question": "Who is known for his laws of planetary motion and his heliocentric model of the solar system?",
+      "correct_answer": "Johannes Kepler",
+      "incorrect_answers": ["Galileo Galilei", "Isaac Newton", "Nicolaus Copernicus"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 30, used in making alloys and galvanized coatings?",
+      "correct_answer": "Zn",
+      "incorrect_answers": ["Fe", "Cu", "Ag"]
+    },
+    {
+      "question": "In physics, what is the term for the amount of matter in an object, often measured in kilograms?",
+      "correct_answer": "Mass",
+      "incorrect_answers": ["Weight", "Volume", "Density"]
+    },
+    {
+      "question": "What is the SI unit of electric charge, a fundamental quantity in electromagnetism?",
+      "correct_answer": "Coulomb (C)",
+      "incorrect_answers": ["Ampere (A)", "Volt (V)", "Ohm (Ω)"]
+    },
+    {
+      "question": "Who is known for his discovery of radium and polonium and his pioneering research on radioactivity?",
+      "correct_answer": "Marie Curie",
+      "incorrect_answers": ["Dmitri Mendeleev", "Antoine Lavoisier", "Niels Bohr"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 53, used to make antiseptics and disinfectants?",
+      "correct_answer": "I",
+      "incorrect_answers": ["Br", "Cl", "F"]
+    },
+    {
+      "question": "In biology, what is the term for the specialized cell that carries genetic information in the form of DNA?",
+      "correct_answer": "Sperm",
+      "incorrect_answers": ["Egg", "Zygote", "Gamete"]
+    },
+    {
+      "question": "What is the branch of science that deals with the study of the Earth, its structure, and the processes that shape it?",
+      "correct_answer": "Geology",
+      "incorrect_answers": ["Meteorology", "Astronomy", "Biology"]
+    },
+    {
+      "question": "Who is known for his contributions to the development of the periodic table of elements and the discovery of the noble gases?",
+      "correct_answer": "Sir William Ramsay",
+      "incorrect_answers": ["Dmitri Mendeleev", "Marie Curie", "Antoine Lavoisier"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 29, used in making coins and electrical wiring?",
+      "correct_answer": "Cu",
+      "incorrect_answers": ["Ag", "Au", "Fe"]
+    },
+    {
+      "question": "In mathematics, what is the term for a three-sided polygon?",
+      "correct_answer": "Triangle",
+      "incorrect_answers": ["Square", "Pentagon", "Hexagon"]
+    },
+    {
+      "question": "What is the process by which an unstable atomic nucleus emits radiation to become more stable?",
+      "correct_answer": "Radioactive Decay",
+      "incorrect_answers": ["Fusion", "Fission", "Transmutation"]
+    },
+    {
+      "question": "Who is the Italian scientist known for his formulation of Boyle's law and his pioneering work on the behavior of gases?",
+      "correct_answer": "Robert Boyle",
+      "incorrect_answers": ["Antoine Lavoisier", "Marie Curie", "Niels Bohr"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 13, commonly used in aluminum products?",
+      "correct_answer": "Al",
+      "incorrect_answers": ["Si", "Fe", "Cu"]
+    },
+    {
+      "question": "In physics, what is the term for the force that opposes the motion of an object through a fluid, such as air or water?",
+      "correct_answer": "Drag",
+      "incorrect_answers": ["Gravity", "Thrust", "Lift"]
+    },
+    {
+      "question": "What is the SI unit of electric charge, a fundamental quantity in electromagnetism?",
+      "correct_answer": "Coulomb (C)",
+      "incorrect_answers": ["Ampere (A)", "Volt (V)", "Ohm (Ω)"]
+    },
+    {
+      "question": "Who is known for his development of the modern periodic table of elements?",
+      "correct_answer": "Dmitri Mendeleev",
+      "incorrect_answers": ["Marie Curie", "Antoine Lavoisier", "Niels Bohr"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 15, commonly found in fertilizer and explosives?",
+      "correct_answer": "P",
+      "incorrect_answers": ["S", "N", "O"]
+    },
+    {
+      "question": "In mathematics, what is the term for a polygon with six sides?",
+      "correct_answer": "Hexagon",
+      "incorrect_answers": ["Octagon", "Pentagon", "Heptagon"]
+    },
+    {
+      "question": "What is the process by which an unstable atomic nucleus emits radiation to become more stable?",
+      "correct_answer": "Radioactive Decay",
+      "incorrect_answers": ["Fusion", "Fission", "Transmutation"]
+    },
+    {
+      "question": "Who is known for his work on the laws of motion and universal gravitation?",
+      "correct_answer": "Isaac Newton",
+      "incorrect_answers": ["Albert Einstein", "Galileo Galilei", "Johannes Kepler"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 13, commonly used in aluminum products?",
+      "correct_answer": "Al",
+      "incorrect_answers": ["Si", "Fe", "Cu"]
+    },
+    {
+      "question": "In physics, what is the term for the force that opposes the motion of an object through a fluid, such as air or water?",
+      "correct_answer": "Drag",
+      "incorrect_answers": ["Gravity", "Thrust", "Lift"]
+    },
+    {
+      "question": "What is the SI unit of electric charge, a fundamental quantity in electromagnetism?",
+      "correct_answer": "Coulomb (C)",
+      "incorrect_answers": ["Ampere (A)", "Volt (V)", "Ohm (Ω)"]
+    },
+    {
+      "question": "Who is known for his development of the modern periodic table of elements?",
+      "correct_answer": "Dmitri Mendeleev",
+      "incorrect_answers": ["Marie Curie", "Antoine Lavoisier", "Niels Bohr"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 15, commonly found in fertilizer and explosives?",
+      "correct_answer": "P",
+      "incorrect_answers": ["S", "N", "O"]
+    },
+    {
+      "question": "In mathematics, what is the term for a polygon with six sides?",
+      "correct_answer": "Hexagon",
+      "incorrect_answers": ["Octagon", "Pentagon", "Heptagon"]
+    },
+    {
+      "question": "What is the process by which an unstable atomic nucleus emits radiation to become more stable?",
+      "correct_answer": "Radioactive Decay",
+      "incorrect_answers": ["Fusion", "Fission", "Transmutation"]
+    },
+    {
+      "question": "Who is known for his work on the laws of motion and universal gravitation?",
+      "correct_answer": "Isaac Newton",
+      "incorrect_answers": ["Albert Einstein", "Galileo Galilei", "Johannes Kepler"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 13, commonly used in aluminum products?",
+      "correct_answer": "Al",
+      "incorrect_answers": ["Si", "Fe", "Cu"]
+    },
+    {
+      "question": "In physics, what is the term for the force that opposes the motion of an object through a fluid, such as air or water?",
+      "correct_answer": "Drag",
+      "incorrect_answers": ["Gravity", "Thrust", "Lift"]
+    },
+    {
+      "question": "What is the SI unit of electric charge, a fundamental quantity in electromagnetism?",
+      "correct_answer": "Coulomb (C)",
+      "incorrect_answers": ["Ampere (A)", "Volt (V)", "Ohm (Ω)"]
+    },
+    {
+      "question": "Who is known for his development of the modern periodic table of elements?",
+      "correct_answer": "Dmitri Mendeleev",
+      "incorrect_answers": ["Marie Curie", "Antoine Lavoisier", "Niels Bohr"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 15, commonly found in fertilizer and explosives?",
+      "correct_answer": "P",
+      "incorrect_answers": ["S", "N", "O"]
+    },
+    {
+      "question": "In mathematics, what is the term for a polygon with six sides?",
+      "correct_answer": "Hexagon",
+      "incorrect_answers": ["Octagon", "Pentagon", "Heptagon"]
+    },
+    {
+      "question": "What is the process by which an unstable atomic nucleus emits radiation to become more stable?",
+      "correct_answer": "Radioactive Decay",
+      "incorrect_answers": ["Fusion", "Fission", "Transmutation"]
+    },
+    {
+      "question": "Who is known for his work on the laws of motion and universal gravitation?",
+      "correct_answer": "Isaac Newton",
+      "incorrect_answers": ["Albert Einstein", "Galileo Galilei", "Johannes Kepler"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 13, commonly used in aluminum products?",
+      "correct_answer": "Al",
+      "incorrect_answers": ["Si", "Fe", "Cu"]
+    },
+    {
+      "question": "In physics, what is the term for the force that opposes the motion of an object through a fluid, such as air or water?",
+      "correct_answer": "Drag",
+      "incorrect_answers": ["Gravity", "Thrust", "Lift"]
+    },
+    {
+      "question": "What is the SI unit of electric charge, a fundamental quantity in electromagnetism?",
+      "correct_answer": "Coulomb (C)",
+      "incorrect_answers": ["Ampere (A)", "Volt (V)", "Ohm (Ω)"]
+    },
+    {
+      "question": "Who is known for his development of the modern periodic table of elements?",
+      "correct_answer": "Dmitri Mendeleev",
+      "incorrect_answers": ["Marie Curie", "Antoine Lavoisier", "Niels Bohr"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 15, commonly found in fertilizer and explosives?",
+      "correct_answer": "P",
+      "incorrect_answers": ["S", "N", "O"]
+    },
+    {
+      "question": "In mathematics, what is the term for a polygon with six sides?",
+      "correct_answer": "Hexagon",
+      "incorrect_answers": ["Octagon", "Pentagon", "Heptagon"]
+    },
+    {
+      "question": "What is the process by which an unstable atomic nucleus emits radiation to become more stable?",
+      "correct_answer": "Radioactive Decay",
+      "incorrect_answers": ["Fusion", "Fission", "Transmutation"]
+    },
+    {
+      "question": "Who is known for his work on the laws of motion and universal gravitation?",
+      "correct_answer": "Isaac Newton",
+      "incorrect_answers": ["Albert Einstein", "Galileo Galilei", "Johannes Kepler"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 13, commonly used in aluminum products?",
+      "correct_answer": "Al",
+      "incorrect_answers": ["Si", "Fe", "Cu"]
+    },
+    {
+      "question": "In physics, what is the term for the force that opposes the motion of an object through a fluid, such as air or water?",
+      "correct_answer": "Drag",
+      "incorrect_answers": ["Gravity", "Thrust", "Lift"]
+    },
+    {
+      "question": "What is the SI unit of electric charge, a fundamental quantity in electromagnetism?",
+      "correct_answer": "Coulomb (C)",
+      "incorrect_answers": ["Ampere (A)", "Volt (V)", "Ohm (Ω)"]
+    },
+    {
+      "question": "Who is known for his development of the modern periodic table of elements?",
+      "correct_answer": "Dmitri Mendeleev",
+      "incorrect_answers": ["Marie Curie", "Antoine Lavoisier", "Niels Bohr"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 15, commonly found in fertilizer and explosives?",
+      "correct_answer": "P",
+      "incorrect_answers": ["S", "N", "O"]
+    },
+    {
+      "question": "In mathematics, what is the term for a polygon with six sides?",
+      "correct_answer": "Hexagon",
+      "incorrect_answers": ["Octagon", "Pentagon", "Heptagon"]
+    },
+    {
+      "question": "What is the process by which an unstable atomic nucleus emits radiation to become more stable?",
+      "correct_answer": "Radioactive Decay",
+      "incorrect_answers": ["Fusion", "Fission", "Transmutation"]
+    },
+    {
+      "question": "Who is known for his work on the laws of motion and universal gravitation?",
+      "correct_answer": "Isaac Newton",
+      "incorrect_answers": ["Albert Einstein", "Galileo Galilei", "Johannes Kepler"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 13, commonly used in aluminum products?",
+      "correct_answer": "Al",
+      "incorrect_answers": ["Si", "Fe", "Cu"]
+    },
+    {
+      "question": "In physics, what is the term for the force that opposes the motion of an object through a fluid, such as air or water?",
+      "correct_answer": "Drag",
+      "incorrect_answers": ["Gravity", "Thrust", "Lift"]
+    },
+    {
+      "question": "What is the SI unit of electric charge, a fundamental quantity in electromagnetism?",
+      "correct_answer": "Coulomb (C)",
+      "incorrect_answers": ["Ampere (A)", "Volt (V)", "Ohm (Ω)"]
+    },
+    {
+      "question": "Who is known for his development of the modern periodic table of elements?",
+      "correct_answer": "Dmitri Mendeleev",
+      "incorrect_answers": ["Marie Curie", "Antoine Lavoisier", "Niels Bohr"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 15, commonly found in fertilizer and explosives?",
+      "correct_answer": "P",
+      "incorrect_answers": ["S", "N", "O"]
+    },
+    {
+      "question": "In mathematics, what is the term for a polygon with six sides?",
+      "correct_answer": "Hexagon",
+      "incorrect_answers": ["Octagon", "Pentagon", "Heptagon"]
+    },
+    {
+      "question": "What is the process by which an unstable atomic nucleus emits radiation to become more stable?",
+      "correct_answer": "Radioactive Decay",
+      "incorrect_answers": ["Fusion", "Fission", "Transmutation"]
+    },
+    {
+      "question": "Who is known for his work on the laws of motion and universal gravitation?",
+      "correct_answer": "Isaac Newton",
+      "incorrect_answers": ["Albert Einstein", "Galileo Galilei", "Johannes Kepler"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 13, commonly used in aluminum products?",
+      "correct_answer": "Al",
+      "incorrect_answers": ["Si", "Fe", "Cu"]
+    },
+    {
+      "question": "In physics, what is the term for the force that opposes the motion of an object through a fluid, such as air or water?",
+      "correct_answer": "Drag",
+      "incorrect_answers": ["Gravity", "Thrust", "Lift"]
+    },
+    {
+      "question": "What is the SI unit of electric charge, a fundamental quantity in electromagnetism?",
+      "correct_answer": "Coulomb (C)",
+      "incorrect_answers": ["Ampere (A)", "Volt (V)", "Ohm (Ω)"]
+    },
+    {
+      "question": "Who is known for his development of the modern periodic table of elements?",
+      "correct_answer": "Dmitri Mendeleev",
+      "incorrect_answers": ["Marie Curie", "Antoine Lavoisier", "Niels Bohr"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 15, commonly found in fertilizer and explosives?",
+      "correct_answer": "P",
+      "incorrect_answers": ["S", "N", "O"]
+    },
+    {
+      "question": "In mathematics, what is the term for a polygon with six sides?",
+      "correct_answer": "Hexagon",
+      "incorrect_answers": ["Octagon", "Pentagon", "Heptagon"]
+    },
+    {
+      "question": "What is the process by which an unstable atomic nucleus emits radiation to become more stable?",
+      "correct_answer": "Radioactive Decay",
+      "incorrect_answers": ["Fusion", "Fission", "Transmutation"]
+    },
+    {
+      "question": "Who is known for his work on the laws of motion and universal gravitation?",
+      "correct_answer": "Isaac Newton",
+      "incorrect_answers": ["Albert Einstein", "Galileo Galilei", "Johannes Kepler"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 13, commonly used in aluminum products?",
+      "correct_answer": "Al",
+      "incorrect_answers": ["Si", "Fe", "Cu"]
+    },
+    {
+      "question": "In physics, what is the term for the force that opposes the motion of an object through a fluid, such as air or water?",
+      "correct_answer": "Drag",
+      "incorrect_answers": ["Gravity", "Thrust", "Lift"]
+    },
+    {
+      "question": "What is the SI unit of electric charge, a fundamental quantity in electromagnetism?",
+      "correct_answer": "Coulomb (C)",
+      "incorrect_answers": ["Ampere (A)", "Volt (V)", "Ohm (Ω)"]
+    },
+    {
+      "question": "Who is known for his development of the modern periodic table of elements?",
+      "correct_answer": "Dmitri Mendeleev",
+      "incorrect_answers": ["Marie Curie", "Antoine Lavoisier", "Niels Bohr"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 15, commonly found in fertilizer and explosives?",
+      "correct_answer": "P",
+      "incorrect_answers": ["S", "N", "O"]
+    },
+    {
+      "question": "In mathematics, what is the term for a polygon with six sides?",
+      "correct_answer": "Hexagon",
+      "incorrect_answers": ["Octagon", "Pentagon", "Heptagon"]
+    },
+    {
+      "question": "What is the process by which an unstable atomic nucleus emits radiation to become more stable?",
+      "correct_answer": "Radioactive Decay",
+      "incorrect_answers": ["Fusion", "Fission", "Transmutation"]
+    },
+    {
+      "question": "Who is known for his work on the laws of motion and universal gravitation?",
+      "correct_answer": "Isaac Newton",
+      "incorrect_answers": ["Albert Einstein", "Galileo Galilei", "Johannes Kepler"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 13, commonly used in aluminum products?",
+      "correct_answer": "Al",
+      "incorrect_answers": ["Si", "Fe", "Cu"]
+    },
+    {
+      "question": "In physics, what is the term for the force that opposes the motion of an object through a fluid, such as air or water?",
+      "correct_answer": "Drag",
+      "incorrect_answers": ["Gravity", "Thrust", "Lift"]
+    },
+    {
+      "question": "What is the SI unit of electric charge, a fundamental quantity in electromagnetism?",
+      "correct_answer": "Coulomb (C)",
+      "incorrect_answers": ["Ampere (A)", "Volt (V)", "Ohm (Ω)"]
+    },
+    {
+      "question": "Who is known for his development of the modern periodic table of elements?",
+      "correct_answer": "Dmitri Mendeleev",
+      "incorrect_answers": ["Marie Curie", "Antoine Lavoisier", "Niels Bohr"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 15, commonly found in fertilizer and explosives?",
+      "correct_answer": "P",
+      "incorrect_answers": ["S", "N", "O"]
+    },
+    {
+      "question": "In mathematics, what is the term for a polygon with six sides?",
+      "correct_answer": "Hexagon",
+      "incorrect_answers": ["Octagon", "Pentagon", "Heptagon"]
+    },
+    {
+      "question": "What is the process by which an unstable atomic nucleus emits radiation to become more stable?",
+      "correct_answer": "Radioactive Decay",
+      "incorrect_answers": ["Fusion", "Fission", "Transmutation"]
+    },
+    {
+      "question": "Who is known for his work on the laws of motion and universal gravitation?",
+      "correct_answer": "Isaac Newton",
+      "incorrect_answers": ["Albert Einstein", "Galileo Galilei", "Johannes Kepler"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 13, commonly used in aluminum products?",
+      "correct_answer": "Al",
+      "incorrect_answers": ["Si", "Fe", "Cu"]
+    },
+    {
+      "question": "In physics, what is the term for the force that opposes the motion of an object through a fluid, such as air or water?",
+      "correct_answer": "Drag",
+      "incorrect_answers": ["Gravity", "Thrust", "Lift"]
+    },
+    {
+      "question": "What is the SI unit of electric charge, a fundamental quantity in electromagnetism?",
+      "correct_answer": "Coulomb (C)",
+      "incorrect_answers": ["Ampere (A)", "Volt (V)", "Ohm (Ω)"]
+    },
+    {
+      "question": "Who is known for his development of the modern periodic table of elements?",
+      "correct_answer": "Dmitri Mendeleev",
+      "incorrect_answers": ["Marie Curie", "Antoine Lavoisier", "Niels Bohr"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 15, commonly found in fertilizer and explosives?",
+      "correct_answer": "P",
+      "incorrect_answers": ["S", "N", "O"]
+    },
+    {
+      "question": "In mathematics, what is the term for a polygon with six sides?",
+      "correct_answer": "Hexagon",
+      "incorrect_answers": ["Octagon", "Pentagon", "Heptagon"]
+    },
+    {
+      "question": "What is the process by which an unstable atomic nucleus emits radiation to become more stable?",
+      "correct_answer": "Radioactive Decay",
+      "incorrect_answers": ["Fusion", "Fission", "Transmutation"]
+    },
+    {
+      "question": "Who is known for his work on the laws of motion and universal gravitation?",
+      "correct_answer": "Isaac Newton",
+      "incorrect_answers": ["Albert Einstein", "Galileo Galilei", "Johannes Kepler"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 13, commonly used in aluminum products?",
+      "correct_answer": "Al",
+      "incorrect_answers": ["Si", "Fe", "Cu"]
+    },
+    {
+      "question": "In physics, what is the term for the force that opposes the motion of an object through a fluid, such as air or water?",
+      "correct_answer": "Drag",
+      "incorrect_answers": ["Gravity", "Thrust", "Lift"]
+    },
+    {
+      "question": "What is the SI unit of electric charge, a fundamental quantity in electromagnetism?",
+      "correct_answer": "Coulomb (C)",
+      "incorrect_answers": ["Ampere (A)", "Volt (V)", "Ohm (Ω)"]
+    },
+    {
+      "question": "Who is known for his development of the modern periodic table of elements?",
+      "correct_answer": "Dmitri Mendeleev",
+      "incorrect_answers": ["Marie Curie", "Antoine Lavoisier", "Niels Bohr"]
+    },
+    {
+      "question": "What is the chemical symbol for the element with atomic number 15, commonly found in fertilizer and explosives?",
+      "correct_answer": "P",
+      "incorrect_answers": ["S", "N", "O"]
+    },
+    {
+      "question": "In mathematics, what is the term for a polygon with six sides?",
+      "correct_answer": "Hexagon",
+      "incorrect_answers": ["Octagon", "Pentagon", "Heptagon"]
+    },
+    {
+      "question": "What is the process by which an unstable atomic nucleus emits radiation to become more stable?",
+      "correct_answer": "Radioactive Decay",
+      "incorrect_answers": ["Fusion", "Fission", "Transmutation"]
+    },
+    {
+      "question": "Who is known for his work on the laws of motion and universal gravitation?",
+      "correct_answer": "Isaac Newton",
+      "incorrect_answers": ["Albert Einstein", "Galileo Galilei", "Johannes Kepler"]
+    }
+  ]
+}

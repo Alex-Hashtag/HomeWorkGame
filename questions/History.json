@@ -1,0 +1,625 @@
+{
+  "category": "History",
+  "questions": [
+    {
+      "question": "Who was the first President of the United States?",
+      "correct_answer": "George Washington",
+      "incorrect_answers": ["Thomas Jefferson", "John Adams", "Benjamin Franklin"]
+    },
+    {
+      "question": "In which year did Christopher Columbus first arrive in the Americas?",
+      "correct_answer": "1492",
+      "incorrect_answers": ["1498", "1501", "1510"]
+    },
+    {
+      "question": "What famous ship was a British passenger liner that sank on its maiden voyage in 1912?",
+      "correct_answer": "Titanic",
+      "incorrect_answers": ["Lusitania", "Olympic", "Britannic"]
+    },
+    {
+      "question": "Who is known for leading the Salt March, a nonviolent protest against British salt taxes in India?",
+      "correct_answer": "Mahatma Gandhi",
+      "incorrect_answers": ["Jawaharlal Nehru", "Bhagat Singh", "Subhas Chandra Bose"]
+    },
+    {
+      "question": "Which famous document, signed in 1215, limited the powers of the English monarch and is seen as a cornerstone of constitutional law?",
+      "correct_answer": "Magna Carta",
+      "incorrect_answers": ["Declaration of Independence", "Bill of Rights", "Mayflower Compact"]
+    },
+    {
+      "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+      "correct_answer": "Amelia Earhart",
+      "incorrect_answers": ["Bessie Coleman", "Harriet Quimby", "Jacqueline Cochran"]
+    },
+    {
+      "question": "In what year did the Berlin Wall fall, marking the end of the Cold War?",
+      "correct_answer": "1989",
+      "incorrect_answers": ["1991", "1987", "1993"]
+    },
+    {
+      "question": "Which ancient civilization is known for building the Great Pyramids of Giza?",
+      "correct_answer": "Ancient Egypt",
+      "incorrect_answers": ["Mesopotamia", "Greece", "Rome"]
+    },
+    {
+      "question": "Who was the first woman to become Prime Minister of the United Kingdom?",
+      "correct_answer": "Margaret Thatcher",
+      "incorrect_answers": ["Queen Elizabeth II", "Theresa May", "Angela Merkel"]
+    },
+    {
+      "question": "What major event occurred on July 20, 1969, when astronauts Neil Armstrong and Buzz Aldrin became the first humans to walk on the moon?",
+      "correct_answer": "Apollo 11 Moon Landing",
+      "incorrect_answers": ["Challenger Space Shuttle Disaster", "Columbia Space Shuttle Disaster", "Hubble Space Telescope Launch"]
+    },
+    {
+      "question": "Who was the Roman general and dictator known for crossing the Rubicon River, leading to a civil war and the eventual end of the Roman Republic?",
+      "correct_answer": "Julius Caesar",
+      "incorrect_answers": ["Augustus", "Cicero", "Brutus"]
+    },
+    {
+      "question": "What is the name of the historic ship that transported the Pilgrims to the New World in 1620?",
+      "correct_answer": "Mayflower",
+      "incorrect_answers": ["Santa Maria", "Nina", "Pinta"]
+    },
+    {
+      "question": "During which war was the Battle of Gettysburg fought?",
+      "correct_answer": "American Civil War",
+      "incorrect_answers": ["World War I", "World War II", "Vietnam War"]
+    },
+    {
+      "question": "Who was the legendary leader of the Mongol Empire who created one of the largest empires in history?",
+      "correct_answer": "Genghis Khan",
+      "incorrect_answers": ["Kublai Khan", "Attila the Hun", "Tamerlane"]
+    },
+    {
+      "question": "Which European explorer is credited with discovering America in 1492?",
+      "correct_answer": "Christopher Columbus",
+      "incorrect_answers": ["Amerigo Vespucci", "Ferdinand Magellan", "Vasco da Gama"]
+    },
+    {
+      "question": "In what year did the Spanish Armada, sent by King Philip II of Spain, attempt to invade England?",
+      "correct_answer": "1588",
+      "incorrect_answers": ["1558", "1608", "1658"]
+    },
+    {
+      "question": "Which ancient wonder of the world was a massive, statue-filled temple complex located in Babylon, Mesopotamia?",
+      "correct_answer": "Hanging Gardens of Babylon",
+      "incorrect_answers": ["Great Pyramid of Giza", "Colossus of Rhodes", "Statue of Zeus at Olympia"]
+    },
+    {
+      "question": "Who is known for his theory of general relativity, changing our understanding of the universe?",
+      "correct_answer": "Albert Einstein",
+      "incorrect_answers": ["Isaac Newton", "Galileo Galilei", "Nikola Tesla"]
+    },
+    {
+      "question": "Which historical figure is known for leading a nonviolent civil rights movement in India and is often referred to as the 'Father of the Nation'?",
+      "correct_answer": "Mahatma Gandhi",
+      "incorrect_answers": ["Nelson Mandela", "Martin Luther King Jr.", "Malcolm X"]
+    },
+    {
+      "question": "What event in 1066 led to the Norman conquest of England and the crowning of William the Conqueror as king?",
+      "correct_answer": "Battle of Hastings",
+      "incorrect_answers": ["Battle of Stamford Bridge", "Battle of Bannockburn", "Battle of Culloden"]
+    },
+    {
+      "question": "Who is the famous explorer and navigator known for his voyages to the Americas in the late 15th century?",
+      "correct_answer": "Christopher Columbus",
+      "incorrect_answers": ["Amerigo Vespucci", "Ferdinand Magellan", "Vasco da Gama"]
+    },
+    {
+      "question": "In which city was Archduke Franz Ferdinand of Austria assassinated, leading to the outbreak of World War I?",
+      "correct_answer": "Sarajevo",
+      "incorrect_answers": ["Vienna", "Prague", "Belgrade"]
+    },
+    {
+      "question": "What is the name of the ancient empire that included much of the eastern Mediterranean and Middle East and is known for its code of laws?",
+      "correct_answer": "Babylonian Empire",
+      "incorrect_answers": ["Roman Empire", "Egyptian Empire", "Ottoman Empire"]
+    },
+    {
+      "question": "Who was the first President of the United States?",
+      "correct_answer": "George Washington",
+      "incorrect_answers": ["Thomas Jefferson", "John Adams", "Benjamin Franklin"]
+    },
+    {
+      "question": "What treaty, signed in 1215, limited the powers of the English monarchy and is often seen as a foundation of constitutional government?",
+      "correct_answer": "Magna Carta",
+      "incorrect_answers": ["Declaration of Independence", "Bill of Rights", "Mayflower Compact"]
+    },
+    {
+      "question": "Which European country was ruled by the Habsburg dynasty for centuries and became the Austro-Hungarian Empire?",
+      "correct_answer": "Austria",
+      "incorrect_answers": ["Germany", "Russia", "France"]
+    },
+    {
+      "question": "Who is known for his theory of evolution by natural selection?",
+      "correct_answer": "Charles Darwin",
+      "incorrect_answers": ["Gregor Mendel", "Louis Pasteur", "Marie Curie"]
+    },
+    {
+      "question": "What ancient civilization built the Great Wall of China?",
+      "correct_answer": "China",
+      "incorrect_answers": ["India", "Rome", "Greece"]
+    },
+    {
+      "question": "Who is the American inventor and founding father known for his key experiments with electricity?",
+      "correct_answer": "Benjamin Franklin",
+      "incorrect_answers": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla"]
+    },
+    {
+      "question": "What event in 1773, in which American colonists protested British taxation by dumping tea into Boston Harbor, is known as?",
+      "correct_answer": "Boston Tea Party",
+      "incorrect_answers": ["Lexington and Concord", "Declaration of Independence", "Stamp Act"]
+    },
+    {
+      "question": "In what year did the Russian Revolution take place, leading to the overthrow of the Tsarist autocracy?",
+      "correct_answer": "1917",
+      "incorrect_answers": ["1905", "1923", "1936"]
+    },
+    {
+      "question": "Which emperor is known for issuing the Edict of Milan, granting religious tolerance to Christians in the Roman Empire?",
+      "correct_answer": "Constantine the Great",
+      "incorrect_answers": ["Julius Caesar", "Augustus", "Nero"]
+    },
+    {
+      "question": "Who was the Russian mystic and advisor to the Romanov family, often referred to as the 'Mad Monk'?",
+      "correct_answer": "Grigori Rasputin",
+      "incorrect_answers": ["Ivan the Terrible", "Leon Trotsky", "Vladimir Lenin"]
+    },
+    {
+      "question": "Which U.S. President issued the Emancipation Proclamation during the American Civil War, leading to the abolition of slavery?",
+      "correct_answer": "Abraham Lincoln",
+      "incorrect_answers": ["Andrew Johnson", "Ulysses S. Grant", "Thomas Jefferson"]
+    },
+    {
+      "question": "Who was the military leader of Nazi Germany during World War II?",
+      "correct_answer": "Adolf Hitler",
+      "incorrect_answers": ["Joseph Stalin", "Winston Churchill", "Emperor Hirohito"]
+    },
+    {
+      "question": "What ancient city, known for its hanging gardens and a code of laws, was located in Mesopotamia?",
+      "correct_answer": "Babylon",
+      "incorrect_answers": ["Thebes", "Ur", "Nineveh"]
+    },
+    {
+      "question": "In which year did the United States declare its independence from Great Britain?",
+      "correct_answer": "1776",
+      "incorrect_answers": ["1789", "1812", "1865"]
+    },
+    {
+      "question": "What was the main goal of the European explorers known as the conquistadors during the Age of Exploration?",
+      "correct_answer": "To conquer and colonize new territories",
+      "incorrect_answers": ["To establish trade routes", "To spread Christianity", "To find a direct route to Asia"]
+    },
+    {
+      "question": "Which ancient civilization is known for its pyramids and hieroglyphics, located along the Nile River?",
+      "correct_answer": "Ancient Egypt",
+      "incorrect_answers": ["Mesopotamia", "Greece", "Rome"]
+    },
+    {
+      "question": "Who was the legendary leader of the Mongol Empire who created one of the largest empires in history?",
+      "correct_answer": "Genghis Khan",
+      "incorrect_answers": ["Kublai Khan", "Attila the Hun", "Tamerlane"]
+    },
+    {
+      "question": "Which U.S. President delivered the Gettysburg Address during the American Civil War?",
+      "correct_answer": "Abraham Lincoln",
+      "incorrect_answers": ["Andrew Johnson", "Ulysses S. Grant", "Thomas Jefferson"]
+    },
+    {
+      "question": "Who was the Roman general and dictator known for crossing the Rubicon River, leading to a civil war and the eventual end of the Roman Republic?",
+      "correct_answer": "Julius Caesar",
+      "incorrect_answers": ["Augustus", "Cicero", "Brutus"]
+    },
+    {
+      "question": "What is the name of the ancient empire that included much of the eastern Mediterranean and Middle East and is known for its code of laws?",
+      "correct_answer": "Babylonian Empire",
+      "incorrect_answers": ["Roman Empire", "Egyptian Empire", "Ottoman Empire"]
+    },
+    {
+      "question": "Who is known for his theory of evolution by natural selection?",
+      "correct_answer": "Charles Darwin",
+      "incorrect_answers": ["Gregor Mendel", "Louis Pasteur", "Marie Curie"]
+    },
+    {
+      "question": "What ancient wonder of the world was a massive, statue-filled temple complex located in Babylon, Mesopotamia?",
+      "correct_answer": "Hanging Gardens of Babylon",
+      "incorrect_answers": ["Great Pyramid of Giza", "Colossus of Rhodes", "Statue of Zeus at Olympia"]
+    },
+    {
+      "question": "In what year did the Spanish Armada, sent by King Philip II of Spain, attempt to invade England?",
+      "correct_answer": "1588",
+      "incorrect_answers": ["1558", "1608", "1658"]
+    },
+    {
+      "question": "What treaty, signed in 1215, limited the powers of the English monarchy and is often seen as a foundation of constitutional government?",
+      "correct_answer": "Magna Carta",
+      "incorrect_answers": ["Declaration of Independence", "Bill of Rights", "Mayflower Compact"]
+    },
+    {
+      "question": "What famous ship was a British passenger liner that sank on its maiden voyage in 1912?",
+      "correct_answer": "Titanic",
+      "incorrect_answers": ["Lusitania", "Olympic", "Britannic"]
+    },
+    {
+      "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+      "correct_answer": "Amelia Earhart",
+      "incorrect_answers": ["Bessie Coleman", "Harriet Quimby", "Jacqueline Cochran"]
+    },
+    {
+      "question": "Which historical figure is known for leading a nonviolent civil rights movement in India and is often referred to as the 'Father of the Nation'?",
+      "correct_answer": "Mahatma Gandhi",
+      "incorrect_answers": ["Nelson Mandela", "Martin Luther King Jr.", "Malcolm X"]
+    },
+    {
+      "question": "In which year did the Berlin Wall fall, marking the end of the Cold War?",
+      "correct_answer": "1989",
+      "incorrect_answers": ["1991", "1987", "1993"]
+    },
+    {
+      "question": "Who was the first President of the United States?",
+      "correct_answer": "George Washington",
+      "incorrect_answers": ["Thomas Jefferson", "John Adams", "Benjamin Franklin"]
+    },
+    {
+      "question": "What famous ship was a British passenger liner that sank on its maiden voyage in 1912?",
+      "correct_answer": "Titanic",
+      "incorrect_answers": ["Lusitania", "Olympic", "Britannic"]
+    },
+    {
+      "question": "In which year did Christopher Columbus first arrive in the Americas?",
+      "correct_answer": "1492",
+      "incorrect_answers": ["1498", "1501", "1510"]
+    },
+    {
+      "question": "Who is known for leading the Salt March, a nonviolent protest against British salt taxes in India?",
+      "correct_answer": "Mahatma Gandhi",
+      "incorrect_answers": ["Jawaharlal Nehru", "Bhagat Singh", "Subhas Chandra Bose"]
+    },
+    {
+      "question": "What famous ship was a British passenger liner that sank on its maiden voyage in 1912?",
+      "correct_answer": "Titanic",
+      "incorrect_answers": ["Lusitania", "Olympic", "Britannic"]
+    },
+    {
+      "question": "Who is known for leading the Salt March, a nonviolent protest against British salt taxes in India?",
+      "correct_answer": "Mahatma Gandhi",
+      "incorrect_answers": ["Jawaharlal Nehru", "Bhagat Singh", "Subhas Chandra Bose"]
+    },
+    {
+      "question": "What famous ship was a British passenger liner that sank on its maiden voyage in 1912?",
+      "correct_answer": "Titanic",
+      "incorrect_answers": ["Lusitania", "Olympic", "Britannic"]
+    },
+    {
+      "question": "Who is known for leading the Salt March, a nonviolent protest against British salt taxes in India?",
+      "correct_answer": "Mahatma Gandhi",
+      "incorrect_answers": ["Jawaharlal Nehru", "Bhagat Singh", "Subhas Chandra Bose"]
+    },
+    {
+      "question": "What ancient civilization is known for inventing the world's first writing system called cuneiform?",
+      "correct_answer": "Sumerians",
+      "incorrect_answers": ["Egyptians", "Minoans", "Mayans"]
+    },
+    {
+      "question": "Which ancient Greek mathematician and inventor is known for designing various engineering devices, such as the screw and the odometer?",
+      "correct_answer": "Archimedes",
+      "incorrect_answers": ["Aristotle", "Euclid", "Hippocrates"]
+    },
+    {
+      "question": "Who was the first recorded woman to fly solo across the Atlantic Ocean?",
+      "correct_answer": "Amelia Earhart",
+      "incorrect_answers": ["Bessie Coleman", "Harriet Quimby", "Jacqueline Cochran"]
+    },
+    {
+      "question": "Which English queen is known for her long reign, from 1837 to 1901, and the expansion of the British Empire?",
+      "correct_answer": "Queen Victoria",
+      "incorrect_answers": ["Queen Elizabeth I", "Queen Mary I", "Queen Anne"]
+    },
+    {
+      "question": "In what year was the construction of the Great Wall of China initiated?",
+      "correct_answer": "7th century BC",
+      "incorrect_answers": ["3rd century BC", "1st century AD", "2nd century AD"]
+    },
+    {
+      "question": "Who was the Russian mystic and advisor to the Romanov family, often referred to as the 'Mad Monk'?",
+      "correct_answer": "Grigori Rasputin",
+      "incorrect_answers": ["Ivan the Terrible", "Leon Trotsky", "Vladimir Lenin"]
+    },
+    {
+      "question": "Which African explorer is known for his expeditions in Africa, including the search for Dr. David Livingstone?",
+      "correct_answer": "Henry Morton Stanley",
+      "incorrect_answers": ["Sir Richard Burton", "Mungo Park", "John Hanning Speke"]
+    },
+    {
+      "question": "Who is the Russian revolutionary and political theorist known for his role in the Bolshevik Revolution?",
+      "correct_answer": "Vladimir Lenin",
+      "incorrect_answers": ["Leon Trotsky", "Joseph Stalin", "Grigori Rasputin"]
+    },
+    {
+      "question": "Which ancient city was the capital of the Persian Empire and was captured by Alexander the Great in 330 BC?",
+      "correct_answer": "Persepolis",
+      "incorrect_answers": ["Babylon", "Nineveh", "Thebes"]
+    },
+    {
+      "question": "What Chinese philosopher is known for his teachings on ethics, morality, and the concept of the Dao?",
+      "correct_answer": "Confucius",
+      "incorrect_answers": ["Laozi", "Mencius", "Sun Tzu"]
+    },
+    {
+      "question": "What infamous pirate, known for his association with the Jolly Roger flag, sailed the West Indies in the early 18th century?",
+      "correct_answer": "Blackbeard",
+      "incorrect_answers": ["Calico Jack", "Captain Kidd", "Bartholomew Roberts"]
+    },
+    {
+      "question": "Who was the legendary Mongol leader and founder of the Yuan Dynasty, known for his conquest of China?",
+      "correct_answer": "Kublai Khan",
+      "incorrect_answers": ["Genghis Khan", "Attila the Hun", "Tamerlane"]
+    },
+    {
+      "question": "What is the name of the Egyptian queen who was the last pharaoh of Egypt and had relationships with Julius Caesar and Mark Antony?",
+      "correct_answer": "Cleopatra VII",
+      "incorrect_answers": ["Hatshepsut", "Nefertiti", "Ankhesenamun"]
+    },
+    {
+      "question": "In what year did the Ming Dynasty overthrow the Mongol-ruled Yuan Dynasty in China?",
+      "correct_answer": "1368",
+      "incorrect_answers": ["1420", "1305", "1415"]
+    },
+    {
+      "question": "What ancient city, known for its hanging gardens and a code of laws, was located in Mesopotamia?",
+      "correct_answer": "Babylon",
+      "incorrect_answers": ["Thebes", "Ur", "Nineveh"]
+    },
+    {
+      "question": "Who was the Roman general known for his victory in the Battle of Zama, effectively ending the Second Punic War?",
+      "correct_answer": "Scipio Africanus",
+      "incorrect_answers": ["Hannibal", "Julius Caesar", "Mark Antony"]
+    },
+    {
+      "question": "What event in 1066 led to the Norman conquest of England and the crowning of William the Conqueror as king?",
+      "correct_answer": "Battle of Hastings",
+      "incorrect_answers": ["Battle of Stamford Bridge", "Battle of Bannockburn", "Battle of Culloden"]
+    },
+    {
+      "question": "Who was the Roman politician and general known for his military campaigns in Gaul and his role in the fall of the Roman Republic?",
+      "correct_answer": "Julius Caesar",
+      "incorrect_answers": ["Augustus", "Cicero", "Brutus"]
+    },
+    {
+      "question": "What famous battle, which took place in 490 BC, is known for the Greek victory over the Persian Empire?",
+      "correct_answer": "Battle of Marathon",
+      "incorrect_answers": ["Battle of Thermopylae", "Battle of Gaugamela", "Battle of Salamis"]
+    },
+    {
+      "question": "In what year did the construction of the Great Wall of China begin?",
+      "correct_answer": "7th century BC",
+      "incorrect_answers": ["3rd century BC", "1st century AD", "2nd century AD"]
+    },
+    {
+      "question": "Who was the famous Greek mathematician and inventor known for his work on geometry and the concept of buoyancy?",
+      "correct_answer": "Archimedes",
+      "incorrect_answers": ["Euclid", "Pythagoras", "Aristotle"]
+    },
+    {
+      "question": "What African leader, who was imprisoned for 27 years, became the first black President of South Africa?",
+      "correct_answer": "Nelson Mandela",
+      "incorrect_answers": ["Desmond Tutu", "Steve Biko", "F.W. de Klerk"]
+    },
+    {
+      "question": "Which European explorer is known for his voyages to the Americas and is credited with discovering the New World?",
+      "correct_answer": "Christopher Columbus",
+      "incorrect_answers": ["Amerigo Vespucci", "Ferdinand Magellan", "Vasco da Gama"]
+    },
+    {
+      "question": "Who is the Roman general known for his crossing of the Rubicon River, leading to a civil war and the eventual end of the Roman Republic?",
+      "correct_answer": "Julius Caesar",
+      "incorrect_answers": ["Augustus", "Cicero", "Brutus"]
+    },
+    {
+      "question": "What is the name of the ancient empire that included much of the eastern Mediterranean and Middle East and is known for its code of laws?",
+      "correct_answer": "Babylonian Empire",
+      "incorrect_answers": ["Roman Empire", "Egyptian Empire", "Ottoman Empire"]
+    },
+    {
+      "question": "Who is known for his theory of evolution by natural selection?",
+      "correct_answer": "Charles Darwin",
+      "incorrect_answers": ["Gregor Mendel", "Louis Pasteur", "Marie Curie"]
+    },
+    {
+      "question": "What event in 1066 led to the Norman conquest of England and the crowning of William the Conqueror as king?",
+      "correct_answer": "Battle of Hastings",
+      "incorrect_answers": ["Battle of Stamford Bridge", "Battle of Bannockburn", "Battle of Culloden"]
+    },
+    {
+      "question": "Who was the legendary leader of the Mongol Empire who created one of the largest empires in history?",
+      "correct_answer": "Genghis Khan",
+      "incorrect_answers": ["Kublai Khan", "Attila the Hun", "Tamerlane"]
+    },
+    {
+      "question": "Which U.S. President delivered the Gettysburg Address during the American Civil War?",
+      "correct_answer": "Abraham Lincoln",
+      "incorrect_answers": ["Andrew Johnson", "Ulysses S. Grant", "Thomas Jefferson"]
+    },
+    {
+      "question": "What European city is known for hosting the Congress of Vienna in 1814, which aimed to redraw the map of Europe after the Napoleonic Wars?",
+      "correct_answer": "Vienna",
+      "incorrect_answers": ["Paris", "London", "Berlin"]
+    },
+    {
+      "question": "What ancient wonder of the world was a massive, statue-filled temple complex located in Babylon, Mesopotamia?",
+      "correct_answer": "Hanging Gardens of Babylon",
+      "incorrect_answers": ["Great Pyramid of Giza", "Colossus of Rhodes", "Statue of Zeus at Olympia"]
+    },
+    {
+      "question": "Who is known for his theory of evolution by natural selection?",
+      "correct_answer": "Charles Darwin",
+      "incorrect_answers": ["Gregor Mendel", "Louis Pasteur", "Marie Curie"]
+    },
+    {
+      "question": "What is the name of the ancient empire that included much of the eastern Mediterranean and Middle East and is known for its code of laws?",
+      "correct_answer": "Babylonian Empire",
+      "incorrect_answers": ["Roman Empire", "Egyptian Empire", "Ottoman Empire"]
+    },
+    {
+      "question": "What treaty, signed in 1215, limited the powers of the English monarchy and is often seen as a foundation of constitutional government?",
+      "correct_answer": "Magna Carta",
+      "incorrect_answers": ["Declaration of Independence", "Bill of Rights", "Mayflower Compact"]
+    },
+    {
+      "question": "Who was the English playwright and poet known for works such as 'Romeo and Juliet' and 'Hamlet'?",
+      "correct_answer": "William Shakespeare",
+      "incorrect_answers": ["Christopher Marlowe", "Ben Jonson", "John Milton"]
+    },
+    {
+      "question": "What U.S. state is known for the 1848 discovery of gold, leading to the California Gold Rush?",
+      "correct_answer": "California",
+      "incorrect_answers": ["Alaska", "Nevada", "Colorado"]
+    },
+    {
+      "question": "Who is the legendary Norse explorer believed to have reached North America around the year 1000, long before Columbus?",
+      "correct_answer": "Leif Erikson",
+      "incorrect_answers": ["Erik the Red", "Thorvald Eiriksson", "Bjarni Herjolfsson"]
+    },
+    {
+      "question": "What ancient civilization is known for its ziggurats, the Tower of Babel, and the epic of Gilgamesh?",
+      "correct_answer": "Sumerians",
+      "incorrect_answers": ["Babylonians", "Assyrians", "Persians"]
+    },
+    {
+      "question": "Which European explorer is known for his expeditions in the Americas and the naming of the Pacific Ocean?",
+      "correct_answer": "Ferdinand Magellan",
+      "incorrect_answers": ["Christopher Columbus", "Amerigo Vespucci", "Hernán Cortés"]
+    },
+    {
+      "question": "What is the name of the ancient city that was the center of the Roman Empire and known for its architecture and engineering?",
+      "correct_answer": "Rome",
+      "incorrect_answers": ["Athens", "Carthage", "Byzantium"]
+    },
+    {
+      "question": "What is the name of the ancient trade route connecting the East and West, which facilitated cultural exchange and trade?",
+      "correct_answer": "Silk Road",
+      "incorrect_answers": ["Spice Route", "Amber Road", "Incense Route"]
+    },
+    {
+      "question": "Who was the Russian mystic and advisor to the Romanov family, often referred to as the 'Mad Monk'?",
+      "correct_answer": "Grigori Rasputin",
+      "incorrect_answers": ["Ivan the Terrible", "Leon Trotsky", "Vladimir Lenin"]
+    },
+    {
+      "question": "What is the name of the ancient city that was the center of the Roman Empire and known for its architecture and engineering?",
+      "correct_answer": "Rome",
+      "incorrect_answers": ["Athens", "Carthage", "Byzantium"]
+    },
+    {
+      "question": "Who was the Russian mystic and advisor to the Romanov family, often referred to as the 'Mad Monk'?",
+      "correct_answer": "Grigori Rasputin",
+      "incorrect_answers": ["Ivan the Terrible", "Leon Trotsky", "Vladimir Lenin"]
+    },
+    {
+      "question": "What famous battle, which took place in 490 BC, is known for the Greek victory over the Persian Empire?",
+      "correct_answer": "Battle of Marathon",
+      "incorrect_answers": ["Battle of Thermopylae", "Battle of Gaugamela", "Battle of Salamis"]
+    },
+    {
+      "question": "In what year did the Ming Dynasty overthrow the Mongol-ruled Yuan Dynasty in China?",
+      "correct_answer": "1368",
+      "incorrect_answers": ["1420", "1305", "1415"]
+    },
+    {
+      "question": "What ancient civilization is known for inventing the world's first writing system called cuneiform?",
+      "correct_answer": "Sumerians",
+      "incorrect_answers": ["Egyptians", "Minoans", "Mayans"]
+    },
+    {
+      "question": "Who was the famous English explorer and privateer known for his voyages to the New World and his defeat of the Spanish Armada?",
+      "correct_answer": "Francis Drake",
+      "incorrect_answers": ["Walter Raleigh", "Henry Hudson", "James Cook"]
+    },
+    {
+      "question": "Which U.S. President is known for his leadership during the American Civil War and the Emancipation Proclamation?",
+      "correct_answer": "Abraham Lincoln",
+      "incorrect_answers": ["Ulysses S. Grant", "Andrew Johnson", "Thomas Jefferson"]
+    },
+    {
+      "question": "What is the name of the ancient trade route connecting the East and West, which facilitated cultural exchange and trade?",
+      "correct_answer": "Silk Road",
+      "incorrect_answers": ["Spice Route", "Amber Road", "Incense Route"]
+    },
+    {
+      "question": "Who was the Russian mystic and advisor to the Romanov family, often referred to as the 'Mad Monk'?",
+      "correct_answer": "Grigori Rasputin",
+      "incorrect_answers": ["Ivan the Terrible", "Leon Trotsky", "Vladimir Lenin"]
+    },
+    {
+      "question": "What famous battle, which took place in 490 BC, is known for the Greek victory over the Persian Empire?",
+      "correct_answer": "Battle of Marathon",
+      "incorrect_answers": ["Battle of Thermopylae", "Battle of Gaugamela", "Battle of Salamis"]
+    },
+    {
+      "question": "In what year was the construction of the Great Wall of China initiated?",
+      "correct_answer": "7th century BC",
+      "incorrect_answers": ["3rd century BC", "1st century AD", "2nd century AD"]
+    },
+    {
+      "question": "Who is the legendary Norse explorer believed to have reached North America around the year 1000, long before Columbus?",
+      "correct_answer": "Leif Erikson",
+      "incorrect_answers": ["Erik the Red", "Thorvald Eiriksson", "Bjarni Herjolfsson"]
+    },
+    {
+      "question": "What event in 1066 led to the Norman conquest of England and the crowning of William the Conqueror as king?",
+      "correct_answer": "Battle of Hastings",
+      "incorrect_answers": ["Battle of Stamford Bridge", "Battle of Bannockburn", "Battle of Culloden"]
+    },
+    {
+      "question": "Who was the Roman politician and general known for his military campaigns in Gaul and his role in the fall of the Roman Republic?",
+      "correct_answer": "Julius Caesar",
+      "incorrect_answers": ["Augustus", "Cicero", "Brutus"]
+    },
+    {
+      "question": "What famous ship was a British passenger liner that sank on its maiden voyage in 1912?",
+      "correct_answer": "Titanic",
+      "incorrect_answers": ["Lusitania", "Olympic", "Britannic"]
+    },
+    {
+      "question": "Who is known for leading the Salt March, a nonviolent protest against British salt taxes in India?",
+      "correct_answer": "Mahatma Gandhi",
+      "incorrect_answers": ["Jawaharlal Nehru", "Bhagat Singh", "Subhas Chandra Bose"]
+    },
+    {
+      "question": "Which African explorer is known for his expeditions in Africa, including the search for Dr. David Livingstone?",
+      "correct_answer": "Henry Morton Stanley",
+      "incorrect_answers": ["Sir Richard Burton", "Mungo Park", "John Hanning Speke"]
+    },
+    {
+      "question": "Who was the legendary leader of the Mongol Empire who created one of the largest empires in history?",
+      "correct_answer": "Genghis Khan",
+      "incorrect_answers": ["Kublai Khan", "Attila the Hun", "Tamerlane"]
+    },
+    {
+      "question": "What ancient city, known for its hanging gardens and a code of laws, was located in Mesopotamia?",
+      "correct_answer": "Babylon",
+      "incorrect_answers": ["Thebes", "Ur", "Nineveh"]
+    },
+    {
+      "question": "What famous ship was a British passenger liner that sank on its maiden voyage in 1912?",
+      "correct_answer": "Titanic",
+      "incorrect_answers": ["Lusitania", "Olympic", "Britannic"]
+    },
+    {
+      "question": "Who is known for leading the Salt March, a nonviolent protest against British salt taxes in India?",
+      "correct_answer": "Mahatma Gandhi",
+      "incorrect_answers": ["Jawaharlal Nehru", "Bhagat Singh", "Subhas Chandra Bose"]
+    },
+    {
+      "question": "What famous ship was a British passenger liner that sank on its maiden voyage in 1912?",
+      "correct_answer": "Titanic",
+      "incorrect_answers": ["Lusitania", "Olympic", "Britannic"]
+    },
+    {
+      "question": "Who is known for leading the Salt March, a nonviolent protest against British salt taxes in India?",
+      "correct_answer": "Mahatma Gandhi",
+      "incorrect_answers": ["Jawaharlal Nehru", "Bhagat Singh", "Subhas Chandra Bose"]
+    }
+  ]
+}

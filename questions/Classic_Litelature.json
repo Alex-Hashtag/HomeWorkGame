@@ -1,0 +1,1025 @@
+{
+  "category": "Classic Literature",
+  "questions": [
+    {
+      "question": "Who wrote the novel 'Pride and Prejudice'?",
+      "correct_answer": "Jane Austen",
+      "incorrect_answers": ["Emily Brontë", "Charles Dickens", "F. Scott Fitzgerald"]
+    },
+    {
+      "question": "Which classic novel begins with the line, 'It was the best of times, it was the worst of times'?",
+      "correct_answer": "A Tale of Two Cities",
+      "incorrect_answers": ["Moby-Dick", "War and Peace", "The Great Gatsby"]
+    },
+    {
+      "question": "In the novel 'To Kill a Mockingbird,' who is the lawyer defending Tom Robinson?",
+      "correct_answer": "Atticus Finch",
+      "incorrect_answers": ["Jem Finch", "Boo Radley", "Bob Ewell"]
+    },
+    {
+      "question": "Who is the author of the novel '1984'?",
+      "correct_answer": "George Orwell",
+      "incorrect_answers": ["Aldous Huxley", "Ray Bradbury", "Franz Kafka"]
+    },
+    {
+      "question": "Which classic novel tells the story of Pip and his journey from a blacksmith's apprentice to a gentleman?",
+      "correct_answer": "Great Expectations",
+      "incorrect_answers": ["Oliver Twist", "David Copperfield", "Jane Eyre"]
+    },
+    {
+      "question": "What novel is known for the line, 'Call me Ishmael'?",
+      "correct_answer": "Moby-Dick",
+      "incorrect_answers": ["The Old Man and the Sea", "The Sea Wolf", "White Fang"]
+    },
+    {
+      "question": "Who wrote the novel 'Wuthering Heights'?",
+      "correct_answer": "Emily Brontë",
+      "incorrect_answers": ["Charlotte Brontë", "Jane Austen", "George Eliot"]
+    },
+    {
+      "question": "In the novel 'Frankenstein,' who is the scientist who creates the monster?",
+      "correct_answer": "Victor Frankenstein",
+      "incorrect_answers": ["Henry Clerval", "Robert Walton", "Ernest Frankenstein"]
+    },
+    {
+      "question": "What is the title of the novel by Jane Austen that tells the story of Elizabeth Bennet and Mr. Darcy?",
+      "correct_answer": "Pride and Prejudice",
+      "incorrect_answers": ["Sense and Sensibility", "Emma", "Mansfield Park"]
+    },
+    {
+      "question": "In 'The Catcher in the Rye,' what is the name of the novel's protagonist and narrator?",
+      "correct_answer": "Holden Caulfield",
+      "incorrect_answers": ["Jay Gatsby", "Scout Finch", "Huckleberry Finn"]
+    },
+    {
+      "question": "Who is the author of the novel 'Moby-Dick'?",
+      "correct_answer": "Herman Melville",
+      "incorrect_answers": ["Mark Twain", "Nathaniel Hawthorne", "Edgar Allan Poe"]
+    },
+    {
+      "question": "Which classic novel is set in the American South and explores themes of racism and injustice?",
+      "correct_answer": "To Kill a Mockingbird",
+      "incorrect_answers": ["The Grapes of Wrath", "Of Mice and Men", "The Scarlet Letter"]
+    },
+    {
+      "question": "In '1984,' what government organization is responsible for thought control and propaganda?",
+      "correct_answer": "Ministry of Truth",
+      "incorrect_answers": ["Ministry of Love", "Ministry of Peace", "Ministry of Plenty"]
+    },
+    {
+      "question": "Who wrote the novel 'Jane Eyre'?",
+      "correct_answer": "Charlotte Brontë",
+      "incorrect_answers": ["Emily Brontë", "Jane Austen", "George Eliot"]
+    },
+    {
+      "question": "In 'Pride and Prejudice,' what is the name of Mr. Darcy's estate?",
+      "correct_answer": "Pemberley",
+      "incorrect_answers": ["Thornfield Hall", "Longbourn", "Barton Cottage"]
+    },
+    {
+      "question": "Which classic novel is a dystopian tale of a future society controlled by Big Brother?",
+      "correct_answer": "1984",
+      "incorrect_answers": ["Brave New World", "Fahrenheit 451", "The Handmaid's Tale"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Great Gatsby'?",
+      "correct_answer": "F. Scott Fitzgerald",
+      "incorrect_answers": ["Ernest Hemingway", "John Steinbeck", "William Faulkner"]
+    },
+    {
+      "question": "In 'To Kill a Mockingbird,' who is Scout Finch's father?",
+      "correct_answer": "Atticus Finch",
+      "incorrect_answers": ["Tom Robinson", "Boo Radley", "Bob Ewell"]
+    },
+    {
+      "question": "What novel tells the story of a ship's crew pursuing a great white whale named Moby-Dick?",
+      "correct_answer": "Moby-Dick",
+      "incorrect_answers": ["The Old Man and the Sea", "The Sea Wolf", "White Fang"]
+    },
+    {
+      "question": "Who is the author of the novel 'Oliver Twist'?",
+      "correct_answer": "Charles Dickens",
+      "incorrect_answers": ["Thomas Hardy", "George Eliot", "William Makepeace Thackeray"]
+    },
+    {
+      "question": "In 'Great Expectations,' what is the name of the mysterious benefactor who finances Pip's education and lifestyle?",
+      "correct_answer": "Abel Magwitch",
+      "incorrect_answers": ["Uriah Heep", "Ebenezer Scrooge", "Silas Marner"]
+    },
+    {
+      "question": "Which classic novel features the character Jean Valjean, who is imprisoned for stealing a loaf of bread?",
+      "correct_answer": "Les Misérables",
+      "incorrect_answers": ["The Count of Monte Cristo", "War and Peace", "The Hunchback of Notre-Dame"]
+    },
+    {
+      "question": "Who is the author of the novel 'Walden,' which reflects on simple living in natural surroundings?",
+      "correct_answer": "Henry David Thoreau",
+      "incorrect_answers": ["Ralph Waldo Emerson", "Nathaniel Hawthorne", "Herman Melville"]
+    },
+    {
+      "question": "What novel is known for the line, 'Call me Ishmael'?",
+      "correct_answer": "Moby-Dick",
+      "incorrect_answers": ["The Old Man and the Sea", "The Sea Wolf", "White Fang"]
+    },
+    {
+      "question": "Who is the author of the novel 'Wuthering Heights'?",
+      "correct_answer": "Emily Brontë",
+      "incorrect_answers": ["Charlotte Brontë", "Jane Austen", "George Eliot"]
+    },
+    {
+      "question": "In 'Dracula,' who is the infamous vampire hunter known for his garlic and wooden stakes?",
+      "correct_answer": "Professor Abraham Van Helsing",
+      "incorrect_answers": ["Jonathan Harker", "Renfield", "Lucy Westenra"]
+    },
+    {
+      "question": "What classic novel is set in the fictional town of Maycomb, Alabama, and is narrated by Scout Finch?",
+      "correct_answer": "To Kill a Mockingbird",
+      "incorrect_answers": ["The Grapes of Wrath", "Of Mice and Men", "The Scarlet Letter"]
+    },
+    {
+      "question": "Who is the author of the novel 'Frankenstein'?",
+      "correct_answer": "Mary Shelley",
+      "incorrect_answers": ["Bram Stoker", "Edgar Allan Poe", "H.G. Wells"]
+    },
+    {
+      "question": "In 'Pride and Prejudice,' who is the eldest Bennet sister and the novel's protagonist?",
+      "correct_answer": "Elizabeth Bennet",
+      "incorrect_answers": ["Jane Bennet", "Lydia Bennet", "Kitty Bennet"]
+    },
+    {
+      "question": "Which classic novel is set in the American South and explores themes of racism and injustice?",
+      "correct_answer": "To Kill a Mockingbird",
+      "incorrect_answers": ["The Grapes of Wrath", "Of Mice and Men", "The Scarlet Letter"]
+    },
+    {
+      "question": "Who wrote the novel 'Pride and Prejudice'?",
+      "correct_answer": "Jane Austen",
+      "incorrect_answers": ["Emily Brontë", "Charles Dickens", "F. Scott Fitzgerald"]
+    },
+    {
+      "question": "Which classic novel begins with the line, 'It was the best of times, it was the worst of times'?",
+      "correct_answer": "A Tale of Two Cities",
+      "incorrect_answers": ["Moby-Dick", "War and Peace", "The Great Gatsby"]
+    },
+    {
+      "question": "In 'To Kill a Mockingbird,' who is the lawyer defending Tom Robinson?",
+      "correct_answer": "Atticus Finch",
+      "incorrect_answers": ["Jem Finch", "Boo Radley", "Bob Ewell"]
+    },
+    {
+      "question": "Who is the author of the novel '1984'?",
+      "correct_answer": "George Orwell",
+      "incorrect_answers": ["Aldous Huxley", "Ray Bradbury", "Franz Kafka"]
+    },
+    {
+      "question": "Which classic novel tells the story of Pip and his journey from a blacksmith's apprentice to a gentleman?",
+      "correct_answer": "Great Expectations",
+      "incorrect_answers": ["Oliver Twist", "David Copperfield", "Jane Eyre"]
+    },
+    {
+      "question": "What novel is known for the line, 'Call me Ishmael'?",
+      "correct_answer": "Moby-Dick",
+      "incorrect_answers": ["The Old Man and the Sea", "The Sea Wolf", "White Fang"]
+    },
+    {
+      "question": "Who wrote the novel 'Wuthering Heights'?",
+      "correct_answer": "Emily Brontë",
+      "incorrect_answers": ["Charlotte Brontë", "Jane Austen", "George Eliot"]
+    },
+    {
+      "question": "In the novel 'Frankenstein,' who is the scientist who creates the monster?",
+      "correct_answer": "Victor Frankenstein",
+      "incorrect_answers": ["Henry Clerval", "Robert Walton", "Ernest Frankenstein"]
+    },
+    {
+      "question": "What is the title of the novel by Jane Austen that tells the story of Elizabeth Bennet and Mr. Darcy?",
+      "correct_answer": "Pride and Prejudice",
+      "incorrect_answers": ["Sense and Sensibility", "Emma", "Mansfield Park"]
+    },
+    {
+      "question": "In 'The Catcher in the Rye,' what is the name of the novel's protagonist and narrator?",
+      "correct_answer": "Holden Caulfield",
+      "incorrect_answers": ["Jay Gatsby", "Scout Finch", "Huckleberry Finn"]
+    },
+    {
+      "question": "Who is the author of the novel 'Moby-Dick'?",
+      "correct_answer": "Herman Melville",
+      "incorrect_answers": ["Mark Twain", "Nathaniel Hawthorne", "Edgar Allan Poe"]
+    },
+    {
+      "question": "Which classic novel is set in the American South and explores themes of racism and injustice?",
+      "correct_answer": "To Kill a Mockingbird",
+      "incorrect_answers": ["The Grapes of Wrath", "Of Mice and Men", "The Scarlet Letter"]
+    },
+    {
+      "question": "In '1984,' what government organization is responsible for thought control and propaganda?",
+      "correct_answer": "Ministry of Truth",
+      "incorrect_answers": ["Ministry of Love", "Ministry of Peace", "Ministry of Plenty"]
+    },
+    {
+      "question": "Who is the author of the novel 'Jane Eyre'?",
+      "correct_answer": "Charlotte Brontë",
+      "incorrect_answers": ["Emily Brontë", "Jane Austen", "George Eliot"]
+    },
+    {
+      "question": "In 'Pride and Prejudice,' what is the name of Mr. Darcy's estate?",
+      "correct_answer": "Pemberley",
+      "incorrect_answers": ["Thornfield Hall", "Longbourn", "Barton Cottage"]
+    },
+    {
+      "question": "Which classic novel is a dystopian tale of a future society controlled by Big Brother?",
+      "correct_answer": "1984",
+      "incorrect_answers": ["Brave New World", "Fahrenheit 451", "The Handmaid's Tale"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Great Gatsby'?",
+      "correct_answer": "F. Scott Fitzgerald",
+      "incorrect_answers": ["Ernest Hemingway", "John Steinbeck", "William Faulkner"]
+    },
+    {
+      "question": "In 'To Kill a Mockingbird,' who is Scout Finch's father?",
+      "correct_answer": "Atticus Finch",
+      "incorrect_answers": ["Tom Robinson", "Boo Radley", "Bob Ewell"]
+    },
+    {
+      "question": "What novel tells the story of a ship's crew pursuing a great white whale named Moby-Dick?",
+      "correct_answer": "Moby-Dick",
+      "incorrect_answers": ["The Old Man and the Sea", "The Sea Wolf", "White Fang"]
+    },
+    {
+      "question": "Who is the author of the novel 'Oliver Twist'?",
+      "correct_answer": "Charles Dickens",
+      "incorrect_answers": ["Thomas Hardy", "George Eliot", "William Makepeace Thackeray"]
+    },
+    {
+      "question": "In 'Great Expectations,' what is the name of the mysterious benefactor who finances Pip's education and lifestyle?",
+      "correct_answer": "Abel Magwitch",
+      "incorrect_answers": ["Uriah Heep", "Ebenezer Scrooge", "Silas Marner"]
+    },
+    {
+      "question": "Which classic novel features the character Jean Valjean, who is imprisoned for stealing a loaf of bread?",
+      "correct_answer": "Les Misérables",
+      "incorrect_answers": ["The Count of Monte Cristo", "War and Peace", "The Hunchback of Notre-Dame"]
+    },
+    {
+      "question": "Who is the author of the novel 'Walden,' which reflects on simple living in natural surroundings?",
+      "correct_answer": "Henry David Thoreau",
+      "incorrect_answers": ["Ralph Waldo Emerson", "Nathaniel Hawthorne", "Herman Melville"]
+    },
+    {
+      "question": "What novel is known for the line, 'Call me Ishmael'?",
+      "correct_answer": "Moby-Dick",
+      "incorrect_answers": ["The Old Man and the Sea", "The Sea Wolf", "White Fang"]
+    },
+    {
+      "question": "Who is the author of the novel 'Wuthering Heights'?",
+      "correct_answer": "Emily Brontë",
+      "incorrect_answers": ["Charlotte Brontë", "Jane Austen", "George Eliot"]
+    },
+    {
+      "question": "In 'Dracula,' who is the infamous vampire hunter known for his garlic and wooden stakes?",
+      "correct_answer": "Professor Abraham Van Helsing",
+      "incorrect_answers": ["Jonathan Harker", "Renfield", "Lucy Westenra"]
+    },
+    {
+      "question": "What classic novel is set in the fictional town of Maycomb, Alabama, and is narrated by Scout Finch?",
+      "correct_answer": "To Kill a Mockingbird",
+      "incorrect_answers": ["The Grapes of Wrath", "Of Mice and Men", "The Scarlet Letter"]
+    },
+    {
+      "question": "Who is the author of the novel 'Frankenstein'?",
+      "correct_answer": "Mary Shelley",
+      "incorrect_answers": ["Bram Stoker", "Edgar Allan Poe", "H.G. Wells"]
+    },
+    {
+      "question": "In 'Pride and Prejudice,' who is the eldest Bennet sister and the novel's protagonist?",
+      "correct_answer": "Elizabeth Bennet",
+      "incorrect_answers": ["Jane Bennet", "Lydia Bennet", "Kitty Bennet"]
+    },
+    {
+      "question": "Which classic novel is set in the American South and explores themes of racism and injustice?",
+      "correct_answer": "To Kill a Mockingbird",
+      "incorrect_answers": ["The Grapes of Wrath", "Of Mice and Men", "The Scarlet Letter"]
+    },
+    {
+      "question": "Who wrote the novel 'Pride and Prejudice'?",
+      "correct_answer": "Jane Austen",
+      "incorrect_answers": ["Emily Brontë", "Charles Dickens", "F. Scott Fitzgerald"]
+    },
+    {
+      "question": "Which classic novel begins with the line, 'It was the best of times, it was the worst of times'?",
+      "correct_answer": "A Tale of Two Cities",
+      "incorrect_answers": ["Moby-Dick", "War and Peace", "The Great Gatsby"]
+    },
+    {
+      "question": "In 'To Kill a Mockingbird,' who is the lawyer defending Tom Robinson?",
+      "correct_answer": "Atticus Finch",
+      "incorrect_answers": ["Jem Finch", "Boo Radley", "Bob Ewell"]
+    },
+    {
+      "question": "Who is the author of the novel '1984'?",
+      "correct_answer": "George Orwell",
+      "incorrect_answers": ["Aldous Huxley", "Ray Bradbury", "Franz Kafka"]
+    },
+    {
+      "question": "Which classic novel tells the story of Pip and his journey from a blacksmith's apprentice to a gentleman?",
+      "correct_answer": "Great Expectations",
+      "incorrect_answers": ["Oliver Twist", "David Copperfield", "Jane Eyre"]
+    },
+    {
+      "question": "What novel is known for the line, 'Call me Ishmael'?",
+      "correct_answer": "Moby-Dick",
+      "incorrect_answers": ["The Old Man and the Sea", "The Sea Wolf", "White Fang"]
+    },
+    {
+      "question": "Who wrote the novel 'Wuthering Heights'?",
+      "correct_answer": "Emily Brontë",
+      "incorrect_answers": ["Charlotte Brontë", "Jane Austen", "George Eliot"]
+    },
+    {
+      "question": "In the novel 'Frankenstein,' who is the scientist who creates the monster?",
+      "correct_answer": "Victor Frankenstein",
+      "incorrect_answers": ["Henry Clerval", "Robert Walton", "Ernest Frankenstein"]
+    },
+    {
+      "question": "What is the title of the novel by Jane Austen that tells the story of Elizabeth Bennet and Mr. Darcy?",
+      "correct_answer": "Pride and Prejudice",
+      "incorrect_answers": ["Sense and Sensibility", "Emma", "Mansfield Park"]
+    },
+    {
+      "question": "In 'The Catcher in the Rye,' what is the name of the novel's protagonist and narrator?",
+      "correct_answer": "Holden Caulfield",
+      "incorrect_answers": ["Jay Gatsby", "Scout Finch", "Huckleberry Finn"]
+    },
+    {
+      "question": "Who is the author of the novel 'Moby-Dick'?",
+      "correct_answer": "Herman Melville",
+      "incorrect_answers": ["Mark Twain", "Nathaniel Hawthorne", "Edgar Allan Poe"]
+    },
+    {
+      "question": "Which classic novel is set in the American South and explores themes of racism and injustice?",
+      "correct_answer": "To Kill a Mockingbird",
+      "incorrect_answers": ["The Grapes of Wrath", "Of Mice and Men", "The Scarlet Letter"]
+    },
+    {
+      "question": "In '1984,' what government organization is responsible for thought control and propaganda?",
+      "correct_answer": "Ministry of Truth",
+      "incorrect_answers": ["Ministry of Love", "Ministry of Peace", "Ministry of Plenty"]
+    },
+    {
+      "question": "Who is the author of the novel 'Jane Eyre'?",
+      "correct_answer": "Charlotte Brontë",
+      "incorrect_answers": ["Emily Brontë", "Jane Austen", "George Eliot"]
+    },
+    {
+      "question": "In 'Pride and Prejudice,' what is the name of Mr. Darcy's estate?",
+      "correct_answer": "Pemberley",
+      "incorrect_answers": ["Thornfield Hall", "Longbourn", "Barton Cottage"]
+    },
+    {
+      "question": "Which classic novel is a dystopian tale of a future society controlled by Big Brother?",
+      "correct_answer": "1984",
+      "incorrect_answers": ["Brave New World", "Fahrenheit 451", "The Handmaid's Tale"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Great Gatsby'?",
+      "correct_answer": "F. Scott Fitzgerald",
+      "incorrect_answers": ["Ernest Hemingway", "John Steinbeck", "William Faulkner"]
+    },
+    {
+      "question": "In 'To Kill a Mockingbird,' who is Scout Finch's father?",
+      "correct_answer": "Atticus Finch",
+      "incorrect_answers": ["Tom Robinson", "Boo Radley", "Bob Ewell"]
+    },
+    {
+      "question": "What novel tells the story of a ship's crew pursuing a great white whale named Moby-Dick?",
+      "correct_answer": "Moby-Dick",
+      "incorrect_answers": ["The Old Man and the Sea", "The Sea Wolf", "White Fang"]
+    },
+    {
+      "question": "Who is the author of the novel 'Oliver Twist'?",
+      "correct_answer": "Charles Dickens",
+      "incorrect_answers": ["Thomas Hardy", "George Eliot", "William Makepeace Thackeray"]
+    },
+    {
+      "question": "In 'Great Expectations,' what is the name of the mysterious benefactor who finances Pip's education and lifestyle?",
+      "correct_answer": "Abel Magwitch",
+      "incorrect_answers": ["Uriah Heep", "Ebenezer Scrooge", "Silas Marner"]
+    },
+    {
+      "question": "Which classic novel features the character Jean Valjean, who is imprisoned for stealing a loaf of bread?",
+      "correct_answer": "Les Misérables",
+      "incorrect_answers": ["The Count of Monte Cristo", "War and Peace", "The Hunchback of Notre-Dame"]
+    },
+    {
+      "question": "In 'The Great Gatsby,' who is the enigmatic millionaire known for his extravagant parties and unrequited love for Daisy Buchanan?",
+      "correct_answer": "Jay Gatsby",
+      "incorrect_answers": ["Tom Buchanan", "Nick Carraway", "Myrtle Wilson"]
+    },
+    {
+      "question": "What classic novel tells the story of a shipwrecked sailor named Robinson Crusoe who survives on a desert island for many years?",
+      "correct_answer": "Robinson Crusoe",
+      "incorrect_answers": ["Treasure Island", "Moby-Dick", "Gulliver's Travels"]
+    },
+    {
+      "question": "Who wrote the novel 'Brave New World,' which explores a dystopian society where people are controlled through technology and social conditioning?",
+      "correct_answer": "Aldous Huxley",
+      "incorrect_answers": ["George Orwell", "Ray Bradbury", "Philip K. Dick"]
+    },
+    {
+      "question": "In 'Jane Eyre,' what is the name of the mysterious mansion where Mr. Rochester lives?",
+      "correct_answer": "Thornfield Hall",
+      "incorrect_answers": ["Pemberley", "Manderley", "Wuthering Heights"]
+    },
+    {
+      "question": "Who is the author of the novel 'Mansfield Park'?",
+      "correct_answer": "Jane Austen",
+      "incorrect_answers": ["Emily Brontë", "George Eliot", "Charlotte Brontë"]
+    },
+    {
+      "question": "In 'Dracula,' who is the infamous vampire known for his blood-sucking and hypnotic powers?",
+      "correct_answer": "Count Dracula",
+      "incorrect_answers": ["Renfield", "Professor Van Helsing", "Lucy Westenra"]
+    },
+    {
+      "question": "What classic novel is known for its opening line, 'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife'?",
+      "correct_answer": "Pride and Prejudice",
+      "incorrect_answers": ["Sense and Sensibility", "Emma", "Mansfield Park"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Picture of Dorian Gray'?",
+      "correct_answer": "Oscar Wilde",
+      "incorrect_answers": ["Edgar Allan Poe", "Henry James", "Bram Stoker"]
+    },
+    {
+      "question": "In 'Jane Eyre,' what is the name of the cruel aunt with whom Jane lives after being orphaned?",
+      "correct_answer": "Mrs. Reed",
+      "incorrect_answers": ["Mrs. Fairfax", "Mrs. Smith", "Mrs. Rivers"]
+    },
+    {
+      "question": "What classic novel tells the story of a man named Victor Frankenstein who creates a creature in his laboratory?",
+      "correct_answer": "Frankenstein",
+      "incorrect_answers": ["Dracula", "The Hunchback of Notre-Dame", "The Phantom of the Opera"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Brothers Karamazov'?",
+      "correct_answer": "Fyodor Dostoevsky",
+      "incorrect_answers": ["Leo Tolstoy", "Anton Chekhov", "Ivan Turgenev"]
+    },
+    {
+      "question": "In 'Wuthering Heights,' what is the name of the estate where the story takes place?",
+      "correct_answer": "Wuthering Heights",
+      "incorrect_answers": ["Thornfield Hall", "Pemberley", "Manderley"]
+    },
+    {
+      "question": "Who wrote the novel 'The Call of the Wild,' which tells the story of a dog named Buck and his adventures in the Yukon wilderness?",
+      "correct_answer": "Jack London",
+      "incorrect_answers": ["Mark Twain", "Robert Louis Stevenson", "Herman Melville"]
+    },
+    {
+      "question": "In 'The Catcher in the Rye,' what is the name of Holden Caulfield's younger sister?",
+      "correct_answer": "Phoebe",
+      "incorrect_answers": ["Allie", "D.B.", "Sunny"]
+    },
+    {
+      "question": "What classic novel explores the adventures of a young girl named Alice who falls through a rabbit hole into a fantastical world?",
+      "correct_answer": "Alice's Adventures in Wonderland",
+      "incorrect_answers": ["Peter Pan", "The Secret Garden", "Little Women"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Adventures of Sherlock Holmes'?",
+      "correct_answer": "Arthur Conan Doyle",
+      "incorrect_answers": ["Agatha Christie", "Edgar Allan Poe", "Raymond Chandler"]
+    },
+    {
+      "question": "In 'The Picture of Dorian Gray,' what remains unchanged while the portrait ages and shows the effects of Dorian's debauchery?",
+      "correct_answer": "Dorian Gray's portrait",
+      "incorrect_answers": ["Dorian Gray's soul", "Dorian Gray's mind", "Dorian Gray's wealth"]
+    },
+    {
+      "question": "What classic novel tells the story of a young orphan named Pip and his journey from a blacksmith's apprentice to a gentleman?",
+      "correct_answer": "Great Expectations",
+      "incorrect_answers": ["Oliver Twist", "David Copperfield", "Jane Eyre"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Jungle,' which exposes the harsh conditions of the meatpacking industry in Chicago?",
+      "correct_answer": "Upton Sinclair",
+      "incorrect_answers": ["Sinclair Lewis", "John Steinbeck", "Theodore Dreiser"]
+    },
+    {
+      "question": "In 'The Odyssey,' who is the Greek hero known for his cleverness and his role in the Trojan War?",
+      "correct_answer": "Odysseus",
+      "incorrect_answers": ["Achilles", "Hector", "Agamemnon"]
+    },
+    {
+      "question": "What classic novel is set on a desert island and tells the story of a group of boys who descend into savagery?",
+      "correct_answer": "Lord of the Flies",
+      "incorrect_answers": ["The Coral Island", "Treasure Island", "Robinson Crusoe"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Grapes of Wrath,' which tells the story of the Joad family's journey to California during the Great Depression?",
+      "correct_answer": "John Steinbeck",
+      "incorrect_answers": ["Ernest Hemingway", "F. Scott Fitzgerald", "William Faulkner"]
+    },
+    {
+      "question": "In 'War and Peace,' who is the Russian general known for his leadership during the Napoleonic Wars?",
+      "correct_answer": "Prince Andrei Bolkonsky",
+      "incorrect_answers": ["Count Pierre Bezukhov", "Napoleon Bonaparte", "Borodino"]
+    },
+    {
+      "question": "What classic novel features the character Jean Valjean, who is imprisoned for stealing a loaf of bread?",
+      "correct_answer": "Les Misérables",
+      "incorrect_answers": ["The Count of Monte Cristo", "War and Peace", "The Hunchback of Notre-Dame"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Hunchback of Notre-Dame'?",
+      "correct_answer": "Victor Hugo",
+      "incorrect_answers": ["Alexandre Dumas", "Gustave Flaubert", "Émile Zola"]
+    },
+    {
+      "question": "In 'Sense and Sensibility,' what is the name of the elder Dashwood sister who is known for her practical and reserved nature?",
+      "correct_answer": "Elinor",
+      "incorrect_answers": ["Marianne", "Lucy", "Fanny"]
+    },
+    {
+      "question": "What classic novel is a satirical work that tells the story of the titular character's journey through various lands and adventures?",
+      "correct_answer": "Gulliver's Travels",
+      "incorrect_answers": ["Robinson Crusoe", "Treasure Island", "Moby-Dick"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Scarlet Letter'?",
+      "correct_answer": "Nathaniel Hawthorne",
+      "incorrect_answers": ["Herman Melville", "Edgar Allan Poe", "Louisa May Alcott"]
+    },
+    {
+      "question": "In 'The Great Gatsby,' who is the enigmatic millionaire known for his extravagant parties and unrequited love for Daisy Buchanan?",
+      "correct_answer": "Jay Gatsby",
+      "incorrect_answers": ["Tom Buchanan", "Nick Carraway", "Myrtle Wilson"]
+    },
+    {
+      "question": "What classic novel tells the story of a shipwrecked sailor named Robinson Crusoe who survives on a desert island for many years?",
+      "correct_answer": "Robinson Crusoe",
+      "incorrect_answers": ["Treasure Island", "Moby-Dick", "Gulliver's Travels"]
+    },
+    {
+      "question": "Who wrote the novel 'Brave New World,' which explores a dystopian society where people are controlled through technology and social conditioning?",
+      "correct_answer": "Aldous Huxley",
+      "incorrect_answers": ["George Orwell", "Ray Bradbury", "Philip K. Dick"]
+    },
+    {
+      "question": "In 'Jane Eyre,' what is the name of the mysterious mansion where Mr. Rochester lives?",
+      "correct_answer": "Thornfield Hall",
+      "incorrect_answers": ["Pemberley", "Manderley", "Wuthering Heights"]
+    },
+    {
+      "question": "Who is the author of the novel 'Mansfield Park'?",
+      "correct_answer": "Jane Austen",
+      "incorrect_answers": ["Emily Brontë", "George Eliot", "Charlotte Brontë"]
+    },
+    {
+      "question": "In 'Dracula,' who is the infamous vampire known for his blood-sucking and hypnotic powers?",
+      "correct_answer": "Count Dracula",
+      "incorrect_answers": ["Renfield", "Professor Van Helsing", "Lucy Westenra"]
+    },
+    {
+      "question": "What classic novel is known for its opening line, 'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife'?",
+      "correct_answer": "Pride and Prejudice",
+      "incorrect_answers": ["Sense and Sensibility", "Emma", "Mansfield Park"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Picture of Dorian Gray'?",
+      "correct_answer": "Oscar Wilde",
+      "incorrect_answers": ["Edgar Allan Poe", "Henry James", "Bram Stoker"]
+    },
+    {
+      "question": "In 'Jane Eyre,' what is the name of the cruel aunt with whom Jane lives after being orphaned?",
+      "correct_answer": "Mrs. Reed",
+      "incorrect_answers": ["Mrs. Fairfax", "Mrs. Smith", "Mrs. Rivers"]
+    },
+    {
+      "question": "What classic novel tells the story of a man named Victor Frankenstein who creates a creature in his laboratory?",
+      "correct_answer": "Frankenstein",
+      "incorrect_answers": ["Dracula", "The Hunchback of Notre-Dame", "The Phantom of the Opera"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Brothers Karamazov'?",
+      "correct_answer": "Fyodor Dostoevsky",
+      "incorrect_answers": ["Leo Tolstoy", "Anton Chekhov", "Ivan Turgenev"]
+    },
+    {
+      "question": "In 'Wuthering Heights,' what is the name of the estate where the story takes place?",
+      "correct_answer": "Wuthering Heights",
+      "incorrect_answers": ["Thornfield Hall", "Pemberley", "Manderley"]
+    },
+    {
+      "question": "Who wrote the novel 'The Call of the Wild,' which tells the story of a dog named Buck and his adventures in the Yukon wilderness?",
+      "correct_answer": "Jack London",
+      "incorrect_answers": ["Mark Twain", "Robert Louis Stevenson", "Herman Melville"]
+    },
+    {
+      "question": "In 'The Catcher in the Rye,' what is the name of Holden Caulfield's younger sister?",
+      "correct_answer": "Phoebe",
+      "incorrect_answers": ["Allie", "D.B.", "Sunny"]
+    },
+    {
+      "question": "What classic novel explores the adventures of a young girl named Alice who falls through a rabbit hole into a fantastical world?",
+      "correct_answer": "Alice's Adventures in Wonderland",
+      "incorrect_answers": ["Peter Pan", "The Secret Garden", "Little Women"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Adventures of Sherlock Holmes'?",
+      "correct_answer": "Arthur Conan Doyle",
+      "incorrect_answers": ["Agatha Christie", "Edgar Allan Poe", "Raymond Chandler"]
+    },
+    {
+      "question": "In 'The Picture of Dorian Gray,' what remains unchanged while the portrait ages and shows the effects of Dorian's debauchery?",
+      "correct_answer": "Dorian Gray's portrait",
+      "incorrect_answers": ["Dorian Gray's soul", "Dorian Gray's mind", "Dorian Gray's wealth"]
+    },
+    {
+      "question": "What classic novel is set on a desert island and tells the story of a group of boys who descend into savagery?",
+      "correct_answer": "Lord of the Flies",
+      "incorrect_answers": ["The Coral Island", "Treasure Island", "Robinson Crusoe"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Grapes of Wrath,' which tells the story of the Joad family's journey to California during the Great Depression?",
+      "correct_answer": "John Steinbeck",
+      "incorrect_answers": ["Ernest Hemingway", "F. Scott Fitzgerald", "William Faulkner"]
+    },
+    {
+      "question": "In 'War and Peace,' who is the Russian general known for his leadership during the Napoleonic Wars?",
+      "correct_answer": "Prince Andrei Bolkonsky",
+      "incorrect_answers": ["Count Pierre Bezukhov", "Napoleon Bonaparte", "Borodino"]
+    },
+    {
+      "question": "What classic novel features the character Jean Valjean, who is imprisoned for stealing a loaf of bread?",
+      "correct_answer": "Les Misérables",
+      "incorrect_answers": ["The Count of Monte Cristo", "War and Peace", "The Hunchback of Notre-Dame"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Hunchback of Notre-Dame'?",
+      "correct_answer": "Victor Hugo",
+      "incorrect_answers": ["Alexandre Dumas", "Gustave Flaubert", "Émile Zola"]
+    },
+    {
+      "question": "In 'Sense and Sensibility,' what is the name of the elder Dashwood sister who is known for her practical and reserved nature?",
+      "correct_answer": "Elinor",
+      "incorrect_answers": ["Marianne", "Lucy", "Fanny"]
+    },
+    {
+      "question": "What classic novel is a satirical work that tells the story of the titular character's journey through various lands and adventures?",
+      "correct_answer": "Gulliver's Travels",
+      "incorrect_answers": ["Robinson Crusoe", "Treasure Island", "Moby-Dick"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Scarlet Letter'?",
+      "correct_answer": "Nathaniel Hawthorne",
+      "incorrect_answers": ["Herman Melville", "Edgar Allan Poe", "Louisa May Alcott"]
+    },
+    {
+      "question": "In 'The Great Gatsby,' who is the enigmatic millionaire known for his extravagant parties and unrequited love for Daisy Buchanan?",
+      "correct_answer": "Jay Gatsby",
+      "incorrect_answers": ["Tom Buchanan", "Nick Carraway", "Myrtle Wilson"]
+    },
+    {
+      "question": "What classic novel tells the story of a shipwrecked sailor named Robinson Crusoe who survives on a desert island for many years?",
+      "correct_answer": "Robinson Crusoe",
+      "incorrect_answers": ["Treasure Island", "Moby-Dick", "Gulliver's Travels"]
+    },
+    {
+      "question": "Who wrote the novel 'Brave New World,' which explores a dystopian society where people are controlled through technology and social conditioning?",
+      "correct_answer": "Aldous Huxley",
+      "incorrect_answers": ["George Orwell", "Ray Bradbury", "Philip K. Dick"]
+    },
+    {
+      "question": "In 'Jane Eyre,' what is the name of the mysterious mansion where Mr. Rochester lives?",
+      "correct_answer": "Thornfield Hall",
+      "incorrect_answers": ["Pemberley", "Manderley", "Wuthering Heights"]
+    },
+    {
+      "question": "Who is the author of the novel 'Mansfield Park'?",
+      "correct_answer": "Jane Austen",
+      "incorrect_answers": ["Emily Brontë", "George Eliot", "Charlotte Brontë"]
+    },
+    {
+      "question": "In 'Dracula,' who is the infamous vampire known for his blood-sucking and hypnotic powers?",
+      "correct_answer": "Count Dracula",
+      "incorrect_answers": ["Renfield", "Professor Van Helsing", "Lucy Westenra"]
+    },
+    {
+      "question": "What classic novel is known for its opening line, 'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife'?",
+      "correct_answer": "Pride and Prejudice",
+      "incorrect_answers": ["Sense and Sensibility", "Emma", "Mansfield Park"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Picture of Dorian Gray'?",
+      "correct_answer": "Oscar Wilde",
+      "incorrect_answers": ["Edgar Allan Poe", "Henry James", "Bram Stoker"]
+    },
+    {
+      "question": "In 'Jane Eyre,' what is the name of the cruel aunt with whom Jane lives after being orphaned?",
+      "correct_answer": "Mrs. Reed",
+      "incorrect_answers": ["Mrs. Fairfax", "Mrs. Smith", "Mrs. Rivers"]
+    },
+    {
+      "question": "What classic novel tells the story of a man named Victor Frankenstein who creates a creature in his laboratory?",
+      "correct_answer": "Frankenstein",
+      "incorrect_answers": ["Dracula", "The Hunchback of Notre-Dame", "The Phantom of the Opera"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Brothers Karamazov'?",
+      "correct_answer": "Fyodor Dostoevsky",
+      "incorrect_answers": ["Leo Tolstoy", "Anton Chekhov", "Ivan Turgenev"]
+    },
+    {
+      "question": "In 'Wuthering Heights,' what is the name of the estate where the story takes place?",
+      "correct_answer": "Wuthering Heights",
+      "incorrect_answers": ["Thornfield Hall", "Pemberley", "Manderley"]
+    },
+    {
+      "question": "Who wrote the novel 'The Call of the Wild,' which tells the story of a dog named Buck and his adventures in the Yukon wilderness?",
+      "correct_answer": "Jack London",
+      "incorrect_answers": ["Mark Twain", "Robert Louis Stevenson", "Herman Melville"]
+    },
+    {
+      "question": "In 'The Catcher in the Rye,' what is the name of Holden Caulfield's younger sister?",
+      "correct_answer": "Phoebe",
+      "incorrect_answers": ["Allie", "D.B.", "Sunny"]
+    },
+    {
+      "question": "What classic novel explores the adventures of a young girl named Alice who falls through a rabbit hole into a fantastical world?",
+      "correct_answer": "Alice's Adventures in Wonderland",
+      "incorrect_answers": ["Peter Pan", "The Secret Garden", "Little Women"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Adventures of Sherlock Holmes'?",
+      "correct_answer": "Arthur Conan Doyle",
+      "incorrect_answers": ["Agatha Christie", "Edgar Allan Poe", "Raymond Chandler"]
+    },
+    {
+      "question": "In 'The Picture of Dorian Gray,' what remains unchanged while the portrait ages and shows the effects of Dorian's debauchery?",
+      "correct_answer": "Dorian Gray's portrait",
+      "incorrect_answers": ["Dorian Gray's soul", "Dorian Gray's mind", "Dorian Gray's wealth"]
+    },
+    {
+      "question": "What classic novel is set on a desert island and tells the story of a group of boys who descend into savagery?",
+      "correct_answer": "Lord of the Flies",
+      "incorrect_answers": ["The Coral Island", "Treasure Island", "Robinson Crusoe"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Grapes of Wrath,' which tells the story of the Joad family's journey to California during the Great Depression?",
+      "correct_answer": "John Steinbeck",
+      "incorrect_answers": ["Ernest Hemingway", "F. Scott Fitzgerald", "William Faulkner"]
+    },
+    {
+      "question": "In 'War and Peace,' who is the Russian general known for his leadership during the Napoleonic Wars?",
+      "correct_answer": "Prince Andrei Bolkonsky",
+      "incorrect_answers": ["Count Pierre Bezukhov", "Napoleon Bonaparte", "Borodino"]
+    },
+    {
+      "question": "What classic novel features the character Jean Valjean, who is imprisoned for stealing a loaf of bread?",
+      "correct_answer": "Les Misérables",
+      "incorrect_answers": ["The Count of Monte Cristo", "War and Peace", "The Hunchback of Notre-Dame"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Hunchback of Notre-Dame'?",
+      "correct_answer": "Victor Hugo",
+      "incorrect_answers": ["Alexandre Dumas", "Gustave Flaubert", "Émile Zola"]
+    },
+    {
+      "question": "In 'Sense and Sensibility,' what is the name of the elder Dashwood sister who is known for her practical and reserved nature?",
+      "correct_answer": "Elinor",
+      "incorrect_answers": ["Marianne", "Lucy", "Fanny"]
+    },
+    {
+      "question": "What classic novel is a satirical work that tells the story of the titular character's journey through various lands and adventures?",
+      "correct_answer": "Gulliver's Travels",
+      "incorrect_answers": ["Robinson Crusoe", "Treasure Island", "Moby-Dick"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Scarlet Letter'?",
+      "correct_answer": "Nathaniel Hawthorne",
+      "incorrect_answers": ["Herman Melville", "Edgar Allan Poe", "Louisa May Alcott"]
+    },
+    {
+      "question": "In 'The Great Gatsby,' who is the enigmatic millionaire known for his extravagant parties and unrequited love for Daisy Buchanan?",
+      "correct_answer": "Jay Gatsby",
+      "incorrect_answers": ["Tom Buchanan", "Nick Carraway", "Myrtle Wilson"]
+    },
+    {
+      "question": "What classic novel tells the story of a shipwrecked sailor named Robinson Crusoe who survives on a desert island for many years?",
+      "correct_answer": "Robinson Crusoe",
+      "incorrect_answers": ["Treasure Island", "Moby-Dick", "Gulliver's Travels"]
+    },
+    {
+      "question": "Who wrote the novel 'Brave New World,' which explores a dystopian society where people are controlled through technology and social conditioning?",
+      "correct_answer": "Aldous Huxley",
+      "incorrect_answers": ["George Orwell", "Ray Bradbury", "Philip K. Dick"]
+    },
+    {
+      "question": "In 'Jane Eyre,' what is the name of the mysterious mansion where Mr. Rochester lives?",
+      "correct_answer": "Thornfield Hall",
+      "incorrect_answers": ["Pemberley", "Manderley", "Wuthering Heights"]
+    },
+    {
+      "question": "Who is the author of the novel 'Mansfield Park'?",
+      "correct_answer": "Jane Austen",
+      "incorrect_answers": ["Emily Brontë", "George Eliot", "Charlotte Brontë"]
+    },
+    {
+      "question": "In 'Dracula,' who is the infamous vampire known for his blood-sucking and hypnotic powers?",
+      "correct_answer": "Count Dracula",
+      "incorrect_answers": ["Renfield", "Professor Van Helsing", "Lucy Westenra"]
+    },
+    {
+      "question": "What classic novel is known for its opening line, 'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife'?",
+      "correct_answer": "Pride and Prejudice",
+      "incorrect_answers": ["Sense and Sensibility", "Emma", "Mansfield Park"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Picture of Dorian Gray'?",
+      "correct_answer": "Oscar Wilde",
+      "incorrect_answers": ["Edgar Allan Poe", "Henry James", "Bram Stoker"]
+    },
+    {
+      "question": "In 'Jane Eyre,' what is the name of the cruel aunt with whom Jane lives after being orphaned?",
+      "correct_answer": "Mrs. Reed",
+      "incorrect_answers": ["Mrs. Fairfax", "Mrs. Smith", "Mrs. Rivers"]
+    },
+    {
+      "question": "What classic novel tells the story of a man named Victor Frankenstein who creates a creature in his laboratory?",
+      "correct_answer": "Frankenstein",
+      "incorrect_answers": ["Dracula", "The Hunchback of Notre-Dame", "The Phantom of the Opera"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Brothers Karamazov'?",
+      "correct_answer": "Fyodor Dostoevsky",
+      "incorrect_answers": ["Leo Tolstoy", "Anton Chekhov", "Ivan Turgenev"]
+    },
+    {
+      "question": "In 'Wuthering Heights,' what is the name of the estate where the story takes place?",
+      "correct_answer": "Wuthering Heights",
+      "incorrect_answers": ["Thornfield Hall", "Pemberley", "Manderley"]
+    },
+    {
+      "question": "Who wrote the novel 'The Call of the Wild,' which tells the story of a dog named Buck and his adventures in the Yukon wilderness?",
+      "correct_answer": "Jack London",
+      "incorrect_answers": ["Mark Twain", "Robert Louis Stevenson", "Herman Melville"]
+    },
+    {
+      "question": "In 'The Catcher in the Rye,' what is the name of Holden Caulfield's younger sister?",
+      "correct_answer": "Phoebe",
+      "incorrect_answers": ["Allie", "D.B.", "Sunny"]
+    },
+    {
+      "question": "What classic novel explores the adventures of a young girl named Alice who falls through a rabbit hole into a fantastical world?",
+      "correct_answer": "Alice's Adventures in Wonderland",
+      "incorrect_answers": ["Peter Pan", "The Secret Garden", "Little Women"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Adventures of Sherlock Holmes'?",
+      "correct_answer": "Arthur Conan Doyle",
+      "incorrect_answers": ["Agatha Christie", "Edgar Allan Poe", "Raymond Chandler"]
+    },
+    {
+      "question": "In 'The Picture of Dorian Gray,' what remains unchanged while the portrait ages and shows the effects of Dorian's debauchery?",
+      "correct_answer": "Dorian Gray's portrait",
+      "incorrect_answers": ["Dorian Gray's soul", "Dorian Gray's mind", "Dorian Gray's wealth"]
+    },
+    {
+      "question": "What classic novel is set on a desert island and tells the story of a group of boys who descend into savagery?",
+      "correct_answer": "Lord of the Flies",
+      "incorrect_answers": ["The Coral Island", "Treasure Island", "Robinson Crusoe"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Grapes of Wrath,' which tells the story of the Joad family's journey to California during the Great Depression?",
+      "correct_answer": "John Steinbeck",
+      "incorrect_answers": ["Ernest Hemingway", "F. Scott Fitzgerald", "William Faulkner"]
+    },
+    {
+      "question": "In 'War and Peace,' who is the Russian general known for his leadership during the Napoleonic Wars?",
+      "correct_answer": "Prince Andrei Bolkonsky",
+      "incorrect_answers": ["Count Pierre Bezukhov", "Napoleon Bonaparte", "Borodino"]
+    },
+    {
+      "question": "What classic novel features the character Jean Valjean, who is imprisoned for stealing a loaf of bread?",
+      "correct_answer": "Les Misérables",
+      "incorrect_answers": ["The Count of Monte Cristo", "War and Peace", "The Hunchback of Notre-Dame"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Hunchback of Notre-Dame'?",
+      "correct_answer": "Victor Hugo",
+      "incorrect_answers": ["Alexandre Dumas", "Gustave Flaubert", "Émile Zola"]
+    },
+    {
+      "question": "In 'Sense and Sensibility,' what is the name of the elder Dashwood sister who is known for her practical and reserved nature?",
+      "correct_answer": "Elinor",
+      "incorrect_answers": ["Marianne", "Lucy", "Fanny"]
+    },
+    {
+      "question": "What classic novel is a satirical work that tells the story of the titular character's journey through various lands and adventures?",
+      "correct_answer": "Gulliver's Travels",
+      "incorrect_answers": ["Robinson Crusoe", "Treasure Island", "Moby-Dick"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Scarlet Letter'?",
+      "correct_answer": "Nathaniel Hawthorne",
+      "incorrect_answers": ["Herman Melville", "Edgar Allan Poe", "Louisa May Alcott"]
+    },
+    {
+      "question": "In 'The Great Gatsby,' who is the enigmatic millionaire known for his extravagant parties and unrequited love for Daisy Buchanan?",
+      "correct_answer": "Jay Gatsby",
+      "incorrect_answers": ["Tom Buchanan", "Nick Carraway", "Myrtle Wilson"]
+    },
+    {
+      "question": "What classic novel tells the story of a shipwrecked sailor named Robinson Crusoe who survives on a desert island for many years?",
+      "correct_answer": "Robinson Crusoe",
+      "incorrect_answers": ["Treasure Island", "Moby-Dick", "Gulliver's Travels"]
+    },
+    {
+      "question": "Who wrote the novel 'Brave New World,' which explores a dystopian society where people are controlled through technology and social conditioning?",
+      "correct_answer": "Aldous Huxley",
+      "incorrect_answers": ["George Orwell", "Ray Bradbury", "Philip K. Dick"]
+    },
+    {
+      "question": "In 'Jane Eyre,' what is the name of the mysterious mansion where Mr. Rochester lives?",
+      "correct_answer": "Thornfield Hall",
+      "incorrect_answers": ["Pemberley", "Manderley", "Wuthering Heights"]
+    },
+    {
+      "question": "Who is the author of the novel 'Mansfield Park'?",
+      "correct_answer": "Jane Austen",
+      "incorrect_answers": ["Emily Brontë", "George Eliot", "Charlotte Brontë"]
+    },
+    {
+      "question": "In 'Dracula,' who is the infamous vampire known for his blood-sucking and hypnotic powers?",
+      "correct_answer": "Count Dracula",
+      "incorrect_answers": ["Renfield", "Professor Van Helsing", "Lucy Westenra"]
+    },
+    {
+      "question": "What classic novel is known for its opening line, 'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife'?",
+      "correct_answer": "Pride and Prejudice",
+      "incorrect_answers": ["Sense and Sensibility", "Emma", "Mansfield Park"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Picture of Dorian Gray'?",
+      "correct_answer": "Oscar Wilde",
+      "incorrect_answers": ["Edgar Allan Poe", "Henry James", "Bram Stoker"]
+    },
+    {
+      "question": "In 'Jane Eyre,' what is the name of the cruel aunt with whom Jane lives after being orphaned?",
+      "correct_answer": "Mrs. Reed",
+      "incorrect_answers": ["Mrs. Fairfax", "Mrs. Smith", "Mrs. Rivers"]
+    },
+    {
+      "question": "What classic novel tells the story of a man named Victor Frankenstein who creates a creature in his laboratory?",
+      "correct_answer": "Frankenstein",
+      "incorrect_answers": ["Dracula", "The Hunchback of Notre-Dame", "The Phantom of the Opera"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Brothers Karamazov'?",
+      "correct_answer": "Fyodor Dostoevsky",
+      "incorrect_answers": ["Leo Tolstoy", "Anton Chekhov", "Ivan Turgenev"]
+    },
+    {
+      "question": "In 'Wuthering Heights,' what is the name of the estate where the story takes place?",
+      "correct_answer": "Wuthering Heights",
+      "incorrect_answers": ["Thornfield Hall", "Pemberley", "Manderley"]
+    },
+    {
+      "question": "Who wrote the novel 'The Call of the Wild,' which tells the story of a dog named Buck and his adventures in the Yukon wilderness?",
+      "correct_answer": "Jack London",
+      "incorrect_answers": ["Mark Twain", "Robert Louis Stevenson", "Herman Melville"]
+    },
+    {
+      "question": "In 'The Catcher in the Rye,' what is the name of Holden Caulfield's younger sister?",
+      "correct_answer": "Phoebe",
+      "incorrect_answers": ["Allie", "D.B.", "Sunny"]
+    },
+    {
+      "question": "What classic novel explores the adventures of a young girl named Alice who falls through a rabbit hole into a fantastical world?",
+      "correct_answer": "Alice's Adventures in Wonderland",
+      "incorrect_answers": ["Peter Pan", "The Secret Garden", "Little Women"]
+    },
+    {
+      "question": "Who is the author of the novel 'The Adventures of Sherlock Holmes'?",
+      "correct_answer": "Arthur Conan Doyle",
+      "incorrect_answers": ["Agatha Christie", "Edgar Allan Poe", "Raymond Chandler"]
+    },
+    {
+      "question": "In 'The Picture of Dorian Gray,' what remains unchanged while the portrait ages and shows the effects of Dorian's debauchery?",
+      "correct_answer": "Dorian Gray's portrait",
+      "incorrect_answers": ["Dorian Gray's soul", "Dorian Gray's mind", "Dorian Gray's wealth"]
+    },
+    {
+      "question": "What classic novel is set on a desert island and tells the story of a group of boys who descend into savagery?",
+      "correct_answer": "Lord of the Flies",
+      "incorrect_answers": ["The Coral Island", "Treasure Island", "Robinson Crusoe"]
+    },
+    {
+      "question": "Who is the author of the novel 'Walden,' which reflects on simple living in natural surroundings?",
+      "correct_answer": "Henry David Thoreau",
+      "incorrect_answers": ["Ralph Waldo Emerson", "Nathaniel Hawthorne", "Herman Melville"]
+    }
+  ]
+}

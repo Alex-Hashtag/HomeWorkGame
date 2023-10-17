@@ -1,0 +1,1045 @@
+{
+  "category": "Geography",
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "correct_answer": "Paris",
+      "incorrect_answers": ["London", "Berlin", "Madrid"]
+    },
+    {
+      "question": "Which river is the longest in the world?",
+      "correct_answer": "Nile",
+      "incorrect_answers": ["Amazon", "Mississippi", "Yangtze"]
+    },
+    {
+      "question": "What is the largest desert in the world?",
+      "correct_answer": "Sahara",
+      "incorrect_answers": ["Gobi", "Arabian", "Atacama"]
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "correct_answer": "Japan",
+      "incorrect_answers": ["China", "South Korea", "Thailand"]
+    },
+    {
+      "question": "In which continent is the Amazon Rainforest located?",
+      "correct_answer": "South America",
+      "incorrect_answers": ["Africa", "Asia", "North America"]
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "correct_answer": "Canberra",
+      "incorrect_answers": ["Sydney", "Melbourne", "Brisbane"]
+    },
+    {
+      "question": "Which mountain range is the longest in the world?",
+      "correct_answer": "Andes",
+      "incorrect_answers": ["Himalayas", "Rocky Mountains", "Alps"]
+    },
+    {
+      "question": "Which country is known as the Land of Fire and Ice?",
+      "correct_answer": "Iceland",
+      "incorrect_answers": ["Greenland", "Norway", "Finland"]
+    },
+    {
+      "question": "What is the largest island in the world?",
+      "correct_answer": "Greenland",
+      "incorrect_answers": ["Australia", "Madagascar", "Borneo"]
+    },
+    {
+      "question": "Which river flows through Cairo?",
+      "correct_answer": "Nile",
+      "incorrect_answers": ["Tigris", "Euphrates", "Jordan"]
+    },
+    {
+      "question": "What is the smallest country in the world by land area?",
+      "correct_answer": "Vatican City",
+      "incorrect_answers": ["Monaco", "San Marino", "Nauru"]
+    },
+    {
+      "question": "In which country can you find the city of Marrakech?",
+      "correct_answer": "Morocco",
+      "incorrect_answers": ["Tunisia", "Algeria", "Libya"]
+    },
+    {
+      "question": "Which African country is known as the Rainbow Nation?",
+      "correct_answer": "South Africa",
+      "incorrect_answers": ["Nigeria", "Kenya", "Egypt"]
+    },
+    {
+      "question": "What is the largest country in South America?",
+      "correct_answer": "Brazil",
+      "incorrect_answers": ["Argentina", "Colombia", "Peru"]
+    },
+    {
+      "question": "Which country is known as the Land Down Under?",
+      "correct_answer": "Australia",
+      "incorrect_answers": ["New Zealand", "Papua New Guinea", "Fiji"]
+    },
+    {
+      "question": "In which European city can you find the Eiffel Tower?",
+      "correct_answer": "Paris",
+      "incorrect_answers": ["London", "Berlin", "Rome"]
+    },
+    {
+      "question": "What is the longest river in Europe?",
+      "correct_answer": "Volga",
+      "incorrect_answers": ["Danube", "Rhine", "Loire"]
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "correct_answer": "Japan",
+      "incorrect_answers": ["China", "South Korea", "Thailand"]
+    },
+    {
+      "question": "In which African country can you find the Nile River?",
+      "correct_answer": "Egypt",
+      "incorrect_answers": ["Sudan", "Kenya", "Ethiopia"]
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "correct_answer": "Ottawa",
+      "incorrect_answers": ["Toronto", "Montreal", "Vancouver"]
+    },
+    {
+      "question": "Which U.S. state is known as the Sunshine State?",
+      "correct_answer": "Florida",
+      "incorrect_answers": ["California", "Texas", "Arizona"]
+    },
+    {
+      "question": "What is the largest country in Africa by land area?",
+      "correct_answer": "Algeria",
+      "incorrect_answers": ["Nigeria", "Sudan", "Democratic Republic of the Congo"]
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "correct_answer": "Japan",
+      "incorrect_answers": ["China", "South Korea", "Thailand"]
+    },
+    {
+      "question": "In which continent is the Amazon Rainforest located?",
+      "correct_answer": "South America",
+      "incorrect_answers": ["Africa", "Asia", "North America"]
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "correct_answer": "Canberra",
+      "incorrect_answers": ["Sydney", "Melbourne", "Brisbane"]
+    },
+    {
+      "question": "Which mountain range is the longest in the world?",
+      "correct_answer": "Andes",
+      "incorrect_answers": ["Himalayas", "Rocky Mountains", "Alps"]
+    },
+    {
+      "question": "Which country is known as the Land of Fire and Ice?",
+      "correct_answer": "Iceland",
+      "incorrect_answers": ["Greenland", "Norway", "Finland"]
+    },
+    {
+      "question": "What is the largest island in the world?",
+      "correct_answer": "Greenland",
+      "incorrect_answers": ["Australia", "Madagascar", "Borneo"]
+    },
+    {
+      "question": "Which river flows through Cairo?",
+      "correct_answer": "Nile",
+      "incorrect_answers": ["Tigris", "Euphrates", "Jordan"]
+    },
+    {
+      "question": "What is the smallest country in the world by land area?",
+      "correct_answer": "Vatican City",
+      "incorrect_answers": ["Monaco", "San Marino", "Nauru"]
+    },
+    {
+      "question": "In which country can you find the city of Marrakech?",
+      "correct_answer": "Morocco",
+      "incorrect_answers": ["Tunisia", "Algeria", "Libya"]
+    },
+    {
+      "question": "Which African country is known as the Rainbow Nation?",
+      "correct_answer": "South Africa",
+      "incorrect_answers": ["Nigeria", "Kenya", "Egypt"]
+    },
+    {
+      "question": "What is the largest country in South America?",
+      "correct_answer": "Brazil",
+      "incorrect_answers": ["Argentina", "Colombia", "Peru"]
+    },
+    {
+      "question": "Which country is known as the Land Down Under?",
+      "correct_answer": "Australia",
+      "incorrect_answers": ["New Zealand", "Papua New Guinea", "Fiji"]
+    },
+    {
+      "question": "In which European city can you find the Eiffel Tower?",
+      "correct_answer": "Paris",
+      "incorrect_answers": ["London", "Berlin", "Rome"]
+    },
+    {
+      "question": "What is the longest river in Europe?",
+      "correct_answer": "Volga",
+      "incorrect_answers": ["Danube", "Rhine", "Loire"]
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "correct_answer": "Japan",
+      "incorrect_answers": ["China", "South Korea", "Thailand"]
+    },
+    {
+      "question": "In which African country can you find the Nile River?",
+      "correct_answer": "Egypt",
+      "incorrect_answers": ["Sudan", "Kenya", "Ethiopia"]
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "correct_answer": "Ottawa",
+      "incorrect_answers": ["Toronto", "Montreal", "Vancouver"]
+    },
+    {
+      "question": "Which U.S. state is known as the Sunshine State?",
+      "correct_answer": "Florida",
+      "incorrect_answers": ["California", "Texas", "Arizona"]
+    },
+    {
+      "question": "What is the largest country in Africa by land area?",
+      "correct_answer": "Algeria",
+      "incorrect_answers": ["Nigeria", "Sudan", "Democratic Republic of the Congo"]
+    },
+    {
+      "question": "What is the capital of Sweden?",
+      "correct_answer": "Stockholm",
+      "incorrect_answers": ["Oslo", "Copenhagen", "Helsinki"]
+    },
+    {
+      "question": "Which country is known as the Land of a Thousand Lakes?",
+      "correct_answer": "Finland",
+      "incorrect_answers": ["Canada", "Sweden", "Norway"]
+    },
+    {
+      "question": "In which country can you find the city of Vienna?",
+      "correct_answer": "Austria",
+      "incorrect_answers": ["Hungary", "Czech Republic", "Slovakia"]
+    },
+    {
+      "question": "What is the capital of Russia?",
+      "correct_answer": "Moscow",
+      "incorrect_answers": ["Saint Petersburg", "Kiev", "Minsk"]
+    },
+    {
+      "question": "Which river flows through Rome?",
+      "correct_answer": "Tiber",
+      "incorrect_answers": ["Danube", "Nile", "Seine"]
+    },
+    {
+      "question": "What is the largest lake in Africa?",
+      "correct_answer": "Lake Victoria",
+      "incorrect_answers": ["Lake Tanganyika", "Lake Malawi", "Lake Turkana"]
+    },
+    {
+      "question": "In which South American country can you find the city of Lima?",
+      "correct_answer": "Peru",
+      "incorrect_answers": ["Chile", "Ecuador", "Colombia"]
+    },
+    {
+      "question": "What is the highest mountain in the world?",
+      "correct_answer": "Mount Everest",
+      "incorrect_answers": ["K2", "Kangchenjunga", "Lhotse"]
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "correct_answer": "Japan",
+      "incorrect_answers": ["China", "South Korea", "Thailand"]
+    },
+    {
+      "question": "In which continent is the Amazon Rainforest located?",
+      "correct_answer": "South America",
+      "incorrect_answers": ["Africa", "Asia", "North America"]
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "correct_answer": "Canberra",
+      "incorrect_answers": ["Sydney", "Melbourne", "Brisbane"]
+    },
+    {
+      "question": "Which mountain range is the longest in the world?",
+      "correct_answer": "Andes",
+      "incorrect_answers": ["Himalayas", "Rocky Mountains", "Alps"]
+    },
+    {
+      "question": "Which country is known as the Land of Fire and Ice?",
+      "correct_answer": "Iceland",
+      "incorrect_answers": ["Greenland", "Norway", "Finland"]
+    },
+    {
+      "question": "What is the largest island in the world?",
+      "correct_answer": "Greenland",
+      "incorrect_answers": ["Australia", "Madagascar", "Borneo"]
+    },
+    {
+      "question": "Which river flows through Cairo?",
+      "correct_answer": "Nile",
+      "incorrect_answers": ["Tigris", "Euphrates", "Jordan"]
+    },
+    {
+      "question": "What is the smallest country in the world by land area?",
+      "correct_answer": "Vatican City",
+      "incorrect_answers": ["Monaco", "San Marino", "Nauru"]
+    },
+    {
+      "question": "In which country can you find the city of Marrakech?",
+      "correct_answer": "Morocco",
+      "incorrect_answers": ["Tunisia", "Algeria", "Libya"]
+    },
+    {
+      "question": "Which African country is known as the Rainbow Nation?",
+      "correct_answer": "South Africa",
+      "incorrect_answers": ["Nigeria", "Kenya", "Egypt"]
+    },
+    {
+      "question": "What is the largest country in South America?",
+      "correct_answer": "Brazil",
+      "incorrect_answers": ["Argentina", "Colombia", "Peru"]
+    },
+    {
+      "question": "Which country is known as the Land Down Under?",
+      "correct_answer": "Australia",
+      "incorrect_answers": ["New Zealand", "Papua New Guinea", "Fiji"]
+    },
+    {
+      "question": "In which European city can you find the Eiffel Tower?",
+      "correct_answer": "Paris",
+      "incorrect_answers": ["London", "Berlin", "Rome"]
+    },
+    {
+      "question": "What is the longest river in Europe?",
+      "correct_answer": "Volga",
+      "incorrect_answers": ["Danube", "Rhine", "Loire"]
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "correct_answer": "Japan",
+      "incorrect_answers": ["China", "South Korea", "Thailand"]
+    },
+    {
+      "question": "In which African country can you find the Nile River?",
+      "correct_answer": "Egypt",
+      "incorrect_answers": ["Sudan", "Kenya", "Ethiopia"]
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "correct_answer": "Ottawa",
+      "incorrect_answers": ["Toronto", "Montreal", "Vancouver"]
+    },
+    {
+      "question": "Which U.S. state is known as the Sunshine State?",
+      "correct_answer": "Florida",
+      "incorrect_answers": ["California", "Texas", "Arizona"]
+    },
+    {
+      "question": "What is the largest country in Africa by land area?",
+      "correct_answer": "Algeria",
+      "incorrect_answers": ["Nigeria", "Sudan", "Democratic Republic of the Congo"]
+    },
+    {
+      "question": "What is the capital of Sweden?",
+      "correct_answer": "Stockholm",
+      "incorrect_answers": ["Oslo", "Copenhagen", "Helsinki"]
+    },
+    {
+      "question": "Which country is known as the Land of a Thousand Lakes?",
+      "correct_answer": "Finland",
+      "incorrect_answers": ["Canada", "Sweden", "Norway"]
+    },
+    {
+      "question": "In which country can you find the city of Vienna?",
+      "correct_answer": "Austria",
+      "incorrect_answers": ["Hungary", "Czech Republic", "Slovakia"]
+    },
+    {
+      "question": "What is the capital of Russia?",
+      "correct_answer": "Moscow",
+      "incorrect_answers": ["Saint Petersburg", "Kiev", "Minsk"]
+    },
+    {
+      "question": "Which river flows through Rome?",
+      "correct_answer": "Tiber",
+      "incorrect_answers": ["Danube", "Nile", "Seine"]
+    },
+    {
+      "question": "What is the largest lake in Africa?",
+      "correct_answer": "Lake Victoria",
+      "incorrect_answers": ["Lake Tanganyika", "Lake Malawi", "Lake Turkana"]
+    },
+    {
+      "question": "In which South American country can you find the city of Lima?",
+      "correct_answer": "Peru",
+      "incorrect_answers": ["Chile", "Ecuador", "Colombia"]
+    },
+    {
+      "question": "What is the highest mountain in the world?",
+      "correct_answer": "Mount Everest",
+      "incorrect_answers": ["K2", "Kangchenjunga", "Lhotse"]
+    },
+    {
+      "question": "Which U.S. state is known as the Lone Star State?",
+      "correct_answer": "Texas",
+      "incorrect_answers": ["Arizona", "California", "New Mexico"]
+    },
+    {
+      "question": "In which country can you find the city of Athens?",
+      "correct_answer": "Greece",
+      "incorrect_answers": ["Italy", "Turkey", "Spain"]
+    },
+    {
+      "question": "What is the capital of New Zealand?",
+      "correct_answer": "Wellington",
+      "incorrect_answers": ["Auckland", "Christchurch", "Dunedin"]
+    },
+    {
+      "question": "Which river is the longest in Asia?",
+      "correct_answer": "Yangtze",
+      "incorrect_answers": ["Ganges", "Mekong", "Yellow River"]
+    },
+    {
+      "question": "What is the largest lake in the United States?",
+      "correct_answer": "Lake Superior",
+      "incorrect_answers": ["Lake Michigan", "Lake Huron", "Lake Erie"]
+    },
+    {
+      "question": "In which European country is the city of Prague located?",
+      "correct_answer": "Czech Republic",
+      "incorrect_answers": ["Austria", "Hungary", "Poland"]
+    },
+    {
+      "question": "What is the smallest continent in the world?",
+      "correct_answer": "Australia",
+      "incorrect_answers": ["Antarctica", "Asia", "North America"]
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "correct_answer": "Japan",
+      "incorrect_answers": ["China", "South Korea", "Thailand"]
+    },
+    {
+      "question": "In which continent can you find the Sahara Desert?",
+      "correct_answer": "Africa",
+      "incorrect_answers": ["Asia", "South America", "North America"]
+    },
+    {
+      "question": "What is the capital of South Korea?",
+      "correct_answer": "Seoul",
+      "incorrect_answers": ["Tokyo", "Beijing", "Hanoi"]
+    },
+    {
+      "question": "Which river flows through Budapest?",
+      "correct_answer": "Danube",
+      "incorrect_answers": ["Rhine", "Seine", "Tiber"]
+    },
+    {
+      "question": "What is the largest island in the Mediterranean Sea?",
+      "correct_answer": "Sicily",
+      "incorrect_answers": ["Corsica", "Sardinia", "Crete"]
+    },
+    {
+      "question": "In which country is the city of Casablanca located?",
+      "correct_answer": "Morocco",
+      "incorrect_answers": ["Algeria", "Tunisia", "Libya"]
+    },
+    {
+      "question": "What is the capital of Thailand?",
+      "correct_answer": "Bangkok",
+      "incorrect_answers": ["Phuket", "Chiang Mai", "Pattaya"]
+    },
+    {
+      "question": "Which U.S. state is known as the Sunshine State?",
+      "correct_answer": "Florida",
+      "incorrect_answers": ["California", "Texas", "Arizona"]
+    },
+    {
+      "question": "What is the largest country in Africa by land area?",
+      "correct_answer": "Algeria",
+      "incorrect_answers": ["Nigeria", "Sudan", "Democratic Republic of the Congo"]
+    },
+    {
+      "question": "What is the capital of Sweden?",
+      "correct_answer": "Stockholm",
+      "incorrect_answers": ["Oslo", "Copenhagen", "Helsinki"]
+    },
+    {
+      "question": "Which country is known as the Land of a Thousand Lakes?",
+      "correct_answer": "Finland",
+      "incorrect_answers": ["Canada", "Sweden", "Norway"]
+    },
+    {
+      "question": "In which country can you find the city of Vienna?",
+      "correct_answer": "Austria",
+      "incorrect_answers": ["Hungary", "Czech Republic", "Slovakia"]
+    },
+    {
+      "question": "What is the capital of Russia?",
+      "correct_answer": "Moscow",
+      "incorrect_answers": ["Saint Petersburg", "Kiev", "Minsk"]
+    },
+    {
+      "question": "Which river flows through Rome?",
+      "correct_answer": "Tiber",
+      "incorrect_answers": ["Danube", "Nile", "Seine"]
+    },
+    {
+      "question": "What is the largest lake in Africa?",
+      "correct_answer": "Lake Victoria",
+      "incorrect_answers": ["Lake Tanganyika", "Lake Malawi", "Lake Turkana"]
+    },
+    {
+      "question": "In which South American country can you find the city of Lima?",
+      "correct_answer": "Peru",
+      "incorrect_answers": ["Chile", "Ecuador", "Colombia"]
+    },
+    {
+      "question": "What is the highest mountain in the world?",
+      "correct_answer": "Mount Everest",
+      "incorrect_answers": ["K2", "Kangchenjunga", "Lhotse"]
+    },
+    {
+      "question": "Which U.S. state is known as the Lone Star State?",
+      "correct_answer": "Texas",
+      "incorrect_answers": ["Arizona", "California", "New Mexico"]
+    },
+    {
+      "question": "In which country can you find the city of Athens?",
+      "correct_answer": "Greece",
+      "incorrect_answers": ["Italy", "Turkey", "Spain"]
+    },
+    {
+      "question": "What is the capital of New Zealand?",
+      "correct_answer": "Wellington",
+      "incorrect_answers": ["Auckland", "Christchurch", "Dunedin"]
+    },
+    {
+      "question": "Which river is the longest in Asia?",
+      "correct_answer": "Yangtze",
+      "incorrect_answers": ["Ganges", "Mekong", "Yellow River"]
+    },
+    {
+      "question": "What is the largest lake in the United States?",
+      "correct_answer": "Lake Superior",
+      "incorrect_answers": ["Lake Michigan", "Lake Huron", "Lake Erie"]
+    },
+    {
+      "question": "In which European country is the city of Prague located?",
+      "correct_answer": "Czech Republic",
+      "incorrect_answers": ["Austria", "Hungary", "Poland"]
+    },
+    {
+      "question": "What is the smallest continent in the world?",
+      "correct_answer": "Australia",
+      "incorrect_answers": ["Antarctica", "Asia", "North America"]
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "correct_answer": "Japan",
+      "incorrect_answers": ["China", "South Korea", "Thailand"]
+    },
+    {
+      "question": "In which continent can you find the Sahara Desert?",
+      "correct_answer": "Africa",
+      "incorrect_answers": ["Asia", "South America", "North America"]
+    },
+    {
+      "question": "What is the capital of South Korea?",
+      "correct_answer": "Seoul",
+      "incorrect_answers": ["Tokyo", "Beijing", "Hanoi"]
+    },
+    {
+      "question": "Which river flows through Budapest?",
+      "correct_answer": "Danube",
+      "incorrect_answers": ["Rhine", "Seine", "Tiber"]
+    },
+    {
+      "question": "What is the largest island in the Mediterranean Sea?",
+      "correct_answer": "Sicily",
+      "incorrect_answers": ["Corsica", "Sardinia", "Crete"]
+    },
+    {
+      "question": "In which country is the city of Casablanca located?",
+      "correct_answer": "Morocco",
+      "incorrect_answers": ["Algeria", "Tunisia", "Libya"]
+    },
+    {
+      "question": "What is the capital of Thailand?",
+      "correct_answer": "Bangkok",
+      "incorrect_answers": ["Phuket", "Chiang Mai", "Pattaya"]
+    },
+    {
+      "question": "Which U.S. state is known as the Sunshine State?",
+      "correct_answer": "Florida",
+      "incorrect_answers": ["California", "Texas", "Arizona"]
+    },
+    {
+      "question": "What is the largest country in Africa by land area?",
+      "correct_answer": "Algeria",
+      "incorrect_answers": ["Nigeria", "Sudan", "Democratic Republic of the Congo"]
+    },
+    {
+      "question": "What is the capital of Sweden?",
+      "correct_answer": "Stockholm",
+      "incorrect_answers": ["Oslo", "Copenhagen", "Helsinki"]
+    },
+    {
+      "question": "Which country is known as the Land of a Thousand Lakes?",
+      "correct_answer": "Finland",
+      "incorrect_answers": ["Canada", "Sweden", "Norway"]
+    },
+    {
+      "question": "In which country can you find the city of Vienna?",
+      "correct_answer": "Austria",
+      "incorrect_answers": ["Hungary", "Czech Republic", "Slovakia"]
+    },
+    {
+      "question": "What is the capital of Russia?",
+      "correct_answer": "Moscow",
+      "incorrect_answers": ["Saint Petersburg", "Kiev", "Minsk"]
+    },
+    {
+      "question": "Which river flows through Rome?",
+      "correct_answer": "Tiber",
+      "incorrect_answers": ["Danube", "Nile", "Seine"]
+    },
+    {
+      "question": "What is the largest lake in Africa?",
+      "correct_answer": "Lake Victoria",
+      "incorrect_answers": ["Lake Tanganyika", "Lake Malawi", "Lake Turkana"]
+    },
+    {
+      "question": "In which South American country can you find the city of Lima?",
+      "correct_answer": "Peru",
+      "incorrect_answers": ["Chile", "Ecuador", "Colombia"]
+    },
+    {
+      "question": "What is the highest mountain in the world?",
+      "correct_answer": "Mount Everest",
+      "incorrect_answers": ["K2", "Kangchenjunga", "Lhotse"]
+    },
+    {
+      "question": "Which U.S. state is known as the Lone Star State?",
+      "correct_answer": "Texas",
+      "incorrect_answers": ["Arizona", "California", "New Mexico"]
+    },
+    {
+      "question": "In which country can you find the city of Athens?",
+      "correct_answer": "Greece",
+      "incorrect_answers": ["Italy", "Turkey", "Spain"]
+    },
+    {
+      "question": "What is the capital of New Zealand?",
+      "correct_answer": "Wellington",
+      "incorrect_answers": ["Auckland", "Christchurch", "Dunedin"]
+    },
+    {
+      "question": "Which river is the longest in Asia?",
+      "correct_answer": "Yangtze",
+      "incorrect_answers": ["Ganges", "Mekong", "Yellow River"]
+    },
+    {
+      "question": "What is the largest lake in the United States?",
+      "correct_answer": "Lake Superior",
+      "incorrect_answers": ["Lake Michigan", "Lake Huron", "Lake Erie"]
+    },
+    {
+      "question": "In which European country is the city of Prague located?",
+      "correct_answer": "Czech Republic",
+      "incorrect_answers": ["Austria", "Hungary", "Poland"]
+    },
+    {
+      "question": "What is the smallest continent in the world?",
+      "correct_answer": "Australia",
+      "incorrect_answers": ["Antarctica", "Asia", "North America"]
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "correct_answer": "Japan",
+      "incorrect_answers": ["China", "South Korea", "Thailand"]
+    },
+    {
+      "question": "In which continent can you find the Sahara Desert?",
+      "correct_answer": "Africa",
+      "incorrect_answers": ["Asia", "South America", "North America"]
+    },
+    {
+      "question": "What is the capital of South Korea?",
+      "correct_answer": "Seoul",
+      "incorrect_answers": ["Tokyo", "Beijing", "Hanoi"]
+    },
+    {
+      "question": "Which river flows through Budapest?",
+      "correct_answer": "Danube",
+      "incorrect_answers": ["Rhine", "Seine", "Tiber"]
+    },
+    {
+      "question": "What is the largest island in the Mediterranean Sea?",
+      "correct_answer": "Sicily",
+      "incorrect_answers": ["Corsica", "Sardinia", "Crete"]
+    },
+    {
+      "question": "In which country is the city of Casablanca located?",
+      "correct_answer": "Morocco",
+      "incorrect_answers": ["Algeria", "Tunisia", "Libya"]
+    },
+    {
+      "question": "What is the capital of Thailand?",
+      "correct_answer": "Bangkok",
+      "incorrect_answers": ["Phuket", "Chiang Mai", "Pattaya"]
+    },
+    {
+      "question": "Which African country is known as the Land of a Thousand Hills?",
+      "correct_answer": "Rwanda",
+      "incorrect_answers": ["Uganda", "Kenya", "Tanzania"]
+    },
+    {
+      "question": "What is the capital of Argentina?",
+      "correct_answer": "Buenos Aires",
+      "incorrect_answers": ["Santiago", "Montevideo", "Brasília"]
+    },
+    {
+      "question": "In which country can you find the city of Bogotá?",
+      "correct_answer": "Colombia",
+      "incorrect_answers": ["Peru", "Ecuador", "Venezuela"]
+    },
+    {
+      "question": "What is the largest desert in North America?",
+      "correct_answer": "Sonoran Desert",
+      "incorrect_answers": ["Mojave Desert", "Chihuahuan Desert", "Great Basin Desert"]
+    },
+    {
+      "question": "Which river forms part of the border between the United States and Mexico?",
+      "correct_answer": "Rio Grande",
+      "incorrect_answers": ["Colorado River", "Mississippi River", "Missouri River"]
+    },
+    {
+      "question": "In which country can you find the city of Nairobi?",
+      "correct_answer": "Kenya",
+      "incorrect_answers": ["Tanzania", "Uganda", "Rwanda"]
+    },
+    {
+      "question": "What is the highest mountain in Africa?",
+      "correct_answer": "Mount Kilimanjaro",
+      "incorrect_answers": ["Mount Kenya", "Simien Mountains", "Atlas Mountains"]
+    },
+    {
+      "question": "Which U.S. state is known as the Granite State?",
+      "correct_answer": "New Hampshire",
+      "incorrect_answers": ["Vermont", "Maine", "Rhode Island"]
+    },
+    {
+      "question": "In which European city can you find the Acropolis?",
+      "correct_answer": "Athens",
+      "incorrect_answers": ["Rome", "Istanbul", "Madrid"]
+    },
+    {
+      "question": "What is the capital of South Africa?",
+      "correct_answer": "Pretoria",
+      "incorrect_answers": ["Johannesburg", "Cape Town", "Durban"]
+    },
+    {
+      "question": "Which river is known as the Yellow River?",
+      "correct_answer": "Huang He",
+      "incorrect_answers": ["Yangtze", "Mekong", "Indus"]
+    },
+    {
+      "question": "In which country can you find the city of Caracas?",
+      "correct_answer": "Venezuela",
+      "incorrect_answers": ["Colombia", "Brazil", "Peru"]
+    },
+    {
+      "question": "What is the largest island in the Caribbean?",
+      "correct_answer": "Cuba",
+      "incorrect_answers": ["Hispaniola", "Jamaica", "Puerto Rico"]
+    },
+    {
+      "question": "Which U.S. state is known as the Last Frontier?",
+      "correct_answer": "Alaska",
+      "incorrect_answers": ["Hawaii", "Washington", "Oregon"]
+    },
+    {
+      "question": "In which country can you find the city of Wellington?",
+      "correct_answer": "New Zealand",
+      "incorrect_answers": ["Australia", "Fiji", "Papua New Guinea"]
+    },
+    {
+      "question": "What is the largest volcano in the world by volume?",
+      "correct_answer": "Mauna Loa",
+      "incorrect_answers": ["Mount St. Helens", "Mount Vesuvius", "Mount Fuji"]
+    },
+    {
+      "question": "Which river flows through Cairo?",
+      "correct_answer": "Nile",
+      "incorrect_answers": ["Tigris", "Euphrates", "Jordan"]
+    },
+    {
+      "question": "In which country can you find the city of Warsaw?",
+      "correct_answer": "Poland",
+      "incorrect_answers": ["Czech Republic", "Slovakia", "Hungary"]
+    },
+    {
+      "question": "What is the capital of Norway?",
+      "correct_answer": "Oslo",
+      "incorrect_answers": ["Copenhagen", "Stockholm", "Helsinki"]
+    },
+    {
+      "question": "Which U.S. state is known as the Land of Enchantment?",
+      "correct_answer": "New Mexico",
+      "incorrect_answers": ["Nevada", "Arizona", "Colorado"]
+    },
+    {
+      "question": "In which European country can you find the city of Dubrovnik?",
+      "correct_answer": "Croatia",
+      "incorrect_answers": ["Greece", "Italy", "Spain"]
+    },
+    {
+      "question": "What is the smallest independent country in the world by land area?",
+      "correct_answer": "Monaco",
+      "incorrect_answers": ["San Marino", "Nauru", "Tuvalu"]
+    },
+    {
+      "question": "Which river is the longest in South America?",
+      "correct_answer": "Amazon",
+      "incorrect_answers": ["Orinoco", "Magdalena", "Sao Francisco"]
+    },
+    {
+      "question": "In which country can you find the city of Quito?",
+      "correct_answer": "Ecuador",
+      "incorrect_answers": ["Peru", "Colombia", "Chile"]
+    },
+    {
+      "question": "What is the largest island in the Mediterranean Sea?",
+      "correct_answer": "Sicily",
+      "incorrect_answers": ["Corsica", "Sardinia", "Crete"]
+    },
+    {
+      "question": "Which U.S. state is known as the Sunshine State?",
+      "correct_answer": "Florida",
+      "incorrect_answers": ["California", "Texas", "Arizona"]
+    },
+    {
+      "question": "What is the largest country in Africa by land area?",
+      "correct_answer": "Algeria",
+      "incorrect_answers": ["Nigeria", "Sudan", "Democratic Republic of the Congo"]
+    },
+    {
+      "question": "What is the capital of Sweden?",
+      "correct_answer": "Stockholm",
+      "incorrect_answers": ["Oslo", "Copenhagen", "Helsinki"]
+    },
+    {
+      "question": "Which country is known as the Land of a Thousand Lakes?",
+      "correct_answer": "Finland",
+      "incorrect_answers": ["Canada", "Sweden", "Norway"]
+    },
+    {
+      "question": "In which country can you find the city of Vienna?",
+      "correct_answer": "Austria",
+      "incorrect_answers": ["Hungary", "Czech Republic", "Slovakia"]
+    },
+    {
+      "question": "What is the capital of Russia?",
+      "correct_answer": "Moscow",
+      "incorrect_answers": ["Saint Petersburg", "Kiev", "Minsk"]
+    },
+    {
+      "question": "Which river flows through Rome?",
+      "correct_answer": "Tiber",
+      "incorrect_answers": ["Danube", "Nile", "Seine"]
+    },
+    {
+      "question": "What is the largest lake in Africa?",
+      "correct_answer": "Lake Victoria",
+      "incorrect_answers": ["Lake Tanganyika", "Lake Malawi", "Lake Turkana"]
+    },
+    {
+      "question": "In which South American country can you find the city of Lima?",
+      "correct_answer": "Peru",
+      "incorrect_answers": ["Chile", "Ecuador", "Colombia"]
+    },
+    {
+      "question": "What is the highest mountain in the world?",
+      "correct_answer": "Mount Everest",
+      "incorrect_answers": ["K2", "Kangchenjunga", "Lhotse"]
+    },
+    {
+      "question": "Which African country is known as the Land of a Thousand Hills?",
+      "correct_answer": "Rwanda",
+      "incorrect_answers": ["Uganda", "Kenya", "Tanzania"]
+    },
+    {
+      "question": "What is the capital of Argentina?",
+      "correct_answer": "Buenos Aires",
+      "incorrect_answers": ["Santiago", "Montevideo", "Brasília"]
+    },
+    {
+      "question": "In which country can you find the city of Bogotá?",
+      "correct_answer": "Colombia",
+      "incorrect_answers": ["Peru", "Ecuador", "Venezuela"]
+    },
+    {
+      "question": "What is the largest desert in North America?",
+      "correct_answer": "Sonoran Desert",
+      "incorrect_answers": ["Mojave Desert", "Chihuahuan Desert", "Great Basin Desert"]
+    },
+    {
+      "question": "Which river forms part of the border between the United States and Mexico?",
+      "correct_answer": "Rio Grande",
+      "incorrect_answers": ["Colorado River", "Mississippi River", "Missouri River"]
+    },
+    {
+      "question": "In which country can you find the city of Nairobi?",
+      "correct_answer": "Kenya",
+      "incorrect_answers": ["Tanzania", "Uganda", "Rwanda"]
+    },
+    {
+      "question": "What is the highest mountain in Africa?",
+      "correct_answer": "Mount Kilimanjaro",
+      "incorrect_answers": ["Mount Kenya", "Simien Mountains", "Atlas Mountains"]
+    },
+    {
+      "question": "Which U.S. state is known as the Granite State?",
+      "correct_answer": "New Hampshire",
+      "incorrect_answers": ["Vermont", "Maine", "Rhode Island"]
+    },
+    {
+      "question": "In which European city can you find the Acropolis?",
+      "correct_answer": "Athens",
+      "incorrect_answers": ["Rome", "Istanbul", "Madrid"]
+    },
+    {
+      "question": "What is the capital of South Africa?",
+      "correct_answer": "Pretoria",
+      "incorrect_answers": ["Johannesburg", "Cape Town", "Durban"]
+    },
+    {
+      "question": "Which river is known as the Yellow River?",
+      "correct_answer": "Huang He",
+      "incorrect_answers": ["Yangtze", "Mekong", "Indus"]
+    },
+    {
+      "question": "In which country can you find the city of Caracas?",
+      "correct_answer": "Venezuela",
+      "incorrect_answers": ["Colombia", "Brazil", "Peru"]
+    },
+    {
+      "question": "What is the largest island in the Caribbean?",
+      "correct_answer": "Cuba",
+      "incorrect_answers": ["Hispaniola", "Jamaica", "Puerto Rico"]
+    },
+    {
+      "question": "Which U.S. state is known as the Last Frontier?",
+      "correct_answer": "Alaska",
+      "incorrect_answers": ["Hawaii", "Washington", "Oregon"]
+    },
+    {
+      "question": "In which country can you find the city of Wellington?",
+      "correct_answer": "New Zealand",
+      "incorrect_answers": ["Australia", "Fiji", "Papua New Guinea"]
+    },
+    {
+      "question": "What is the largest volcano in the world by volume?",
+      "correct_answer": "Mauna Loa",
+      "incorrect_answers": ["Mount St. Helens", "Mount Vesuvius", "Mount Fuji"]
+    },
+    {
+      "question": "Which river flows through Cairo?",
+      "correct_answer": "Nile",
+      "incorrect_answers": ["Tigris", "Euphrates", "Jordan"]
+    },
+    {
+      "question": "In which country can you find the city of Warsaw?",
+      "correct_answer": "Poland",
+      "incorrect_answers": ["Czech Republic", "Slovakia", "Hungary"]
+    },
+    {
+      "question": "What is the capital of Norway?",
+      "correct_answer": "Oslo",
+      "incorrect_answers": ["Copenhagen", "Stockholm", "Helsinki"]
+    },
+    {
+      "question": "Which U.S. state is known as the Land of Enchantment?",
+      "correct_answer": "New Mexico",
+      "incorrect_answers": ["Nevada", "Arizona", "Colorado"]
+    },
+    {
+      "question": "In which European country can you find the city of Dubrovnik?",
+      "correct_answer": "Croatia",
+      "incorrect_answers": ["Greece", "Italy", "Spain"]
+    },
+    {
+      "question": "What is the smallest independent country in the world by land area?",
+      "correct_answer": "Monaco",
+      "incorrect_answers": ["San Marino", "Nauru", "Tuvalu"]
+    },
+    {
+      "question": "Which river is the longest in South America?",
+      "correct_answer": "Amazon",
+      "incorrect_answers": ["Orinoco", "Magdalena", "Sao Francisco"]
+    },
+    {
+      "question": "In which country can you find the city of Quito?",
+      "correct_answer": "Ecuador",
+      "incorrect_answers": ["Peru", "Colombia", "Chile"]
+    },
+    {
+      "question": "What is the largest island in the Mediterranean Sea?",
+      "correct_answer": "Sicily",
+      "incorrect_answers": ["Corsica", "Sardinia", "Crete"]
+    },
+    {
+      "question": "Which U.S. state is known as the Sunshine State?",
+      "correct_answer": "Florida",
+      "incorrect_answers": ["California", "Texas", "Arizona"]
+    },
+    {
+      "question": "What is the largest country in Africa by land area?",
+      "correct_answer": "Algeria",
+      "incorrect_answers": ["Nigeria", "Sudan", "Democratic Republic of the Congo"]
+    },
+    {
+      "question": "What is the capital of Sweden?",
+      "correct_answer": "Stockholm",
+      "incorrect_answers": ["Oslo", "Copenhagen", "Helsinki"]
+    },
+    {
+      "question": "Which country is known as the Land of a Thousand Lakes?",
+      "correct_answer": "Finland",
+      "incorrect_answers": ["Canada", "Sweden", "Norway"]
+    },
+    {
+      "question": "In which country can you find the city of Vienna?",
+      "correct_answer": "Austria",
+      "incorrect_answers": ["Hungary", "Czech Republic", "Slovakia"]
+    },
+    {
+      "question": "What is the capital of Russia?",
+      "correct_answer": "Moscow",
+      "incorrect_answers": ["Saint Petersburg", "Kiev", "Minsk"]
+    },
+    {
+      "question": "Which river flows through Rome?",
+      "correct_answer": "Tiber",
+      "incorrect_answers": ["Danube", "Nile", "Seine"]
+    },
+    {
+      "question": "What is the largest lake in Africa?",
+      "correct_answer": "Lake Victoria",
+      "incorrect_answers": ["Lake Tanganyika", "Lake Malawi", "Lake Turkana"]
+    },
+    {
+      "question": "In which South American country can you find the city of Lima?",
+      "correct_answer": "Peru",
+      "incorrect_answers": ["Chile", "Ecuador", "Colombia"]
+    },
+    {
+      "question": "What is the highest mountain in the world?",
+      "correct_answer": "Mount Everest",
+      "incorrect_answers": ["K2", "Kangchenjunga", "Lhotse"]
+    }
+  ]
+}

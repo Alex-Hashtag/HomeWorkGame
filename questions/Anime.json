@@ -1,0 +1,910 @@
+{
+  "category": "Anime",
+  "questions": [
+    {
+      "question": "In the anime 'Naruto,' what is the name of Naruto Uzumaki's teacher and mentor?",
+      "correct_answer": "Kakashi Hatake",
+      "incorrect_answers": ["Sasuke Uchiha", "Iruka Umino", "Jiraiya"]
+    },
+    {
+      "question": "What is the name of the pirate crew led by Monkey D. Luffy in 'One Piece'?",
+      "correct_answer": "Straw Hat Pirates",
+      "incorrect_answers": ["Red-Haired Pirates", "Blackbeard Pirates", "Whitebeard Pirates"]
+    },
+    {
+      "question": "In 'Bleach,' what is the name of Ichigo Kurosaki's zanpakuto (sword spirit)?",
+      "correct_answer": "Zangetsu",
+      "incorrect_answers": ["Hyorinmaru", "Senbonzakura", "Byakuya Kuchiki"]
+    },
+    {
+      "question": "What is the name of the school for aspiring heroes in 'My Hero Academia'?",
+      "correct_answer": "U.A. High School",
+      "incorrect_answers": ["Shiketsu High School", "Yuei Academy", "Musutafu High School"]
+    },
+    {
+      "question": "In 'Jujutsu Kaisen,' who is the main character who consumes Sukuna Ryoumen's fingers?",
+      "correct_answer": "Yuji Itadori",
+      "incorrect_answers": ["Megumi Fushiguro", "Nobara Kugisaki", "Satoru Gojo"]
+    },
+    {
+      "question": "What is the name of the magical grimoire that Asta receives in 'Black Clover'?",
+      "correct_answer": "Grimoire of Zero",
+      "incorrect_answers": ["Grimoire of Despair", "Grimoire of Destruction", "Grimoire of the First Wizard King"]
+    },
+    {
+      "question": "In 'Attack on Titan,' who is known as the Armored Titan?",
+      "correct_answer": "Reiner Braun",
+      "incorrect_answers": ["Eren Yeager", "Zeke Yeager", "Levi Ackerman"]
+    },
+    {
+      "question": "What is the main setting of the anime 'Nanbaka'?",
+      "correct_answer": "Nanba Prison",
+      "incorrect_answers": ["High school", "Space station", "Magical kingdom"]
+    },
+    {
+      "question": "Who is the brilliant detective known as the \"Crimson Alchemist\" in 'Moriarty the Patriot'?",
+      "correct_answer": "Albert James Moriarty",
+      "incorrect_answers": ["Sherlock Holmes", "John Watson", "Irene Adler"]
+    },
+    {
+      "question": "In 'Bungou Stray Dogs,' what is the unique ability of Osamu Dazai?",
+      "correct_answer": "No Longer Human",
+      "incorrect_answers": ["Beast Beneath the Moon", "Telekinesis", "Shape-shifting"]
+    },
+    {
+      "question": "What is the name of the infamous Death Note in the anime 'Death Note'?",
+      "correct_answer": "Ryuk's Death Note",
+      "incorrect_answers": ["Light's Death Note", "Misa's Death Note", "Kira's Death Note"]
+    },
+    {
+      "question": "Who is the author of 'My Hero Academia'?",
+      "correct_answer": "Kohei Horikoshi",
+      "incorrect_answers": ["Masashi Kishimoto", "Eiichiro Oda", "Tite Kubo"]
+    },
+    {
+      "question": "What is the name of the final arc in 'Bleach' that was never adapted into an anime?",
+      "correct_answer": "Thousand-Year Blood War",
+      "incorrect_answers": ["Hueco Mundo arc", "Soul Society arc", "Arrancar arc"]
+    },
+    {
+      "question": "In 'One Piece,' what is the name of Roronoa Zoro's signature sword?",
+      "correct_answer": "Sandai Kitetsu",
+      "incorrect_answers": ["Wado Ichimonji", "Shusui", "Enma"]
+    },
+    {
+      "question": "In 'Jujutsu Kaisen,' what is the name of the dangerous curse that haunts Yuji Itadori?",
+      "correct_answer": "Ryomen Sukuna",
+      "incorrect_answers": ["Cursed Womb: Death Painting", "Special Grade Curse: Jogo", "Cursed Spirit: Hanami"]
+    },
+    {
+      "question": "What is the name of the magical book that holds the knowledge of demons in 'Black Clover'?",
+      "correct_answer": "Grimoire of Zero",
+      "incorrect_answers": ["Grimoire of Despair", "Grimoire of Destruction", "Grimoire of the First Wizard King"]
+    },
+    {
+      "question": "Who is the Colossal Titan in 'Attack on Titan'?",
+      "correct_answer": "Bertolt Hoover",
+      "incorrect_answers": ["Eren Yeager", "Reiner Braun", "Zeke Yeager"]
+    },
+    {
+      "question": "In 'Nanbaka,' who is the protagonist with the ID number 15?",
+      "correct_answer": "Jyugo",
+      "incorrect_answers": ["Uno", "Nico", "Rock"]
+    },
+    {
+      "question": "Who is the fictional detective known for his deductive abilities in 'Moriarty the Patriot'?",
+      "correct_answer": "William James Moriarty",
+      "incorrect_answers": ["Sherlock Holmes", "John Watson", "Irene Adler"]
+    },
+    {
+      "question": "What is the unique ability of Atsushi Nakajima in 'Bungou Stray Dogs'?",
+      "correct_answer": "Beast Beneath the Moon",
+      "incorrect_answers": ["No Longer Human", "Telekinesis", "Shape-shifting"]
+    },
+    {
+      "question": "What is the name of the Shinigami who drops a Death Note into the human world in 'Death Note'?",
+      "correct_answer": "Ryuk",
+      "incorrect_answers": ["Rem", "Misa Amane", "Light Yagami"]
+    },
+    {
+      "question": "In 'Naruto,' what is the name of the Uchiha clan's ultimate ability?",
+      "correct_answer": "Sharingan",
+      "incorrect_answers": ["Byakugan", "Rinnegan", "Tenseigan"]
+    },
+    {
+      "question": "In 'One Piece,' who is the pirate known as the \"Pirate Hunter\"?",
+      "correct_answer": "Roronoa Zoro",
+      "incorrect_answers": ["Monkey D. Luffy", "Sanji", "Usopp"]
+    },
+    {
+      "question": "In 'Bleach,' what is the name of the organization responsible for maintaining the balance between the living world and the spirit world?",
+      "correct_answer": "Soul Society",
+      "incorrect_answers": ["Hueco Mundo", "Bounts", "Quincy"]
+    },
+    {
+      "question": "What is the name of the class that trains young heroes in 'My Hero Academia'?",
+      "correct_answer": "Class 1-A",
+      "incorrect_answers": ["Hero Course", "Villain Alliance", "Class 1-B"]
+    },
+    {
+      "question": "In 'Jujutsu Kaisen,' who is the teacher and advisor of the Tokyo Jujutsu High?",
+      "correct_answer": "Satoru Gojo",
+      "incorrect_answers": ["Masamichi Yaga", "Yoshinobu Gakuganji", "Atsuya Kusakabe"]
+    },
+    {
+      "question": "What is the name of the main character in 'Black Clover' who possesses no magical power?",
+      "correct_answer": "Asta",
+      "incorrect_answers": ["Yuno", "Noelle Silva", "Mimosa Vermillion"]
+    },
+    {
+      "question": "In 'Attack on Titan,' what is the name of the beast titan with royal blood?",
+      "correct_answer": "Zeke Yeager",
+      "incorrect_answers": ["Eren Yeager", "Reiner Braun", "Colt Grice"]
+    },
+    {
+      "question": "In 'Nanbaka,' which character is known for his tattooed numbers on his body?",
+      "correct_answer": "Uno",
+      "incorrect_answers": ["Jyugo", "Nico", "Rock"]
+    },
+    {
+      "question": "In 'Moriarty the Patriot,' who is the genius detective known as \"Sherlock Holmes\" arch-nemesis?",
+      "correct_answer": "William James Moriarty",
+      "incorrect_answers": ["Sherlock Holmes", "John Watson", "Irene Adler"]
+    },
+    {
+      "question": "In 'Bungou Stray Dogs,' what is the unique ability of Osamu Dazai?",
+      "correct_answer": "No Longer Human",
+      "incorrect_answers": ["Beast Beneath the Moon", "Telekinesis", "Shape-shifting"]
+    },
+    {
+      "question": "In 'Death Note,' what is the name of the shinigami who originally owned the Death Note that Light Yagami found?",
+      "correct_answer": "Ryuk",
+      "incorrect_answers": ["Rem", "Misa Amane", "Sidoh"]
+    },
+    {
+      "question": "In 'Naruto,' what is the name of the main character's father?",
+      "correct_answer": "Minato Namikaze",
+      "incorrect_answers": ["Kakashi Hatake", "Jiraiya", "Iruka Umino"]
+    },
+    {
+      "question": "In 'One Piece,' who is the captain of the Red-Haired Pirates?",
+      "correct_answer": "Shanks",
+      "incorrect_answers": ["Whitebeard", "Blackbeard", "Kaido"]
+    },
+    {
+      "question": "In 'Bleach,' what is the name of the substitute shinigami who gains soul reaper powers?",
+      "correct_answer": "Ichigo Kurosaki",
+      "incorrect_answers": ["Rukia Kuchiki", "Renji Abarai", "Byakuya Kuchiki"]
+    },
+    {
+      "question": "What is the name of the explosive villain in 'My Hero Academia' who wears a mask?",
+      "correct_answer": "Katsuki Bakugo",
+      "incorrect_answers": ["Shoto Todoroki", "Tenya Iida", "Denki Kaminari"]
+    },
+    {
+      "question": "In 'Jujutsu Kaisen,' who is known as the most powerful sorcerer in Japan?",
+      "correct_answer": "Satoru Gojo",
+      "incorrect_answers": ["Megumi Fushiguro", "Nobara Kugisaki", "Yuta Okkotsu"]
+    },
+    {
+      "question": "What is the name of the rival knight squad in 'Black Clover' that opposes the Black Bulls?",
+      "correct_answer": "Golden Dawn",
+      "incorrect_answers": ["Crimson Lion Kings", "Silver Eagles", "Blue Rose"]
+    },
+    {
+      "question": "In 'Attack on Titan,' what is the name of the leader of the Survey Corps?",
+      "correct_answer": "Erwin Smith",
+      "incorrect_answers": ["Eren Yeager", "Mikasa Ackerman", "Armin Arlert"]
+    },
+    {
+      "question": "In 'Nanbaka,' what is the protagonist's real name before he was given the ID number 15?",
+      "correct_answer": "Yugo",
+      "incorrect_answers": ["Uno", "Nico", "Rock"]
+    },
+    {
+      "question": "In 'Moriarty the Patriot,' who is the author of the original Sherlock Holmes stories?",
+      "correct_answer": "Arthur Conan Doyle",
+      "incorrect_answers": ["Agatha Christie", "Edgar Allan Poe", "H.G. Wells"]
+    },
+    {
+      "question": "In 'Bungou Stray Dogs,' what is the unique ability of Ranpo Edogawa?",
+      "correct_answer": "Super Deduction",
+      "incorrect_answers": ["Beast Beneath the Moon", "Telekinesis", "Shape-shifting"]
+    },
+    {
+      "question": "What is the name of the notebook used by Light Yagami in 'Death Note' to write the names of individuals he wants to eliminate?",
+      "correct_answer": "Death Note",
+      "incorrect_answers": ["Kira's Notebook", "Shinigami Notebook", "Ryuk's Notebook"]
+    },
+    {
+      "question": "In 'Naruto,' what is the name of the village where the Uzumaki clan originated?",
+      "correct_answer": "Hidden Eddy Village",
+      "incorrect_answers": ["Hidden Leaf Village", "Hidden Sand Village", "Hidden Mist Village"]
+    },
+    {
+      "question": "In 'One Piece,' who is the archaeologist and historian of the Straw Hat Pirates?",
+      "correct_answer": "Nico Robin",
+      "incorrect_answers": ["Tony Tony Chopper", "Franky", "Usopp"]
+    },
+    {
+      "question": "In 'Bleach,' who is the captain of the 10th Division of the Gotei 13?",
+      "correct_answer": "Toshiro Hitsugaya",
+      "incorrect_answers": ["Byakuya Kuchiki", "Retsu Unohana", "Sajin Komamura"]
+    },
+    {
+      "question": "What is the name of the quirkless boy who aspires to become a hero in 'My Hero Academia'?",
+      "correct_answer": "Izuku Midoriya",
+      "incorrect_answers": ["Katsuki Bakugo", "Shoto Todoroki", "Tenya Iida"]
+    },
+    {
+      "question": "In 'Jujutsu Kaisen,' what is the name of the cursed spirit that possesses Yuji Itadori?",
+      "correct_answer": "Ryomen Sukuna",
+      "incorrect_answers": ["Cursed Womb: Death Painting", "Special Grade Curse: Jogo", "Cursed Spirit: Hanami"]
+    },
+    {
+      "question": "What is the name of the bird that serves as Asta's anti-magic weapon in 'Black Clover'?",
+      "correct_answer": "Secre Swallowtail",
+      "incorrect_answers": ["Noelle Silva", "Yuno", "Mimosa Vermillion"]
+    },
+    {
+      "question": "In 'Attack on Titan,' who is the captain of the Special Operations Squad under Levi?",
+      "correct_answer": "Erwin Smith",
+      "incorrect_answers": ["Mikasa Ackerman", "Jean Kirstein", "Connie Springer"]
+    },
+    {
+      "question": "In 'Nanbaka,' which character is known for his computer hacking skills?",
+      "correct_answer": "Nico",
+      "incorrect_answers": ["Jyugo", "Uno", "Rock"]
+    },
+    {
+      "question": "In 'Moriarty the Patriot,' what is the name of William James Moriarty's younger brother?",
+      "correct_answer": "Albert James Moriarty",
+      "incorrect_answers": ["Sherlock Holmes", "John Watson", "Irene Adler"]
+    },
+    {
+      "question": "In 'Bungou Stray Dogs,' what is the unique ability of Atsushi Nakajima?",
+      "correct_answer": "Beast Beneath the Moon",
+      "incorrect_answers": ["No Longer Human", "Telekinesis", "Shape-shifting"]
+    },
+    {
+      "question": "In 'Death Note,' what is the name of the detective who is determined to capture Kira?",
+      "correct_answer": "L (L Lawliet)",
+      "incorrect_answers": ["Near (Nate River)", "Mello (Mihael Keehl)", "Watari"]
+    },
+    {
+      "question": "In 'Naruto,' what is the name of the Fourth Hokage?",
+      "correct_answer": "Minato Namikaze",
+      "incorrect_answers": ["Tobirama Senju", "Hiruzen Sarutobi", "Hashirama Senju"]
+    },
+    {
+      "question": "In 'One Piece,' who is the captain of the Blackbeard Pirates?",
+      "correct_answer": "Marshall D. Teach (Blackbeard)",
+      "incorrect_answers": ["Jinbe", "Scratchmen Apoo", "Urouge"]
+    },
+    {
+      "question": "In 'Bleach,' what is the name of the zanpakuto (sword spirit) that belongs to Renji Abarai?",
+      "correct_answer": "Zabimaru",
+      "incorrect_answers": ["Senbonzakura", "Haineko", "Zangetsu"]
+    },
+    {
+      "question": "What is the name of the villain with the ability to warp reality in 'My Hero Academia'?",
+      "correct_answer": "Tomura Shigaraki",
+      "incorrect_answers": ["All For One", "Overhaul", "Stain"]
+    },
+    {
+      "question": "In 'Jujutsu Kaisen,' who is known as the sorcerer with immense cursed energy?",
+      "correct_answer": "Gojo Satoru",
+      "incorrect_answers": ["Kento Nanami", "Mai Zenin", "Yuta Okkotsu"]
+    },
+    {
+      "question": "What is the name of the Wizard King in 'Black Clover'?",
+      "correct_answer": "Julius Novachrono",
+      "incorrect_answers": ["Yami Sukehiro", "Fuegoleon Vermillion", "Charlotte Roselei"]
+    },
+    {
+      "question": "In 'Attack on Titan,' what is the name of the former Survey Corps commander who was known as the 'Strongest Soldier'?",
+      "correct_answer": "Kenny Ackerman",
+      "incorrect_answers": ["Erwin Smith", "Levi Ackerman", "Mike Zacharias"]
+    },
+    {
+      "question": "In 'Nanbaka,' what is the name of the calm and collected guard with ID number 25?",
+      "correct_answer": "Rock",
+      "incorrect_answers": ["Jyugo", "Uno", "Nico"]
+    },
+    {
+      "question": "In 'Moriarty the Patriot,' what is the name of the loyal assistant to William James Moriarty?",
+      "correct_answer": "Louis James Moriarty",
+      "incorrect_answers": ["Albert James Moriarty", "Sherlock Holmes", "Irene Adler"]
+    },
+    {
+      "question": "In 'Bungou Stray Dogs,' what is the unique ability of Ranpo Edogawa?",
+      "correct_answer": "Super Deduction",
+      "incorrect_answers": ["Beast Beneath the Moon", "Telekinesis", "Shape-shifting"]
+    },
+    {
+      "question": "In 'Death Note,' what is the name of the second Kira who operates under the alias 'Kira'?",
+      "correct_answer": "Misa Amane",
+      "incorrect_answers": ["Light Yagami", "L (L Lawliet)", "Ryuk"]
+    },
+    {
+      "question": "In 'Naruto,' what is the name of Naruto Uzumaki's best friend and rival?",
+      "correct_answer": "Sasuke Uchiha",
+      "incorrect_answers": ["Sakura Haruno", "Kakashi Hatake", "Iruka Umino"]
+    },
+    {
+      "question": "In 'One Piece,' who is the captain of the Red-Haired Pirates?",
+      "correct_answer": "Shanks",
+      "incorrect_answers": ["Whitebeard", "Blackbeard", "Kaido"]
+    },
+    {
+      "question": "In 'Bleach,' what is the name of Ichigo Kurosaki's childhood friend and classmate?",
+      "correct_answer": "Orihime Inoue",
+      "incorrect_answers": ["Tatsuki Arisawa", "Chad Yasutora", "Uryu Ishida"]
+    },
+    {
+      "question": "What is the name of the villain with the ability to control fire in 'My Hero Academia'?",
+      "correct_answer": "Dabi",
+      "incorrect_answers": ["Endeavor", "Hawks", "Twice"]
+    },
+    {
+      "question": "In 'Jujutsu Kaisen,' who is the sorcerer with the unique ability to manipulate ice?",
+      "correct_answer": "Nobara Kugisaki",
+      "incorrect_answers": ["Satoru Gojo", "Megumi Fushiguro", "Yuta Okkotsu"]
+    },
+    {
+      "question": "What is the name of the diligent and hardworking member of the Black Bulls in 'Black Clover'?",
+      "correct_answer": "Luck Voltia",
+      "incorrect_answers": ["Finral Roulacase", "Gordon Agrippa", "Henry Legolant"]
+    },
+    {
+      "question": "In 'Attack on Titan,' who is known as the 'Female Titan'?",
+      "correct_answer": "Annie Leonhart",
+      "incorrect_answers": ["Mikasa Ackerman", "Sasha Blouse", "Historia Reiss"]
+    },
+    {
+      "question": "In 'Nanbaka,' who is the character known for being cheerful and colorful with ID number 11?",
+      "correct_answer": "Uno",
+      "incorrect_answers": ["Jyugo", "Nico", "Rock"]
+    },
+    {
+      "question": "In 'Moriarty the Patriot,' who is the mastermind and professor known for his evil experiments?",
+      "correct_answer": "John H. Watson",
+      "incorrect_answers": ["William James Moriarty", "Sherlock Holmes", "Irene Adler"]
+    },
+    {
+      "question": "In 'Bungou Stray Dogs,' what is the unique ability of Kyōka Izumi?",
+      "correct_answer": "Demon Snow",
+      "incorrect_answers": ["Beast Beneath the Moon", "Telekinesis", "Shape-shifting"]
+    },
+    {
+      "question": "In 'Death Note,' what is the name of the task force established to capture Kira?",
+      "correct_answer": "Special Provision for Kira (SPK)",
+      "incorrect_answers": ["Kira Investigation Team", "L's Task Force", "National Police Agency"]
+    },
+    {
+      "question": "In 'Naruto,' what is the name of the village hidden in the sand?",
+      "correct_answer": "Hidden Sand Village (Sunagakure)",
+      "incorrect_answers": ["Hidden Leaf Village (Konohagakure)", "Hidden Mist Village (Kirigakure)", "Hidden Stone Village (Iwagakure)"]
+    },
+    {
+      "question": "In 'One Piece,' what is the name of the doctor of the Straw Hat Pirates?",
+      "correct_answer": "Tony Tony Chopper",
+      "incorrect_answers": ["Nico Robin", "Franky", "Usopp"]
+    },
+    {
+      "question": "In 'Bleach,' what is the name of the Espada who controls time?",
+      "correct_answer": "Coyote Starrk",
+      "incorrect_answers": ["Barragan Luisenbarn", "Szayelaporro Granz", "Nnoitra Gilga"]
+    },
+    {
+      "question": "What is the name of the pro hero with the ability to create ice in 'My Hero Academia'?",
+      "correct_answer": "Shoto Todoroki",
+      "incorrect_answers": ["Endeavor", "Hawks", "Twice"]
+    },
+    {
+      "question": "In 'Jujutsu Kaisen,' who is the powerful sorcerer with a cursed corpse technique?",
+      "correct_answer": "Megumi Fushiguro",
+      "incorrect_answers": ["Satoru Gojo", "Nobara Kugisaki", "Yuta Okkotsu"]
+    },
+    {
+      "question": "What is the name of the Black Bulls' resident chef in 'Black Clover'?",
+      "correct_answer": "Grey",
+      "incorrect_answers": ["Noelle Silva", "Luck Voltia", "Gordon Agrippa"]
+    },
+    {
+      "question": "In 'Attack on Titan,' who is known as the 'Beast Titan'?",
+      "correct_answer": "Zeke Yeager",
+      "incorrect_answers": ["Eren Yeager", "Reiner Braun", "Colt Grice"]
+    },
+    {
+      "question": "In 'Nanbaka,' what is the name of the character with ID number 69?",
+      "correct_answer": "Tsukumo",
+      "incorrect_answers": ["Jyugo", "Uno", "Nico"]
+    },
+    {
+      "question": "In 'Moriarty the Patriot,' who is the arch-nemesis of William James Moriarty and is known as 'The Lord of Crime'?",
+      "correct_answer": "Sherlock Holmes",
+      "incorrect_answers": ["John H. Watson", "Irene Adler", "Louis James Moriarty"]
+    },
+    {
+      "question": "In 'Bungou Stray Dogs,' what is the unique ability of Akiko Yosano?",
+      "correct_answer": "Thou Shalt Not Die",
+      "incorrect_answers": ["Beast Beneath the Moon", "Telekinesis", "Shape-shifting"]
+    },
+    {
+      "question": "In 'Death Note,' what is the name of the FBI agent who assists L in capturing Kira?",
+      "correct_answer": "Raye Penber",
+      "incorrect_answers": ["Soichiro Yagami", "Naomi Misora", "Shuichi Aizawa"]
+    },
+    {
+      "question": "In 'Naruto,' what is the name of Kakashi Hatake's signature jutsu?",
+      "correct_answer": "Chidori",
+      "incorrect_answers": ["Rasengan", "Sharingan", "Kamui"]
+    },
+    {
+      "question": "In 'One Piece,' what is the name of the pirate who is the navigator of the Straw Hat Pirates?",
+      "correct_answer": "Nami",
+      "incorrect_answers": ["Robin", "Franky", "Usopp"]
+    },
+    {
+      "question": "In 'Bleach,' what is the name of the former captain of the 3rd Division who was nicknamed the 'Flash Master'?",
+      "correct_answer": "Shuhei Hisagi",
+      "incorrect_answers": ["Byakuya Kuchiki", "Gin Ichimaru", "Sajin Komamura"]
+    },
+    {
+      "question": "In 'My Hero Academia,' who is the pro hero known as 'Hawks'?",
+      "correct_answer": "Keigo Takami",
+      "incorrect_answers": ["Endeavor", "Mirko", "Best Jeanist"]
+    },
+    {
+      "question": "In 'Jujutsu Kaisen,' who is the sorcerer with the unique ability to manipulate blood?",
+      "correct_answer": "Maki Zenin",
+      "incorrect_answers": ["Satoru Gojo", "Megumi Fushiguro", "Yuta Okkotsu"]
+    },
+    {
+      "question": "What is the name of the Black Bulls' laid-back member who sleeps a lot in 'Black Clover'?",
+      "correct_answer": "Gordon Agrippa",
+      "incorrect_answers": ["Noelle Silva", "Luck Voltia", "Grey"]
+    },
+    {
+      "question": "In 'Attack on Titan,' what is the name of the military branch that protects the king?",
+      "correct_answer": "Military Police Brigade",
+      "incorrect_answers": ["Garrison Regiment", "Scout Regiment", "Warrior Unit"]
+    },
+    {
+      "question": "In 'Nanbaka,' who is the guard known for being gentle and caring with ID number 34?",
+      "correct_answer": "Trois",
+      "incorrect_answers": ["Jyugo", "Uno", "Nico"]
+    },
+    {
+      "question": "In 'Moriarty the Patriot,' who is the actress and singer who becomes involved with William James Moriarty?",
+      "correct_answer": "Irene Adler",
+      "incorrect_answers": ["Sherlock Holmes", "John Watson", "Louis James Moriarty"]
+    },
+    {
+      "question": "In 'Bungou Stray Dogs,' what is the unique ability of Yukichi Fukuzawa?",
+      "correct_answer": "All Men Are Equal",
+      "incorrect_answers": ["Beast Beneath the Moon", "Telekinesis", "Shape-shifting"]
+    },
+    {
+      "question": "In 'Death Note,' what is the name of L's assistant who is known as the 'second L'?",
+      "correct_answer": "Near (Nate River)",
+      "incorrect_answers": ["Mello (Mihael Keehl)", "L (L Lawliet)", "Watari"]
+    },
+    {
+      "question": "In 'Naruto,' what is the name of the organization that Itachi Uchiha works for as a double agent?",
+      "correct_answer": "Akatsuki",
+      "incorrect_answers": ["ANBU", "Root", "Jinchuriki Council"]
+    },
+    {
+      "question": "In 'One Piece,' what is the name of the Straw Hat Pirates' ship?",
+      "correct_answer": "Thousand Sunny",
+      "incorrect_answers": ["Going Merry", "Queen Mama Chanter", "Red Force"]
+    },
+    {
+      "question": "In 'Bleach,' what is the name of the Espada with the ability to create and control fire?",
+      "correct_answer": "Baraggan Louisenbairn",
+      "incorrect_answers": ["Coyote Starrk", "Szayelaporro Granz", "Nnoitra Gilga"]
+    },
+    {
+      "question": "In 'My Hero Academia,' who is the pro hero known for his ability to manipulate shadows?",
+      "correct_answer": "Fumikage Tokoyami",
+      "incorrect_answers": ["Shoto Todoroki", "Momo Yaoyorozu", "Tsuyu Asui"]
+    },
+    {
+      "question": "In 'Jujutsu Kaisen,' who is the sorcerer with the unique ability to manipulate the earth?",
+      "correct_answer": "Toge Inumaki",
+      "incorrect_answers": ["Satoru Gojo", "Megumi Fushiguro", "Yuta Okkotsu"]
+    },
+    {
+      "question": "What is the name of the Black Bulls' member who is a prodigy in spatial magic in 'Black Clover'?",
+      "correct_answer": "Finral Roulacase",
+      "incorrect_answers": ["Noelle Silva", "Luck Voltia", "Gordon Agrippa"]
+    },
+    {
+      "question": "In 'Attack on Titan,' what is the name of the infamous basement that Eren Yeager wants to reach?",
+      "correct_answer": "Eren's Basement",
+      "incorrect_answers": ["Attack Titan's Nest", "Key to Humanity's Past", "Yeager Family Secret"]
+    },
+    {
+      "question": "In 'Nanbaka,' what is the name of the enthusiastic guard with ID number 25?",
+      "correct_answer": "Rock",
+      "incorrect_answers": ["Jyugo", "Uno", "Nico"]
+    },
+    {
+      "question": "In 'Moriarty the Patriot,' who is the master of disguise known as 'The Napoleon of Crime'?",
+      "correct_answer": "William James Moriarty",
+      "incorrect_answers": ["Sherlock Holmes", "John Watson", "Irene Adler"]
+    },
+    {
+      "question": "In 'Bungou Stray Dogs,' what is the unique ability of Atsushi Nakajima?",
+      "correct_answer": "Beast Beneath the Moon",
+      "incorrect_answers": ["No Longer Human", "Telekinesis", "Shape-shifting"]
+    },
+    {
+      "question": "In 'Death Note,' what is the name of the shinigami who appears in the human world to observe Light Yagami?",
+      "correct_answer": "Sidoh",
+      "incorrect_answers": ["Rem", "Misa Amane", "Ryuk"]
+    },
+    {
+      "question": "In 'Naruto,' what is the name of the village hidden in the rain?",
+      "correct_answer": "Hidden Rain Village (Amegakure)",
+      "incorrect_answers": ["Hidden Leaf Village (Konohagakure)", "Hidden Sand Village (Sunagakure)", "Hidden Stone Village (Iwagakure)"]
+    },
+    {
+      "question": "In 'One Piece,' what is the name of the queen of the Tontatta Tribe?",
+      "correct_answer": "Mansherry",
+      "incorrect_answers": ["Leo", "Kabu", "Wicca"]
+    },
+    {
+      "question": "In 'Bleach,' what is the name of the former captain of the 9th Division who is a famous novelist?",
+      "correct_answer": "Shinji Hirako",
+      "incorrect_answers": ["Gin Ichimaru", "Tosen Kaname", "Byakuya Kuchiki"]
+    },
+    {
+      "question": "In 'My Hero Academia,' who is the pro hero known for his hardened skin and quirk, 'Red Riot'?",
+      "correct_answer": "Eijiro Kirishima",
+      "incorrect_answers": ["Katsuki Bakugo", "Mina Ashido", "Tamaki Amajiki"]
+    },
+    {
+      "question": "In 'Jujutsu Kaisen,' who is the sorcerer with the unique ability to manipulate the wind?",
+      "correct_answer": "Mai Zenin",
+      "incorrect_answers": ["Satoru Gojo", "Megumi Fushiguro", "Yuta Okkotsu"]
+    },
+    {
+      "question": "What is the name of the Black Bulls' member who has the ability to manipulate ash in 'Black Clover'?",
+      "correct_answer": "Grey",
+      "incorrect_answers": ["Noelle Silva", "Luck Voltia", "Gordon Agrippa"]
+    },
+    {
+      "question": "In 'Attack on Titan,' what is the name of the region beyond the walls that is inhabited by Marleyans?",
+      "correct_answer": "Marley",
+      "incorrect_answers": ["Paradis Island", "Eldia", "Reiner's Hometown"]
+    },
+    {
+      "question": "In 'Nanbaka,' what is the name of the guard with an obsession for honey and the number 14?",
+      "correct_answer": "Jyugo",
+      "incorrect_answers": ["Uno", "Nico", "Rock"]
+    },
+    {
+      "question": "In 'Moriarty the Patriot,' what is the name of the skilled assassin known as 'Spider Lily'?",
+      "correct_answer": "Irene Adler",
+      "incorrect_answers": ["Sherlock Holmes", "John Watson", "William James Moriarty"]
+    },
+    {
+      "question": "In 'Bungou Stray Dogs,' what is the unique ability of Yukichi Fukuzawa?",
+      "correct_answer": "All Men Are Equal",
+      "incorrect_answers": ["Beast Beneath the Moon", "Telekinesis", "Shape-shifting"]
+    },
+    {
+      "question": "In 'Death Note,' what is the name of the shinigami who drops the second Death Note into the human world?",
+      "correct_answer": "Midora",
+      "incorrect_answers": ["Rem", "Misa Amane", "Sidoh"]
+    },
+    {
+      "question": "In 'Naruto,' what is the name of the village hidden in the clouds?",
+      "correct_answer": "Hidden Cloud Village (Kumogakure)",
+      "incorrect_answers": ["Hidden Leaf Village (Konohagakure)", "Hidden Sand Village (Sunagakure)", "Hidden Stone Village (Iwagakure)"]
+    },
+    {
+      "question": "In 'One Piece,' what is the name of the giant talking elephant who serves as the guardian of Zou?",
+      "correct_answer": "Zunesha",
+      "incorrect_answers": ["Wanda", "Carrot", "Pedro"]
+    },
+    {
+      "question": "In 'Bleach,' what is the name of the sword spirit of Ichigo Kurosaki's zanpakuto?",
+      "correct_answer": "Zangetsu",
+      "incorrect_answers": ["Senbonzakura", "Haineko", "Zabimaru"]
+    },
+    {
+      "question": "In 'My Hero Academia,' who is the pro hero known for his healing quirk, 'Recovery Girl'?",
+      "correct_answer": "Chiyo Shuzenji",
+      "incorrect_answers": ["Nemuri Kayama (Midnight)", "Ectoplasm", "Snatch"]
+    },
+    {
+      "question": "In 'Jujutsu Kaisen,' who is the sorcerer with the unique ability to manipulate blood?",
+      "correct_answer": "Mai Zenin",
+      "incorrect_answers": ["Satoru Gojo", "Megumi Fushiguro", "Yuta Okkotsu"]
+    },
+    {
+      "question": "What is the name of the Black Bulls' member who can manipulate space in 'Black Clover'?",
+      "correct_answer": "Vanessa Enoteca",
+      "incorrect_answers": ["Noelle Silva", "Luck Voltia", "Grey"]
+    },
+    {
+      "question": "In 'Attack on Titan,' what is the name of the civilization within the walls on Paradis Island?",
+      "correct_answer": "Eldia",
+      "incorrect_answers": ["Marley", "Paradis Island", "Reiner's Hometown"]
+    },
+    {
+      "question": "In 'Nanbaka,' who is the leader of the building 5 inmates with ID number 99?",
+      "correct_answer": "Musketeer X",
+      "incorrect_answers": ["Jyugo", "Uno", "Nico"]
+    },
+    {
+      "question": "In 'Moriarty the Patriot,' who is the author and public speaker known as 'The Good Shepherd'?",
+      "correct_answer": "John Watson",
+      "incorrect_answers": ["William James Moriarty", "Sherlock Holmes", "Irene Adler"]
+    },
+    {
+      "question": "In 'Bungou Stray Dogs,' what is the unique ability of Louisa May Alcott?",
+      "correct_answer": "Scarlet Letter",
+      "incorrect_answers": ["Beast Beneath the Moon", "Telekinesis", "Shape-shifting"]
+    },
+    {
+      "question": "In 'Death Note,' what is the name of the task force established to capture Kira?",
+      "correct_answer": "Kira Investigation Team",
+      "incorrect_answers": ["Special Provision for Kira (SPK)", "L's Task Force", "National Police Agency"]
+    },
+    {
+      "question": "In 'Naruto,' what is the name of the group of legendary ninja founded by Hashirama Senju?",
+      "correct_answer": "Akatsuki",
+      "incorrect_answers": ["ANBU", "Root", "Jinchuriki Council"]
+    },
+    {
+      "question": "In 'One Piece,' what is the name of the Straw Hat Pirates' ship that was their first ship on their journey?",
+      "correct_answer": "Going Merry",
+      "incorrect_answers": ["Thousand Sunny", "Queen Mama Chanter", "Red Force"]
+    },
+    {
+      "question": "In 'Bleach,' what is the name of the Espada who controls water and uses a shark as his zanpakuto spirit?",
+      "correct_answer": "Tia Harribel",
+      "incorrect_answers": ["Nelliel Tu Odelschwanck", "Ulquiorra Cifer", "Grimmjow Jaegerjaquez"]
+    },
+    {
+      "question": "In 'My Hero Academia,' who is the pro hero known for his telepathic quirk, 'Voice'?",
+      "correct_answer": "Hizashi Yamada (Present Mic)",
+      "incorrect_answers": ["Shota Aizawa (Eraser Head)", "Midnight", "Snatch"]
+    },
+    {
+      "question": "In 'Jujutsu Kaisen,' who is the powerful sorcerer who carries a cursed tool, 'Kusarigama'?",
+      "correct_answer": "Panda",
+      "incorrect_answers": ["Satoru Gojo", "Megumi Fushiguro", "Yuta Okkotsu"]
+    },
+    {
+      "question": "What is the name of the Black Bulls' member who has the ability to manipulate ash in 'Black Clover'?",
+      "correct_answer": "Grey",
+      "incorrect_answers": ["Noelle Silva", "Luck Voltia", "Gordon Agrippa"]
+    },
+    {
+      "question": "In 'Attack on Titan,' who is known as the 'Colossal Titan'?",
+      "correct_answer": "Armin Arlert",
+      "incorrect_answers": ["Eren Yeager", "Reiner Braun", "Zeke Yeager"]
+    },
+    {
+      "question": "In 'Nanbaka,' who is the character known for loving books and has ID number 69?",
+      "correct_answer": "Nico",
+      "incorrect_answers": ["Jyugo", "Uno", "Rock"]
+    },
+    {
+      "question": "In 'Moriarty the Patriot,' who is the skilled acrobat and performer known as 'The Lord of Crime'?",
+      "correct_answer": "Albert James Moriarty",
+      "incorrect_answers": ["William James Moriarty", "Sherlock Holmes", "Irene Adler"]
+    },
+    {
+      "question": "In 'Bungou Stray Dogs,' what is the unique ability of Junichiro Tanizaki?",
+      "correct_answer": "Light Snow",
+      "incorrect_answers": ["Beast Beneath the Moon", "Telekinesis", "Shape-shifting"]
+    },
+    {
+      "question": "In 'Death Note,' what is the name of the vigilante killer who targets criminals in the name of Kira?",
+      "correct_answer": "Kira (Second Kira)",
+      "incorrect_answers": ["Kira (Light Yagami)", "L (L Lawliet)", "Near (Nate River)"]
+    },
+    {
+      "question": "In 'Naruto,' who is known as the 'Copy Ninja' and is the sensei of Team 7?",
+      "correct_answer": "Kakashi Hatake",
+      "incorrect_answers": ["Sasuke Uchiha", "Sakura Haruno", "Iruka Umino"]
+    },
+    {
+      "question": "In 'One Piece,' what is the name of the former warlord and revolutionary who is the fish-man Karate master?",
+      "correct_answer": "Jimbei",
+      "incorrect_answers": ["Fisher Tiger", "Koala", "Hack"]
+    },
+    {
+      "question": "In 'Bleach,' what is the name of the Espada with the ability to heal any wound?",
+      "correct_answer": "Nelliel Tu Odelschwanck",
+      "incorrect_answers": ["Tia Harribel", "Ulquiorra Cifer", "Grimmjow Jaegerjaquez"]
+    },
+    {
+      "question": "In 'My Hero Academia,' who is the pro hero known for his speed and quirk, 'Jet-Black Hero: Ingenium'?",
+      "correct_answer": "Tensei Iida",
+      "incorrect_answers": ["Mei Hatsume", "Tsuyu Asui", "Ectoplasm"]
+    },
+    {
+      "question": "In 'Jujutsu Kaisen,' who is the sorcerer with the unique ability to manipulate shadows?",
+      "correct_answer": "Maki Zenin",
+      "incorrect_answers": ["Satoru Gojo", "Megumi Fushiguro", "Yuta Okkotsu"]
+    },
+    {
+      "question": "What is the name of the Black Bulls' member who is a prodigy in spatial magic in 'Black Clover'?",
+      "correct_answer": "Finral Roulacase",
+      "incorrect_answers": ["Noelle Silva", "Luck Voltia", "Gordon Agrippa"]
+    },
+    {
+      "question": "In 'Attack on Titan,' what is the name of the organization that sent the spies to infiltrate the walls on Paradis Island?",
+      "correct_answer": "Warrior Unit",
+      "incorrect_answers": ["Garrison Regiment", "Scout Regiment", "Military Police Brigade"]
+    },
+    {
+      "question": "In 'Nanbaka,' who is the gentle and timid guard with ID number 15?",
+      "correct_answer": "Uno",
+      "incorrect_answers": ["Jyugo", "Nico", "Rock"]
+    },
+    {
+      "question": "In 'Moriarty the Patriot,' who is the talented pianist and musician known as 'The Lord of Crime'?",
+      "correct_answer": "Louis James Moriarty",
+      "incorrect_answers": ["William James Moriarty", "Sherlock Holmes", "Irene Adler"]
+    },
+    {
+      "question": "In 'Bungou Stray Dogs,' what is the unique ability of Rampo Edogawa?",
+      "correct_answer": "Super Deduction",
+      "incorrect_answers": ["Beast Beneath the Moon", "Telekinesis", "Shape-shifting"]
+    },
+    {
+      "question": "In 'Death Note,' what is the name of the shinigami who is fond of apples and makes the Death Note fall to the human world?",
+      "correct_answer": "Ryuk",
+      "incorrect_answers": ["Rem", "Misa Amane", "Sidoh"]
+    },
+    {
+      "question": "In 'Naruto,' what is the name of the group of rogue ninja led by Pain that seeks to bring peace through pain?",
+      "correct_answer": "Akatsuki",
+      "incorrect_answers": ["ANBU", "Root", "Jinchuriki Council"]
+    },
+    {
+      "question": "In 'One Piece,' who is the archaeologist and historian of the Straw Hat Pirates?",
+      "correct_answer": "Nico Robin",
+      "incorrect_answers": ["Franky", "Usopp", "Nami"]
+    },
+    {
+      "question": "In 'Bleach,' what is the name of the captain of the 11th Division who loves battle and is known for his eye patch?",
+      "correct_answer": "Kenpachi Zaraki",
+      "incorrect_answers": ["Byakuya Kuchiki", "Gin Ichimaru", "Tosen Kaname"]
+    },
+    {
+      "question": "In 'My Hero Academia,' who is the pro hero known for his ability to create objects using his fat?",
+      "correct_answer": "Fat Gum",
+      "incorrect_answers": ["Endeavor", "Edgeshot", "Rock Lock"]
+    },
+    {
+      "question": "In 'Jujutsu Kaisen,' who is the sorcerer with the unique ability to manipulate dolls and voodoo?",
+      "correct_answer": "Noritoshi Kamo",
+      "incorrect_answers": ["Satoru Gojo", "Megumi Fushiguro", "Yuta Okkotsu"]
+    },
+    {
+      "question": "What is the name of the Black Bulls' resident chef in 'Black Clover'?",
+      "correct_answer": "Grey",
+      "incorrect_answers": ["Noelle Silva", "Luck Voltia", "Gordon Agrippa"]
+    },
+    {
+      "question": "In 'Attack on Titan,' who is known as the 'Beast Titan'?",
+      "correct_answer": "Zeke Yeager",
+      "incorrect_answers": ["Eren Yeager", "Reiner Braun", "Colt Grice"]
+    },
+    {
+      "question": "In 'Nanbaka,' what is the name of the character with ID number 68?",
+      "correct_answer": "Nico",
+      "incorrect_answers": ["Jyugo", "Uno", "Rock"]
+    },
+    {
+      "question": "In 'Moriarty the Patriot,' who is the author and public speaker who becomes involved with William James Moriarty?",
+      "correct_answer": "Irene Adler",
+      "incorrect_answers": ["Sherlock Holmes", "John Watson", "Louis James Moriarty"]
+    },
+    {
+      "question": "In 'Bungou Stray Dogs,' what is the unique ability of Louisa May Alcott?",
+      "correct_answer": "Scarlet Letter",
+      "incorrect_answers": ["Beast Beneath the Moon", "Telekinesis", "Shape-shifting"]
+    },
+    {
+      "question": "In 'Death Note,' what is the name of the FBI agent who assists L in capturing Kira?",
+      "correct_answer": "Raye Penber",
+      "incorrect_answers": ["Soichiro Yagami", "Naomi Misora", "Shuichi Aizawa"]
+    },
+    {
+      "question": "In 'Naruto,' what is the name of Kakashi Hatake's signature jutsu?",
+      "correct_answer": "Chidori",
+      "incorrect_answers": ["Rasengan", "Sharingan", "Kamui"]
+    },
+    {
+      "question": "In 'One Piece,' what is the name of the giant warrior and member of the Longarm Tribe?",
+      "correct_answer": "Blue Gilly",
+      "incorrect_answers": ["Machvise", "Dellinger", "Abdullah"]
+    },
+    {
+      "question": "In 'Bleach,' what is the name of the Espada who controls time?",
+      "correct_answer": "Coyote Starrk",
+      "incorrect_answers": ["Barragan Luisenbarn", "Szayelaporro Granz", "Nnoitra Gilga"]
+    },
+    {
+      "question": "In 'My Hero Academia,' who is the pro hero known as 'Edgeshot'?",
+      "correct_answer": "Shinya Kamihara",
+      "incorrect_answers": ["Best Jeanist", "Tiger", "X-Less"]
+    },
+    {
+      "question": "In 'Jujutsu Kaisen,' who is the powerful sorcerer with a cursed corpse technique?",
+      "correct_answer": "Megumi Fushiguro",
+      "incorrect_answers": ["Satoru Gojo", "Nobara Kugisaki", "Yuta Okkotsu"]
+    },
+    {
+      "question": "What is the name of the Black Bulls' member who is a prodigy in spatial magic in 'Black Clover'?",
+      "correct_answer": "Finral Roulacase",
+      "incorrect_answers": ["Noelle Silva", "Luck Voltia", "Gordon Agrippa"]
+    },
+    {
+      "question": "In 'Attack on Titan,' what is the name of the region beyond the walls that is inhabited by Marleyans?",
+      "correct_answer": "Marley",
+      "incorrect_answers": ["Paradis Island", "Eldia", "Reiner's Hometown"]
+    },
+    {
+      "question": "In 'Nanbaka,' what is the name of the enthusiastic guard with ID number 25?",
+      "correct_answer": "Rock",
+      "incorrect_answers": ["Jyugo", "Uno", "Nico"]
+    },
+    {
+      "question": "In 'Moriarty the Patriot,' who is the actress and singer who becomes involved with William James Moriarty?",
+      "correct_answer": "Irene Adler",
+      "incorrect_answers": ["Sherlock Holmes", "John Watson", "Louis James Moriarty"]
+    },
+    {
+      "question": "In 'Bungou Stray Dogs,' what is the unique ability of Yukichi Fukuzawa?",
+      "correct_answer": "All Men Are Equal",
+      "incorrect_answers": ["Beast Beneath the Moon", "Telekinesis", "Shape-shifting"]
+    },
+    {
+      "question": "In 'Death Note,' what is the name of the shinigami who appears in the human world to observe Light Yagami?",
+      "correct_answer": "Sidoh",
+      "incorrect_answers": ["Rem", "Misa Amane", "Ryuk"]
+    },
+    {
+      "question": "In 'Naruto,' what is the name of the village hidden in the rain?",
+      "correct_answer": "Hidden Rain Village (Amegakure)",
+      "incorrect_answers": ["Hidden Leaf Village (Konohagakure)", "Hidden Sand Village (Sunagakure)", "Hidden Stone Village (Iwagakure)"]
+    },
+    {
+      "question": "In 'One Piece,' what is the name of the queen of the Tontatta Tribe?",
+      "correct_answer": "Mansherry",
+      "incorrect_answers": ["Leo", "Kabu", "Wicca"]
+    },
+    {
+      "question": "In 'Bleach,' what is the name of the former captain of the 9th Division who is a famous novelist?",
+      "correct_answer": "Shinji Hirako",
+      "incorrect_answers": ["Gin Ichimaru", "Tosen Kaname", "Byakuya Kuchiki"]
+    },
+    {
+      "question": "In 'My Hero Academia,' who is the pro hero known for his ability to manipulate shadows?",
+      "correct_answer": "Fumikage Tokoyami",
+      "incorrect_answers": ["Shoto Todoroki", "Momo Yaoyorozu", "Tsuyu Asui"]
+    },
+    {
+      "question": "In 'Jujutsu Kaisen,' who is the sorcerer with the unique ability to manipulate the earth?",
+      "correct_answer": "Toge Inumaki",
+      "incorrect_answers": ["Satoru Gojo", "Megumi Fushiguro", "Yuta Okkotsu"]
+    },
+    {
+      "question": "What is the name of the Black Bulls' laid-back member who sleeps a lot in 'Black Clover'?",
+      "correct_answer": "Gordon Agrippa",
+      "incorrect_answers": ["Noelle Silva", "Luck Voltia", "Grey"]
+    }
+  ]
+}
