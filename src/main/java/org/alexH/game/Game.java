@@ -91,7 +91,19 @@ abstract public class Game
             case "d", "d)" -> answered = randomizedAnswers.get(3);
         }
 
-        if (answered.equals(answers.getFirst())) return true;
+        if (answered.equals(answers.getLast())) return true;
         return false;
     }
+
+    public void yourAnswerWasCorrect()
+    {
+        println(greenConsole + "Congratulations! You answer was correct, you can continue to the next question" + defaultConsole);
+    }
+
+    public void yourAnswerWasWrong(String correctAnswer)
+    {
+        println(redConsole + "I'm sorry :( You answer was wrong, the correct answer was \"" + correctAnswer + "\" you can no longer play the game"  + defaultConsole);
+    }
+
+
 }
