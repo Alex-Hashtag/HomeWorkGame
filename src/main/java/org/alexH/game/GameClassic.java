@@ -41,7 +41,7 @@ public class GameClassic extends Game
     @Override
     public ArrayList<String> initQuestions(int numberOfQuestions, JsonArray jsonArray)
     {
-        Random random = new Random(4153);
+        Random random = new Random();
         ArrayList<String> questions = new ArrayList<>();
         int totalQuestions = jsonArray.size();
 
