@@ -10,6 +10,7 @@ public enum Categories
     POP_CULTURE("Pop_Culture.json"),
     SCIENCE("Science.json");
 
+
     public final String label;
 
     private Categories(String label)
