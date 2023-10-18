@@ -10,6 +10,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Random;
 
+import static org.alexH.globalFunctions.GlobalFunctions.println;
 
 public class GameClassic extends Game
 {
@@ -25,6 +26,15 @@ public class GameClassic extends Game
         {
             answers = getQuestionAnswers(item, jsonArray);
             correct = displayQuestion(item, answers);
+
+            if (correct)
+                yourAnswerWasCorrect();
+            else
+            {
+                yourAnswerWasWrong(answers.getLast());
+                println("Better luck next time");
+                break;
+            }
         }
     }
 
