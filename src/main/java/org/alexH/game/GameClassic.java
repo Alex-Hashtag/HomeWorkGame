@@ -9,6 +9,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Random;
+import java.util.Scanner;
 
 import static org.alexH.globalFunctions.GlobalFunctions.println;
 
@@ -20,6 +21,7 @@ public class GameClassic extends Game
         JsonArray jsonArray = getJsonArray("questions" + File.separator + category.label);
         ArrayList<String> questions = initQuestions(15, jsonArray);
         ArrayList<String> answers;
+        Scanner scanner = new Scanner(System.in);
 
         boolean correct = true;
         for (String item: questions)
@@ -28,7 +30,11 @@ public class GameClassic extends Game
             correct = displayQuestion(item, answers);
 
             if (correct)
+            {
                 yourAnswerWasCorrect();
+                println("Press enter to continue....");
+                scanner.nextLine();
+            }
             else
             {
                 yourAnswerWasWrong(answers.getLast());
