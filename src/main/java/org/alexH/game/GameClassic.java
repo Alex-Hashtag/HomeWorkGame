@@ -11,6 +11,7 @@ import java.util.Scanner;
 
 import static org.alexH.globalFunctions.GlobalFunctions.println;
 
+
 public class GameClassic extends Game
 {
     @Override
@@ -22,7 +23,7 @@ public class GameClassic extends Game
         Scanner scanner = new Scanner(System.in);
 
         boolean correct = true;
-        for (String item: questions)
+        for (String item : questions)
         {
             answers = getQuestionAnswers(item, jsonArray);
             correct = displayQuestion(item, answers);
@@ -37,7 +38,7 @@ public class GameClassic extends Game
             {
                 yourAnswerWasWrong(answers.getLast());
                 println("Better luck next time");
-                break;
+                System.exit(0);
             }
         }
 

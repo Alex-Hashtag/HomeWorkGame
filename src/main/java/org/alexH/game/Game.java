@@ -23,6 +23,7 @@ abstract public class Game
 {
     private static final String redConsole = "\u001B[31m";
     private static final String greenConsole = "\u001B[32m";
+    private static final String yellowConsole = "\u001B[33m";
     private static final String defaultConsole = "\u001B[0m";
 
     abstract public void init(Categories category) throws IOException, QuestionNotFoundException, InterruptedException;
@@ -33,7 +34,7 @@ abstract public class Game
         ArrayList<String> questions = new ArrayList<>();
         int totalQuestions = jsonArray.size();
 
-        for (int i = 0; i<numberOfQuestions; i++)
+        for (int i = 0; i < numberOfQuestions; i++)
         {
             int randomIndex = random.nextInt(totalQuestions);
             JsonObject questionObject = jsonArray.get(randomIndex).getAsJsonObject();
@@ -111,8 +112,7 @@ abstract public class Game
             case "d", "d)" -> answered = randomizedAnswers.get(3);
         }
 
-        if (answered.equals(answers.getLast())) return true;
-        return false;
+        return answered.equals(answers.getLast());
     }
 
     public void yourAnswerWasCorrect()
@@ -122,12 +122,17 @@ abstract public class Game
 
     public void yourAnswerWasWrong(String correctAnswer)
     {
-        println(redConsole + "I'm sorry :( You answer was wrong, the correct answer was \"" + correctAnswer + "\" you can no longer play the game"  + defaultConsole);
+        println(redConsole + "I'm sorry :( You answer was wrong, the correct answer was \"" + correctAnswer + "\" you can no longer play the game" + defaultConsole);
     }
 
     public void youWon()
     {
         println(greenConsole + "Congratulations, you won! Your prize is that you can now play again!" + defaultConsole);
+    }
+
+    public void printScore(int score)
+    {
+        println(yellowConsole + "You ended with a score of " + score + " points" + defaultConsole);
     }
 
 }

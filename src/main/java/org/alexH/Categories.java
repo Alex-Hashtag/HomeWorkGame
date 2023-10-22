@@ -8,12 +8,13 @@ public enum Categories
     GEOGRAPHY("Geography.json"),
     HISTORY("History.json"),
     POP_CULTURE("Pop_Culture.json"),
-    SCIENCE("Science.json");
+    SCIENCE("Science.json"),
+    ALL("Combined.json");
 
 
     public final String label;
 
-    private Categories(String label)
+    Categories(String label)
     {
         this.label = label;
     }
@@ -29,6 +30,7 @@ public enum Categories
             case 5 -> HISTORY;
             case 6 -> POP_CULTURE;
             case 7 -> SCIENCE;
+            case 8 -> ALL;
             default -> throw new IllegalStateException("Unexpected value: " + index);
         };
     }

@@ -7,17 +7,17 @@ public class GlobalFunctions
         for (int i = 0; i < 20; i++) println("");
     }
 
-    public static void print (String args)
+    public static void print(String args)
     {
         System.out.print(args);
     }
 
-    public static void println (String args)
+    public static void println(String args)
     {
         System.out.println(args);
     }
 
-    public static void println ()
+    public static void println()
     {
         System.out.println();
     }

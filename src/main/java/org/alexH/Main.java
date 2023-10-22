@@ -1,17 +1,10 @@
 package org.alexH;
 
 import org.alexH.exceptions.QuestionNotFoundException;
-import org.jline.reader.LineReader;
-import org.jline.reader.LineReaderBuilder;
-import org.jline.terminal.Terminal;
-import org.jline.terminal.TerminalBuilder;
-import org.jline.keymap.BindingReader;
 
-import java.awt.event.KeyEvent;
-import java.io.Console;
 import java.io.IOException;
 import java.util.Scanner;
-import static java.lang.System.*;
+
 import static org.alexH.globalFunctions.GlobalFunctions.println;
 
 
