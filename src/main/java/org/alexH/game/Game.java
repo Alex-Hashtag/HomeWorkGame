@@ -12,6 +12,7 @@ import java.io.IOException;
 import java.io.Reader;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Random;
 import java.util.Scanner;
 
 import static org.alexH.globalFunctions.GlobalFunctions.println;
@@ -24,9 +25,28 @@ abstract public class Game
     private static final String greenConsole = "\u001B[32m";
     private static final String defaultConsole = "\u001B[0m";
 
-    abstract public void start(Categories category) throws IOException, QuestionNotFoundException, InterruptedException;
+    abstract public void init(Categories category) throws IOException, QuestionNotFoundException, InterruptedException;
 
-    abstract public ArrayList<String> initQuestions(int numberOfQuestions, JsonArray jsonArray);
+    public ArrayList<String> initQuestions(int numberOfQuestions, JsonArray jsonArray)
+    {
+        Random random = new Random();
+        ArrayList<String> questions = new ArrayList<>();
+        int totalQuestions = jsonArray.size();
+
+        for (int i = 0; i<numberOfQuestions; i++)
+        {
+            int randomIndex = random.nextInt(totalQuestions);
+            JsonObject questionObject = jsonArray.get(randomIndex).getAsJsonObject();
+            String questionString = questionObject.get("question").getAsString();
+            if (!questions.contains(questionString))
+                questions.add(questionString);
+            else
+                i--;
+
+        }
+
+        return questions;
+    }
 
     public JsonArray getJsonArray(String path) throws FileNotFoundException
     {
@@ -60,7 +80,7 @@ abstract public class Game
 
     public boolean displayQuestion(String question, ArrayList<String> answers) throws IOException, InterruptedException
     {
-        ///new ProcessBuilder("cmd", "/c", "cls").inheritIO().start().waitFor();
+
         scrollDown();
 
         ArrayList<String> randomizedAnswers = new ArrayList<>();
@@ -105,5 +125,9 @@ abstract public class Game
         println(redConsole + "I'm sorry :( You answer was wrong, the correct answer was \"" + correctAnswer + "\" you can no longer play the game"  + defaultConsole);
     }
 
+    public void youWon()
+    {
+        println(greenConsole + "Congratulations, you won! Your prize is that you can now play again!" + defaultConsole);
+    }
 
 }

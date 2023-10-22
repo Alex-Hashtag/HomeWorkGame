@@ -11,13 +11,13 @@ import java.util.Scanner;
 
 import static org.alexH.globalFunctions.GlobalFunctions.println;
 
-public class GameClassic extends Game
+public class GameShowdown extends Game
 {
     @Override
     public void init(Categories category) throws IOException, QuestionNotFoundException, InterruptedException
     {
         JsonArray jsonArray = getJsonArray("questions" + File.separator + category.label);
-        ArrayList<String> questions = initQuestions(15, jsonArray);
+        ArrayList<String> questions = initQuestions(100, jsonArray);
         ArrayList<String> answers;
         Scanner scanner = new Scanner(System.in);
 

@@ -30,7 +30,7 @@ public class TitleScreen
 
         Game game = new GameClassic();
 
-        game.start(Categories.getCategoryByIndex(selected));
+        game.init(Categories.getCategoryByIndex(selected));
 
 
     }
