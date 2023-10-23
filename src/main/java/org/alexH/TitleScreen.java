@@ -10,6 +10,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 import static org.alexH.globalFunctions.GlobalFunctions.println;
+import static org.alexH.globalFunctions.GlobalFunctions.scrollDown;
 
 
 public class TitleScreen
@@ -25,6 +26,7 @@ public class TitleScreen
         Scanner scanner = new Scanner(System.in);
 
         Game game = printGameModes(scanner);
+        scrollDown();
 
         printOptions();
 
